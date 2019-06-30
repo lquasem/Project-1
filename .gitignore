@@ -1,2 +1,4 @@
 api_keys.py
 .ipynb_checkpoints/
+__pycache__/
+restaurant_data.csv
