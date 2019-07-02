@@ -15,6 +15,7 @@ RESOURCES
 JUPYTER WORKBOOKS
 * city_calls.ipynb - Makes Yelp API calls by city
 * city_calls_rating.ipynb - Same as city_calls.ipynb but sorts queries by rating when making calls
+* coord_calls.ipynb - Makes Yelp API calls by coordinates
 * coordinates_grid.ipynb - Outputs list of coordinates to make a grid using cities.csv as input
 
 
