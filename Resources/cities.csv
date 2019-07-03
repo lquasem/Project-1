@@ -1,101 +1,101 @@
-Alameda,Alameda,"73,812",10.61
-Albany,Alameda,"18,539",1.79
-American Canyon,Napa,"19,454",4.84
-Antioch,Contra Costa,"102,372",28.35
-Atherton,San Mateo,"6,914",5.02
-Belmont,San Mateo,"25,835",4.62
-Belvedere,Marin,"2,068",0.52
-Benicia,Solano,"26,997",12.93
-Berkeley,Alameda,"112,580",10.47
-Brentwood,Contra Costa,"51,481",14.79
-Brisbane,San Mateo,"4,282",3.1
-Burlingame,San Mateo,"28,806",4.41
-Calistoga,Napa,"5,155",2.6
-Campbell,Santa Clara,"39,349",5.8
-Clayton,Contra Costa,"10,897",3.84
-Cloverdale,Sonoma,"8,618",2.65
-Colma,San Mateo,"1,792",1.91
-Concord,Contra Costa,"122,067",30.55
-Corte Madera,Marin,"9,253",3.16
-Cotati,Sonoma,"7,265",1.88
-Cupertino,Santa Clara,"58,302",11.26
-Daly City,San Mateo,"101,123",7.66
-Danville,Contra Costa,"42,039",18.03
-Dixon,Solano,"18,351",7
-Dublin,Alameda,"46,036",14.91
-East Palo Alto,San Mateo,"28,155",2.51
-El Cerrito,Contra Costa,"23,549",3.69
-Emeryville,Alameda,"10,080",1.25
-Fairfax,Marin,"7,441",2.2
-Fairfield,Solano,"105,321",37.39
-Foster City,San Mateo,"30,567",3.76
-Fremont,Alameda,"214,089",77.46
-Gilroy,Santa Clara,"48,821",16.15
-Half Moon Bay,San Mateo,"11,324",6.42
-Hayward,Alameda,"144,186",45.32
-Healdsburg,Sonoma,"11,254",4.46
-Hercules,Contra Costa,"24,060",6.21
-Hillsborough,San Mateo,"10,825",6.19
-Lafayette,Contra Costa,"23,893",15.22
-Larkspur,Marin,"11,926",3.03
-Livermore,Alameda,"80,968",25.17
-Los Altos,Santa Clara,"28,976",6.49
-Los Altos Hills,Santa Clara,"7,922",8.8
-Los Gatos,Santa Clara,"29,413",11.08
-Martinez,Contra Costa,"35,824",12.13
-Menlo Park,San Mateo,"32,026",9.79
-Mill Valley,Marin,"13,903",4.76
-Millbrae,San Mateo,"21,532",3.25
-Milpitas,Santa Clara,"66,790",13.59
-Monte Sereno,Santa Clara,"3,341",1.62
-Moraga,Contra Costa,"16,016",9.43
-Morgan Hill,Santa Clara,"37,882",12.88
-Mountain View,Santa Clara,"74,066",12
-Napa,Napa,"76,915",17.84
-Newark,Alameda,"42,573",13.87
-Novato,Marin,"51,904",27.44
-Oakland,Alameda,"390,724",55.79
-Oakley,Contra Costa,"35,432",15.85
-Orinda,Contra Costa,"17,643",12.68
-Pacifica,San Mateo,"37,234",12.66
-Palo Alto,Santa Clara,"64,403",23.88
-Petaluma,Sonoma,"57,941",14.38
-Piedmont,Alameda,"10,667",1.68
-Pinole,Contra Costa,"18,390",5.32
-Pittsburg,Contra Costa,"63,264",17.22
-Pleasant Hill,Contra Costa,"33,152",7.07
-Pleasanton,Alameda,"70,285",24.11
-Portola Valley,San Mateo,"4,353",9.09
-Redwood City,San Mateo,"76,815",19.42
-Richmond,Contra Costa,"103,701",30.07
-Rio Vista,Solano,"7,360",6.69
-Rohnert Park,Sonoma,"40,971",7
-Ross,Marin,"2,415",1.56
-St. Helena,Napa,"5,814",4.99
-San Anselmo,Marin,"12,336",2.68
-San Bruno,San Mateo,"41,114",5.48
-San Carlos,San Mateo,"28,406",5.54
-San Francisco,San Francisco,"805,235",46.87
-San Jose,Santa Clara,"945,942",176.53
-San Leandro,Alameda,"84,950",13.34
-San Mateo,San Mateo,"97,207",12.13
-San Pablo,Contra Costa,"29,139",2.63
-San Rafael,Marin,"57,713",16.47
-San Ramon,Contra Costa,"72,148",18.06
-Santa Clara,Santa Clara,"116,468",18.41
-Santa Rosa,Sonoma,"167,815",41.29
-Saratoga,Santa Clara,"29,926",12.38
-Sausalito,Marin,"7,061",1.77
-Sebastopol,Sonoma,"7,379",1.85
-Sonoma,Sonoma,"10,648",2.74
-South San Francisco,San Mateo,"63,632",9.14
-Suisun City,Solano,"28,111",4.11
-Sunnyvale,Santa Clara,"140,081",21.99
-Tiburon,Marin,"8,962",4.43
-Union City,Alameda,"69,516",19.47
-Vacaville,Solano,"92,428",28.37
-Vallejo,Solano,"115,942",30.67
-Walnut Creek,Contra Costa,"64,173",19.76
-Windsor,Sonoma,"26,801",7.27
-Woodside,San Mateo,"5,287",11.73
-Yountville,Napa,"2,933",1.53
+Alameda,Alameda,"73,812",10.61,5.305
+Albany,Alameda,"18,539",1.79,0.895
+American Canyon,Napa,"19,454",4.84,2.42
+Antioch,Contra Costa,"102,372",28.35,14.175
+Atherton,San Mateo,"6,914",5.02,2.51
+Belmont,San Mateo,"25,835",4.62,2.31
+Belvedere,Marin,"2,068",0.52,0.26
+Benicia,Solano,"26,997",12.93,6.465
+Berkeley,Alameda,"112,580",10.47,5.235
+Brentwood,Contra Costa,"51,481",14.79,7.395
+Brisbane,San Mateo,"4,282",3.1,1.55
+Burlingame,San Mateo,"28,806",4.41,2.205
+Calistoga,Napa,"5,155",2.6,1.3
+Campbell,Santa Clara,"39,349",5.8,2.9
+Clayton,Contra Costa,"10,897",3.84,1.92
+Cloverdale,Sonoma,"8,618",2.65,1.325
+Colma,San Mateo,"1,792",1.91,0.955
+Concord,Contra Costa,"122,067",30.55,15.275
+Corte Madera,Marin,"9,253",3.16,1.58
+Cotati,Sonoma,"7,265",1.88,0.94
+Cupertino,Santa Clara,"58,302",11.26,5.63
+Daly City,San Mateo,"101,123",7.66,3.83
+Danville,Contra Costa,"42,039",18.03,9.015
+Dixon,Solano,"18,351",7,3.5
+Dublin,Alameda,"46,036",14.91,7.455
+East Palo Alto,San Mateo,"28,155",2.51,1.255
+El Cerrito,Contra Costa,"23,549",3.69,1.845
+Emeryville,Alameda,"10,080",1.25,0.625
+Fairfax,Marin,"7,441",2.2,1.1
+Fairfield,Solano,"105,321",37.39,18.695
+Foster City,San Mateo,"30,567",3.76,1.88
+Fremont,Alameda,"214,089",77.46,38.73
+Gilroy,Santa Clara,"48,821",16.15,8.075
+Half Moon Bay,San Mateo,"11,324",6.42,3.21
+Hayward,Alameda,"144,186",45.32,22.66
+Healdsburg,Sonoma,"11,254",4.46,2.23
+Hercules,Contra Costa,"24,060",6.21,3.105
+Hillsborough,San Mateo,"10,825",6.19,3.095
+Lafayette,Contra Costa,"23,893",15.22,7.61
+Larkspur,Marin,"11,926",3.03,1.515
+Livermore,Alameda,"80,968",25.17,12.585
+Los Altos,Santa Clara,"28,976",6.49,3.245
+Los Altos Hills,Santa Clara,"7,922",8.8,4.4
+Los Gatos,Santa Clara,"29,413",11.08,5.54
+Martinez,Contra Costa,"35,824",12.13,6.065
+Menlo Park,San Mateo,"32,026",9.79,4.895
+Mill Valley,Marin,"13,903",4.76,2.38
+Millbrae,San Mateo,"21,532",3.25,1.625
+Milpitas,Santa Clara,"66,790",13.59,6.795
+Monte Sereno,Santa Clara,"3,341",1.62,0.81
+Moraga,Contra Costa,"16,016",9.43,4.715
+Morgan Hill,Santa Clara,"37,882",12.88,6.44
+Mountain View,Santa Clara,"74,066",12,6
+Napa,Napa,"76,915",17.84,8.92
+Newark,Alameda,"42,573",13.87,6.935
+Novato,Marin,"51,904",27.44,13.72
+Oakland,Alameda,"390,724",55.79,27.895
+Oakley,Contra Costa,"35,432",15.85,7.925
+Orinda,Contra Costa,"17,643",12.68,6.34
+Pacifica,San Mateo,"37,234",12.66,6.33
+Palo Alto,Santa Clara,"64,403",23.88,11.94
+Petaluma,Sonoma,"57,941",14.38,7.19
+Piedmont,Alameda,"10,667",1.68,0.84
+Pinole,Contra Costa,"18,390",5.32,2.66
+Pittsburg,Contra Costa,"63,264",17.22,8.61
+Pleasant Hill,Contra Costa,"33,152",7.07,3.535
+Pleasanton,Alameda,"70,285",24.11,12.055
+Portola Valley,San Mateo,"4,353",9.09,4.545
+Redwood City,San Mateo,"76,815",19.42,9.71
+Richmond,Contra Costa,"103,701",30.07,15.035
+Rio Vista,Solano,"7,360",6.69,3.345
+Rohnert Park,Sonoma,"40,971",7,3.5
+Ross,Marin,"2,415",1.56,0.78
+St. Helena,Napa,"5,814",4.99,2.495
+San Anselmo,Marin,"12,336",2.68,1.34
+San Bruno,San Mateo,"41,114",5.48,2.74
+San Carlos,San Mateo,"28,406",5.54,2.77
+San Francisco,San Francisco,"805,235",46.87,23.435
+San Jose,Santa Clara,"945,942",176.53,88.265
+San Leandro,Alameda,"84,950",13.34,6.67
+San Mateo,San Mateo,"97,207",12.13,6.065
+San Pablo,Contra Costa,"29,139",2.63,1.315
+San Rafael,Marin,"57,713",16.47,8.235
+San Ramon,Contra Costa,"72,148",18.06,9.03
+Santa Clara,Santa Clara,"116,468",18.41,9.205
+Santa Rosa,Sonoma,"167,815",41.29,20.645
+Saratoga,Santa Clara,"29,926",12.38,6.19
+Sausalito,Marin,"7,061",1.77,0.885
+Sebastopol,Sonoma,"7,379",1.85,0.925
+Sonoma,Sonoma,"10,648",2.74,1.37
+South San Francisco,San Mateo,"63,632",9.14,4.57
+Suisun City,Solano,"28,111",4.11,2.055
+Sunnyvale,Santa Clara,"140,081",21.99,10.995
+Tiburon,Marin,"8,962",4.43,2.215
+Union City,Alameda,"69,516",19.47,9.735
+Vacaville,Solano,"92,428",28.37,14.185
+Vallejo,Solano,"115,942",30.67,15.335
+Walnut Creek,Contra Costa,"64,173",19.76,9.88
+Windsor,Sonoma,"26,801",7.27,3.635
+Woodside,San Mateo,"5,287",11.73,5.865
+Yountville,Napa,"2,933",1.53,0.765
