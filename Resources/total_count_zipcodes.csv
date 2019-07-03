@@ -1,0 +1,396 @@
+,Zip,City,County,Total # of Restaurants
+0,94501,Alameda ,Alameda,7800
+1,94502,Alameda ,Alameda,342
+2,94706,Albany ,Alameda,719
+3,94707,Albany ,Alameda,635
+4,94710,Albany ,Alameda,2300
+5,94701,Berkeley ,Alameda,1900
+6,94702,Berkeley ,Alameda,980
+7,94703,Berkeley ,Alameda,973
+8,94704,Berkeley ,Alameda,941
+9,94705,Berkeley ,Alameda,1800
+10,94706,Berkeley ,Alameda,719
+11,94707,Berkeley ,Alameda,635
+12,94708,Berkeley ,Alameda,1300
+13,94709,Berkeley ,Alameda,403
+14,94710,Berkeley ,Alameda,2300
+15,94712,Berkeley ,Alameda,88
+16,94720,Berkeley ,Alameda,396
+17,94568,Dublin ,Alameda,1600
+18,94608,Emeryville ,Alameda,1300
+19,94662,Emeryville ,Alameda,12
+20,94536,Fremont ,Alameda,2800
+21,94537,Fremont ,Alameda,44
+22,94538,Fremont ,Alameda,3200
+23,94539,Fremont ,Alameda,2700
+24,94555,Fremont ,Alameda,3300
+25,94540,Hayward ,Alameda,93
+26,94541,Hayward ,Alameda,883
+27,94542,Hayward ,Alameda,796
+28,94543,Hayward ,Alameda,939
+29,94544,Hayward ,Alameda,865
+30,94545,Hayward ,Alameda,2900
+31,94546,Hayward ,Alameda,3500
+32,94552,Hayward ,Alameda,1000
+33,94557,Hayward ,Alameda,18
+34,94550,Livermore ,Alameda,5000
+35,94551,Livermore ,Alameda,332
+36,94560,Newark ,Alameda,3300
+37,94601,Oakland ,Alameda,1900
+38,94602,Oakland ,Alameda,2200
+39,94603,Oakland ,Alameda,1700
+40,94604,Oakland ,Alameda,66
+41,94605,Oakland ,Alameda,1200
+42,94606,Oakland ,Alameda,1200
+43,94607,Oakland ,Alameda,2700
+44,94608,Oakland ,Alameda,1300
+45,94609,Oakland ,Alameda,1400
+46,94610,Oakland ,Alameda,1300
+47,94611,Oakland ,Alameda,5000
+48,94612,Oakland ,Alameda,1200
+49,94613,Oakland ,Alameda,82
+50,94614,Oakland ,Alameda,7
+51,94615,Oakland ,Alameda,275
+52,94616,Oakland ,Alameda,1400
+53,94617,Oakland ,Alameda,66
+54,94618,Oakland ,Alameda,1100
+55,94619,Oakland ,Alameda,3600
+56,94620,Oakland ,Alameda,7100
+57,94621,Oakland ,Alameda,1600
+58,94622,Oakland ,Alameda,36
+59,94623,Oakland ,Alameda,27
+60,94624,Oakland ,Alameda,27
+61,94649,Oakland ,Alameda,95
+62,94659,Oakland ,Alameda,49
+63,94660,Oakland ,Alameda,9
+64,94661,Oakland ,Alameda,25
+65,94666,Oakland ,Alameda,23
+66,94602,Piedmont ,Alameda,2200
+67,94610,Piedmont ,Alameda,1300
+68,94611,Piedmont ,Alameda,5000
+69,94618,Piedmont ,Alameda,1100
+70,94620,Piedmont ,Alameda,7100
+71,94566,Pleasanton ,Alameda,1500
+72,94568,Pleasanton ,Alameda,1600
+73,94588,Pleasanton ,Alameda,726
+74,94577,San Leandro ,Alameda,1200
+75,94578,San Leandro ,Alameda,1100
+76,94579,San Leandro ,Alameda,1000
+77,94587,Union City ,Alameda,2400
+78,94509,Antioch ,Contra Costa,595
+79,94531,Antioch ,Contra Costa,373
+80,94513,Brentwood ,Contra Costa,315
+81,94517,Clayton ,Contra Costa,265
+82,94518,Concord ,Contra Costa,788
+83,94519,Concord ,Contra Costa,598
+84,94520,Concord ,Contra Costa,1200
+85,94521,Concord ,Contra Costa,1300
+86,94522,Concord ,Contra Costa,10
+87,94523,Concord ,Contra Costa,781
+88,94524,Concord ,Contra Costa,7
+89,94527,Concord ,Contra Costa,7
+90,94529,Concord ,Contra Costa,6
+91,94506,Danville ,Contra Costa,1700
+92,94526,Danville ,Contra Costa,2200
+93,94530,El Cerrito ,Contra Costa,1200
+94,94547,Hercules ,Contra Costa,408
+95,94549,Lafayette ,Contra Costa,3500
+96,94553,Martinez ,Contra Costa,810
+97,94556,Moraga ,Contra Costa,476
+98,94570,Moraga ,Contra Costa,15
+99,94575,Moraga ,Contra Costa,57
+100,94561,Oakley ,Contra Costa,475
+101,94563,Orinda ,Contra Costa,3800
+102,94564,Pinole ,Contra Costa,410
+103,94565,Pittsburg ,Contra Costa,1200
+104,94523,Pleasant Hill ,Contra Costa,781
+105,94801,Richmond ,Contra Costa,3300
+106,94802,Richmond ,Contra Costa,40
+107,94803,Richmond ,Contra Costa,690
+108,94804,Richmond ,Contra Costa,1100
+109,94805,Richmond ,Contra Costa,317
+110,94806,Richmond ,Contra Costa,454
+111,94807,Richmond ,Contra Costa,35
+112,94808,Richmond ,Contra Costa,1000
+113,94820,Richmond ,Contra Costa,109
+114,94850,Richmond ,Contra Costa,52
+115,94803,San Pablo ,Contra Costa,690
+116,94805,San Pablo ,Contra Costa,317
+117,94806,San Pablo ,Contra Costa,454
+118,94582,San Ramon ,Contra Costa,545
+119,94583,San Ramon ,Contra Costa,1900
+120,94595,Walnut Creek ,Contra Costa,490
+121,94596,Walnut Creek ,Contra Costa,695
+122,94597,Walnut Creek ,Contra Costa,774
+123,94598,Walnut Creek ,Contra Costa,1500
+124,94920,Belvedere ,Marin,431
+125,94925,Corte Madera ,Marin,472
+126,94976,Corte Madera ,Marin,36
+127,94978,Fairfax ,Marin,14
+128,94930,Fairfax ,Marin,749
+129,94939,Larkspur ,Marin,307
+130,94977,Larkspur ,Marin,20
+131,94941,Mill Valley ,Marin,4500
+132,94942,Mill Valley ,Marin,413
+133,94945,Novato ,Marin,580
+134,94947,Novato ,Marin,602
+135,94948,Novato ,Marin,17
+136,94949,Novato ,Marin,643
+137,94998,Novato ,Marin,17
+138,94957,Ross ,Marin,265
+139,94901,San Anselmo ,Marin,1100
+140,94960,San Anselmo ,Marin,395
+141,94979,San Anselmo ,Marin,36
+142,94901,San Rafael ,Marin,1100
+143,94903,San Rafael ,Marin,650
+144,94912,San Rafael ,Marin,49
+145,94913,San Rafael ,Marin,11
+146,94915,San Rafael ,Marin,11
+147,94965,Sausalito ,Marin,4900
+148,94966,Sausalito ,Marin,48
+149,94920,Tiburon ,Marin,431
+150,94503,American Canyon Napa,Napa,760
+151,94589,American Canyon,Napa,815
+152,94515,Calistoga ,Napa,37
+153,94558,Napa ,Napa,13
+154,94559,Napa ,Napa,345
+155,94581,Napa ,Napa,11
+156,94574,St. Helena ,Napa,49
+157,94599,Yountville ,Napa,51
+158,94102,San Francisco ,San Francisco,830
+159,94103,San Francisco ,San Francisco,2400
+160,94104,San Francisco ,San Francisco,523
+161,94105,San Francisco ,San Francisco,833
+162,94107,San Francisco ,San Francisco,3200
+163,94108,San Francisco ,San Francisco,419
+164,94109,San Francisco ,San Francisco,1900
+165,94110,San Francisco ,San Francisco,794
+166,94111,San Francisco ,San Francisco,758
+167,94112,San Francisco ,San Francisco,1100
+168,94114,San Francisco ,San Francisco,977
+169,94115,San Francisco ,San Francisco,181
+170,94116,San Francisco ,San Francisco,289
+171,94117,San Francisco ,San Francisco,724
+172,94118,San Francisco ,San Francisco,566
+173,94119,San Francisco ,San Francisco,23
+174,94120,San Francisco ,San Francisco,36
+175,94121,San Francisco ,San Francisco,240
+176,94122,San Francisco ,San Francisco,1100
+177,94123,San Francisco ,San Francisco,805
+178,94124,San Francisco ,San Francisco,879
+179,94125,San Francisco ,San Francisco,11
+180,94126,San Francisco ,San Francisco,10
+181,94127,San Francisco ,San Francisco,290
+182,94128,San Francisco ,San Francisco,517
+183,94129,San Francisco ,San Francisco,266
+184,94130,San Francisco ,San Francisco,7
+185,94131,San Francisco ,San Francisco,608
+186,94132,San Francisco ,San Francisco,193
+187,94133,San Francisco ,San Francisco,534
+188,94134,San Francisco ,San Francisco,208
+189,94137,San Francisco ,San Francisco,37
+190,94139,San Francisco ,San Francisco,11
+191,94140,San Francisco ,San Francisco,35
+192,94141,San Francisco ,San Francisco,28
+193,94142,San Francisco ,San Francisco,20
+194,94143,San Francisco ,San Francisco,3700
+195,94144,San Francisco ,San Francisco,11
+196,94145,San Francisco ,San Francisco,37
+197,94146,San Francisco ,San Francisco,11
+198,94147,San Francisco ,San Francisco,11
+199,94151,San Francisco ,San Francisco,11
+200,94158,San Francisco ,San Francisco,1100
+201,94159,San Francisco ,San Francisco,26
+202,94160,San Francisco ,San Francisco,11
+203,94161,San Francisco ,San Francisco,11
+204,94163,San Francisco ,San Francisco,11
+205,94164,San Francisco ,San Francisco,32
+206,94172,San Francisco ,San Francisco,11
+207,94177,San Francisco ,San Francisco,11
+208,94188,San Francisco ,San Francisco,36
+209,94027,Atherton ,San Mateo,989
+210,94002,Belmont ,San Mateo,960
+211,94005,Brisbane ,San Mateo,2100
+212,94010,Burlingame ,San Mateo,932
+213,94011,Burlingame ,San Mateo,1100
+214,94014,Colma ,San Mateo,2100
+215,94014,Daly City ,San Mateo,2100
+216,94015,Daly City ,San Mateo,1600
+217,94016,Daly City ,San Mateo,1700
+218,94017,Daly City ,San Mateo,10
+219,94303,East Palo Alto ,San Mateo,1000
+220,94404,Foster City ,San Mateo,901
+221,94019,Half Moon Bay ,San Mateo,174
+222,94010,Hillsborough ,San Mateo,932
+223,94025,Menlo Park ,San Mateo,3100
+224,94026,Menlo Park ,San Mateo,7
+225,94027,Menlo Park ,San Mateo,989
+226,94028,Menlo Park ,San Mateo,1800
+227,94030,Millbrae ,San Mateo,1000
+228,94044,Pacifica ,San Mateo,3200
+229,94028,Portola Valley ,San Mateo,1800
+230,94061,Redwood City ,San Mateo,934
+231,94062,Redwood City ,San Mateo,533
+232,94063,Redwood City ,San Mateo,1100
+233,94064,Redwood City ,San Mateo,6
+234,94065,Redwood City ,San Mateo,339
+235,94066,San Bruno ,San Mateo,889
+236,94070,San Carlos ,San Mateo,1000
+237,94401,San Mateo ,San Mateo,1100
+238,94402,San Mateo ,San Mateo,1000
+239,94403,San Mateo ,San Mateo,1100
+240,94404,San Mateo ,San Mateo,901
+241,94497,San Mateo ,San Mateo,1100
+242,94080,South San Francisco ,San Mateo,1300
+243,94083,South San Francisco ,San Mateo,1300
+244,94061,Woodside ,San Mateo,934
+245,94062,Woodside ,San Mateo,533
+246,95008,Campbell ,Santa Clara,2000
+247,95009,Campbell ,Santa Clara,505
+248,95011,Campbell ,Santa Clara,59
+249,95014,Cupertino ,Santa Clara,3500
+250,95015,Cupertino ,Santa Clara,1600
+251,95020,Gilroy ,Santa Clara,154
+252,95021,Gilroy ,Santa Clara,10
+253,94022,Los Altos ,Santa Clara,2700
+254,94023,Los Altos ,Santa Clara,1200
+255,94024,Los Altos ,Santa Clara,1100
+256,94022,Los Altos Hills ,Santa Clara,2700
+257,94024,Los Altos Hills ,Santa Clara,1100
+258,95030,Los Gatos ,Santa Clara,3300
+259,95031,Los Gatos ,Santa Clara,44
+260,95032,Los Gatos ,Santa Clara,3100
+261,95033,Los Gatos ,Santa Clara,574
+262,95035,Milpitas ,Santa Clara,3800
+263,95036,Milpitas ,Santa Clara,33
+264,95030,Monte Sereno ,Santa Clara,3300
+265,95037,Morgan Hill ,Santa Clara,120
+266,95038,Morgan Hill ,Santa Clara,23
+267,94035,Mountain View ,Santa Clara,367
+268,94039,Mountain View ,Santa Clara,27
+269,94040,Mountain View ,Santa Clara,1300
+270,94041,Mountain View ,Santa Clara,555
+271,94042,Mountain View ,Santa Clara,59
+272,94043,Mountain View ,Santa Clara,1200
+273,94301,Palo Alto ,Santa Clara,481
+274,94302,Palo Alto ,Santa Clara,65
+275,94303,Palo Alto ,Santa Clara,1000
+276,94304,Palo Alto ,Santa Clara,2700
+277,94305,Palo Alto ,Santa Clara,1000
+278,94306,Palo Alto ,Santa Clara,1100
+279,94309,Palo Alto ,Santa Clara,1100
+280,95002,San Jose ,Santa Clara,4500
+281,95101,San Jose ,Santa Clara,3400
+282,95103,San Jose ,Santa Clara,15
+283,95106,San Jose ,Santa Clara,4100
+284,95108,San Jose ,Santa Clara,15
+285,95109,San Jose ,Santa Clara,2800
+286,95110,San Jose ,Santa Clara,2500
+287,95111,San Jose ,Santa Clara,1500
+288,95112,San Jose ,Santa Clara,2300
+289,95113,San Jose ,Santa Clara,498
+290,95115,San Jose ,Santa Clara,15
+291,95116,San Jose ,Santa Clara,1000
+292,95117,San Jose ,Santa Clara,769
+293,95118,San Jose ,Santa Clara,1600
+294,95119,San Jose ,Santa Clara,128
+295,95120,San Jose ,Santa Clara,2300
+296,95121,San Jose ,Santa Clara,1600
+297,95122,San Jose ,Santa Clara,1900
+298,95123,San Jose ,Santa Clara,962
+299,95124,San Jose ,Santa Clara,1600
+300,95125,San Jose ,Santa Clara,2300
+301,95126,San Jose ,Santa Clara,2600
+302,95127,San Jose ,Santa Clara,3200
+303,95128,San Jose ,Santa Clara,2700
+304,95129,San Jose ,Santa Clara,1700
+305,95130,San Jose ,Santa Clara,587
+306,95131,San Jose ,Santa Clara,2200
+307,95132,San Jose ,Santa Clara,1100
+308,95133,San Jose ,Santa Clara,2000
+309,95134,San Jose ,Santa Clara,4300
+310,95135,San Jose ,Santa Clara,1700
+311,95136,San Jose ,Santa Clara,1700
+312,95138,San Jose ,Santa Clara,2100
+313,95139,San Jose ,Santa Clara,83
+314,95140,San Jose ,Santa Clara,5
+315,95141,San Jose ,Santa Clara,276
+316,95148,San Jose ,Santa Clara,868
+317,95150,San Jose ,Santa Clara,50
+318,95151,San Jose ,Santa Clara,38
+319,95152,San Jose ,Santa Clara,372
+320,95153,San Jose ,Santa Clara,43
+321,95154,San Jose ,Santa Clara,28
+322,95155,San Jose ,Santa Clara,15
+323,95156,San Jose ,Santa Clara,65
+324,95157,San Jose ,Santa Clara,6
+325,95158,San Jose ,Santa Clara,5
+326,95159,San Jose ,Santa Clara,45
+327,95160,San Jose ,Santa Clara,5
+328,95161,San Jose ,Santa Clara,7
+329,95164,San Jose ,Santa Clara,24
+330,95170,San Jose ,Santa Clara,7
+331,95172,San Jose ,Santa Clara,5
+332,95173,San Jose ,Santa Clara,3700
+333,95190,San Jose ,Santa Clara,169
+334,95191,San Jose ,Santa Clara,46
+335,95192,San Jose ,Santa Clara,9
+336,95193,San Jose ,Santa Clara,7
+337,95196,San Jose ,Santa Clara,268
+338,95050,Santa Clara ,Santa Clara,2600
+339,95051,Santa Clara ,Santa Clara,2400
+340,95052,Santa Clara ,Santa Clara,4500
+341,95053,Santa Clara ,Santa Clara,50
+342,95054,Santa Clara ,Santa Clara,2100
+343,95055,Santa Clara ,Santa Clara,12
+344,95056,Santa Clara ,Santa Clara,26
+345,95070,Saratoga ,Santa Clara,3000
+346,95071,Saratoga ,Santa Clara,5
+347,94085,Sunnyvale ,Santa Clara,1600
+348,94086,Sunnyvale ,Santa Clara,1800
+349,94087,Sunnyvale ,Santa Clara,1800
+350,94088,Sunnyvale ,Santa Clara,302
+351,94089,Sunnyvale ,Santa Clara,1400
+352,94510,Benicia ,Solano,1300
+353,95620,Dixon ,Solano,57
+354,94533,Fairfield ,Solano,480
+355,94534,Fairfield ,Solano,339
+356,94535,Fairfield ,Solano,309
+357,94571,Rio Vista ,Solano,37
+358,94534,Suisun City ,Solano,339
+359,94585,Suisun City ,Solano,196
+360,95687,Vacaville ,Solano,509
+361,95688,Vacaville ,Solano,202
+362,95696,Vacaville ,Solano,336
+363,94503,Vallejo ,Solano,760
+364,94589,Vallejo ,Solano,815
+365,94590,Vallejo ,Solano,348
+366,94591,Vallejo ,Solano,1200
+367,94592,Vallejo ,Solano,307
+368,95425,Cloverdale ,Sonoma,23
+369,94926,Cotati ,Sonoma,19
+370,94927,Cotati ,Sonoma,55
+371,94928,Cotati ,Sonoma,237
+372,94931,Cotati ,Sonoma,246
+373,95448,Healdsburg ,Sonoma,115
+374,94952,Petaluma ,Sonoma,253
+375,94953,Petaluma ,Sonoma,42
+376,94954,Petaluma ,Sonoma,297
+377,94955,Petaluma ,Sonoma,88
+378,94975,Petaluma ,Sonoma,42
+379,94999,Petaluma ,Sonoma,22
+380,94926,Rohnert Park ,Sonoma,19
+381,94927,Rohnert Park ,Sonoma,55
+382,94928,Rohnert Park ,Sonoma,237
+383,95401,Santa Rosa ,Sonoma,785
+384,95402,Santa Rosa ,Sonoma,19
+385,95403,Santa Rosa ,Sonoma,751
+386,95404,Santa Rosa ,Sonoma,462
+387,95405,Santa Rosa ,Sonoma,430
+388,95406,Santa Rosa ,Sonoma,784
+389,95407,Santa Rosa ,Sonoma,919
+390,95409,Santa Rosa ,Sonoma,731
+391,95472,Sebastopol ,Sonoma,195
+392,95473,Sebastopol ,Sonoma,5
+393,95476,Sonoma ,Sonoma,115
+394,95492,Windsor ,Sonoma,666
