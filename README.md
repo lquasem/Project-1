@@ -13,9 +13,13 @@ RESOURCES
 * General - directory for storing assignment directions and misc items
 
 JUPYTER WORKBOOKS
-* city_calls.ipynb - Makes Yelp API calls by city
-* city_calls_rating.ipynb - Same as city_calls.ipynb but sorts queries by rating when making calls
+* calls_by_city.ipynb - Makes Yelp API calls by city
+* calls_by_city_ratings.ipynb - Same as city_calls.ipynb but sorts queries by rating when making calls
 * coordinates_grid.ipynb - Outputs list of coordinates to make a grid using cities.csv as input
+* calls_by_coord.ipynb - Makes Yelp API calls by coordinate
+* calls_by_coord_ratings.ipynb - Same as coord_calls.ipynb but sorts queries by rating when making calls
+* calls_by_zip.ipynb - Makes Yelp API calls by zip code, only returns first 50 results for each zip code
+* plot_coord.ipynb - Creates scatter plot using lat/lng and total restaurants at each coordinate pair
 
 
 ### METHODOLOGY
