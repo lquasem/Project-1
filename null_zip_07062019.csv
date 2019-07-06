@@ -1,0 +1,1424 @@
+,Name,Lat_Restaurant,Lng_Restaurant,Address,Zip,Rating,# of Reviews,Price Level,Category,Yelp ID,City,County
+11,Brick Oven Pizza,38.82500431,-122.722054,16295 Hwy 175,95426,3.5,36,$$,Pizza,zZEOUAq-9jWHEXG-DSLZsg,Cobb,Lake County
+13,Commons Farm Kitchen & Bar,38.82751682,-122.1916303,7624 CA-16,95637,4.5,10,unavailable,Desserts,Tw0ulLjwqs34f06ZPPBnIA,Hidden Valley Lake,Lake County
+26,Smoked Out BBQ Joint,38.78993,-122.56798,18675 Guenoc Ln,95467,5,11,unavailable,Food Trucks,zWUmav2eldv-xNebFW6GdA,Hidden Valley Lake,Lake County
+27,Si Senor Mexican Restaurant,38.7953217,-122.5571324,18990 Coyote Valley Rd,95467,4,36,$$,Mexican,uUGyY-4a2mftq3eZ5NWqaw,Hidden Valley Lake,Lake County
+28,Stone Fire Pizza,38.79458,-122.5561,18983 Hartmann Rd,95467,3.5,63,$$,Pizza,9EGaRUZQnEleInYnY7JjTQ,Hidden Valley Lake,Lake County
+29,Greenview Restaurant,38.79611007,-122.5557914,19210 Hartmann Rd,95467,3.5,37,$$,American (Traditional),fmsBtAGjka2PmI-i3-MIug,Hidden Valley Lake,Lake County
+30,Crave Coffee House,38.79194275,-122.5566624,18908 Hartmann Rd,95467,4,1,unavailable,Restaurants,2SvpmZm4iCC5F3qUu0ZfbA,Hidden Valley Lake,Lake County
+31,Tnt's Frozen Yogurt & Deli,38.79458,-122.5561,18983 Hartmann Rd,95467,5,1,unavailable,Delis,frJoI4IuQQRySMEKv_Ztrg,Hidden Valley Lake,Lake County
+32,Subway,38.79458,-122.5561,18983 Hartmann Rd,95467,3,8,$,Sandwiches,QJjBLrqaFqdgj_Bnzj4DJQ,Hidden Valley Lake,Lake County
+33,Zamora Mini Market,38.79465937,-121.8782797,9920 County Rd 99W,95698,3.5,19,$,Gas Stations,ztXzShIWtjRuqQmDEltBdg,Zamora ,Yolo County
+34,Las Maracas Mexican Restaurant,38.79846,-121.72153,9540 Locust St,95776,4.5,20,$,Mexican,lYrDm8vSFJpLgYNjfd7EPw,Woodland,Yolo County
+35,Wayside Market,38.79605103,-121.7229004,915 Locust St,95645,2.5,2,$,Grocery,jQEVq9T96CeuaXluUpfyxQ,Knights Landing,Yolo County/ Sutter County
+36,Buddha Thai Restaurant,38.7543068,-122.6147749,21037 Calistoga Rd,95461,4.5,93,$$,Thai,vNspqciLSh22oTD-P2yDTg,Middletown ,Lake County
+37,Mount St Helena Brewing,38.75199509,-122.6158142,21167 Calistoga Rd,95461,3.5,48,$$,Breweries,jI7KjPdK3M6OnQF6XADllg,Middletown ,Lake County
+38,La Parrilla Mexican Grill,38.74728913,-122.6194918,21389 Stewart St,95461,4.5,80,$$,Mexican,RHJEH_jsaBpLOqlLBg6BEw,Middletown ,Lake County
+39,Rosales Market,38.75177002,-122.615036,21178 Calistoga Rd,95461,4.5,21,$,Grocery,uVDcF-YKuKwtT6ia-4fJtA,Middletown ,Lake County
+40,Perry's Delicatessen and Catering,38.74822235,-122.6163483,21308 Calistoga,95461,4,63,$,Caterers,RP6K-zNK9PTP0VJl58PUmQ,Middletown ,Lake County
+41,Cowpoke Cafe,38.752876,-122.614532,21118 Calistoga Rd,95461,4,114,$$,Breakfast & Brunch,bav9AH6FnN3Hmb6-iB46gg,Middletown ,Lake County
+42,Su Garden,38.74877699,-122.6162594,21308 Calistoga Rd,95461,3.5,26,unavailable,Chinese,YtcCtP6IQoYnpRAfaQNCyg,Middletown ,Lake County
+43,Jolly Kone,38.75494389,-122.612016,21010 State Hwy 29,95461,4,44,$,Hot Dogs,wdK68QhevBGWtmPbQ3xH1Q,Middletown ,Lake County
+44,Beulah's Kitchen,38.752802,-122.615244,21147 Highway 29,95461,4,51,$,Breakfast & Brunch,AryswSxbgLIw240tYFoH-A,Middletown ,Lake County
+45,Manzanita Restaurant,38.73276547,-122.6247429,22223 Hwy 29,95461,5,1,unavailable,Breakfast & Brunch,urTr5IB3YfZ0keA2-39cbg,Middletown ,Lake County
+46,C2 Steak & Seafood,38.734297,-122.1429269,14455 Hwy 16,95606,4.5,64,$$$,Steakhouses,YyVSujNZAn3PO5KHJKl9yw,Brooks ,Yolo County
+47,Chang Shou,38.73462,-122.14042,Cache Creek Casino & Resort,95606,3.5,57,$$,Chinese,TerLx55H-WaHVxVj1kr6_Q,Brooks ,Yolo County
+48,Harvest Buffet,38.73462,-122.14042,14455 Hwy 16,95606,3,129,$$,Buffets,iYLGEUxownGaaMIsBGSwuA,Brooks ,Yolo County
+49,Bahtenta Grill,38.73648264,-122.1364521,Yocha DeHe Golf Club,95607,4,2,unavailable,American (New),CgwN4W0_WzeSThKlnt5M8w,Capay ,Yolo County
+50,Canyon Cafe,38.73462,-122.14042,Cache Creek Casino Resort,95606,3,49,$$,American (Traditional),uj6exrcBXxTlWctd6v5VUw,Brooks ,Yolo County
+51,The Sports Page Pub & Grill,38.73462,-122.14042,14455 Hwy 16,95606,4,21,$$,Sports Bars,H0BTPeaQjiePCXe8gli9Yg,Brooks ,Yolo County
+52,Kung Fu Fat's Asia Cafe and Noodle House,38.73462,-122.14042,14455 Hwy 16,95606,3.5,12,$$,Chinese,hnAbkQWQ0KMovcKtbBKBkw,Brooks ,Yolo County
+53,Asian Kitchen,38.73532486,-122.1408844,14455 Hwy 16,95606,3,23,$,Asian Fusion,GLxxQvJoUjvWSkEUpUfVlg,Brooks ,Yolo County
+54,Loco Express,38.73462,-122.14042,Cache Creek Casino Resort,95606,2.5,14,$$,Mexican,z8Pk9un-E0PPNqFeGJGI8A,Brooks ,Yolo County
+55,The Deli,38.73462,-122.14042,14455 Hwy 16,95606,3,8,$,American (Traditional),qibkrAQ9zbQ1M-w6b-xmpg,Brooks ,Yolo County
+56,Casa Ruiz,38.71712,-121.76749,15190 State Hwy 113,95776,5,6,unavailable,Mexican,x995VZzReY8yiH0lFluf8Q,Woodland ,Yolo County
+57,Catelli's,38.7066059,-122.9045721,21047 Geyserville Ave,95441,4.5,617,$$,American (New),Wj8k1Rq86UywXZko-aalaA,Geyserville,Sonoma County
+58,Diavola Pizzeria & Salumeria,38.7063593,-122.9042016,21021 Geyserville Ave,95441,4,688,$$,Italian,gMwxfXT_QPTYicFfdQeeWg,Geyserville,Sonoma County
+59,Wero,38.715448,-122.923079,22281 Chianti Rd,95441,4.5,48,$$,Tex-Mex,AEQj8nCsfq8E7v59cMiWQg,Geyserville,Sonoma County
+60,Geyserville Grille,38.713723,-122.91497,21712 Geyserville Ave,95441,3.5,121,$$,American (Traditional),00gDhXc0WHN-XqeUWv_Iog,Geyserville,Sonoma County
+61,"Rustic, Francis's Favorites",38.68024,-122.88752,300 Via Archimedes,95441,4,668,$$,Italian,jEEp2Nimv9C7YeqwrNoSGQ,Geyserville,Sonoma County
+62,Krispy Krunchy Chicken,38.70677,-122.90503,21079 Geyserville Ave,95441,4,4,unavailable,Chicken Shop,KSvLI-yFoKVPEUr_4exOOA,Geyserville,Sonoma County
+63,Lonchera Los Compas,38.71333,-122.91968,Highway 128 Exit,95441,4,3,$,Food Stands,ZS9o3qiOmEcVXCQMm_nOGQ,Geyserville,Sonoma County
+64,Quail Run Buffet,38.699,-122.8622197,River Rock Casino,95441,3.5,26,$$,Buffets,aigMv_ngml92jA7XcCnHbw,Geyserville,Sonoma County
+65,Center Stage Bar and Grill,38.703331,-122.859624,3250 Hwy 128 E,95441,3,8,unavailable,American (New),xmn7JsaU1Ki3d19ft41mIw,Geyserville,Sonoma County
+66,Road Trip Bar & Grill,38.70699,-122.04858,24989 State Hwy 16,95607,4.5,98,$$,Bars,ZGIlBQFv2FFaJEqepm2PvQ,Capay ,Yolo County
+67,Hog Canyon Cafe,38.69506607,-122.0158028,16811 Yolo Ave,95627,4,14,unavailable,Cafes,5uR8jwf_YKxElI5HbTSy1A,Esparto ,Yolo County
+68,Tacos Jesus Maria,38.69546127,-122.0181503,16814 Fremont St,95627,3.5,10,$,Food Trucks,IDe3LKlKlgv0toYl_7Bq1w,Esparto ,Yolo County
+69,Wygold Cafe,38.694885,-122.016419,16876 Yolo Ave,95627,4,1,unavailable,Breakfast & Brunch,umF8GpPxkQJMgRvXk5EF7Q,Madison ,Yolo County
+70,La Plazita Taqueria,38.68132853,-121.967691,17780 County Rd 89,95653,4.5,37,$,Mexican,OVK3-KfOxNG5hNW8riDqKg,Madison ,Yolo County
+71,Mojo's Kitchen428,38.6767368,-121.7732697,428 1st St,95695,4,360,$$,American (New),Vzu6AYsu3Iof5vgx2bqRdQ,Woodland,Yolo County
+72,Morgan's On Main,38.67719,-121.77242,614 Main St,95695,4,241,$$,American (New),6fIsj_Suk_nn8YcDhth5xw,Woodland,Yolo County
+73,Doggeros,38.67634,-121.77273,437 1st St,95695,4,48,unavailable,Burgers,x4cq08Vk2gRcZ-IrKSsWVQ,Woodland,Yolo County
+74,Guinevere's Cafe & Bistro,38.6781999,-121.77166,317 2nd St,95695,4,163,$$,Italian,OBMLQekQjYUIBF2HNFMa_A,Woodland,Yolo County
+75,Pete's Restaurant & Brewhouse,38.67702,-121.78038,164 Main St,95695,4,270,$$,Pizza,lHSD1USMKnhN8yiWL8ZWDQ,Woodland,Yolo County
+76,Pupuseria La Chicana,38.67802229,-121.7824388,25 Purity Plz,95695,4.5,300,$,Mexican,mPKCC4DfGetWIEH83lhW3A,Woodland,Yolo County
+77,Las Brasas Tacos & Salsas,38.6775927,-121.7734408,537 Main St,95695,4,271,$,Tacos,GzQSi5vwAHtkVUEGTGu_bQ,Woodland,Yolo County
+78,The Burger Saloon,38.677784,-121.772942,601 Main St,95695,4,447,$$,Burgers,#NAME?,Woodland,Yolo County
+79,Father Paddy's,38.6776842,-121.7748908,435 Main St,95695,4,195,$$,Irish Pub,uvvloS1quHdsYVcG3zmRDw,Woodland,Yolo County
+80,House of Shah,38.6773351,-121.7733683,538 Main St,95695,4.5,196,$$,Afghan,TUjpU3eMtXNJsnh6H2HCrw,Woodland,Yolo County
+81,The Elephant Shack,38.6920649,-121.774752,39492 Kentucky Ave,95695,4,257,$,Breakfast & Brunch,Gk2MhVgnbkz6Nx5a-61EPA,Woodland,Yolo County
+82,Sakura,38.6784557,-121.793681,201 W Court St,95695,3.5,122,$$,Sushi Bars,8Ygpx5EVwhCmVkzhzT9QsQ,Woodland,Yolo County
+83,Thai Pepper,38.67729962,-121.7703004,808 Main St,95695,4,90,$$,Thai,hyUVryYv1kgz0xiwqZYGoA,Woodland,Yolo County
+84,Ono Teriyaki,38.68498,-121.76493,10 N East St,95776,4,146,$,Hawaiian,201p5inZWJzr1T-2dM87WA,Woodland,Yolo County
+85,Swagat Indian Cuisine,38.679941,-121.78753,265 California St,95695,4.5,125,$$,Indian,TGIWvqH4zzcbnmKvU-FIbg,Woodland,Yolo County
+86,Chickpeas Kitchen - Woodlands,38.67719,-121.77043,800 Main St,95695,4.5,100,$,Kebab,oEvI9veTa76X3iEwgA8pNQ,Woodland,Yolo County
+87,Bangkok Cuisine Woodland,38.677721,-121.773807,525 Main St,95695,4,114,$$,Thai,bOx0Ua2izBbe8g9k8EGg1g,Woodland,Yolo County
+88,Osaka Sushi Japanese Restaurant,38.67719,-121.77273,608 Main St,95695,4,225,$$,Japanese,mLjvSYtaS_DL8Z5Ng4ijrQ,Woodland,Yolo County
+89,Brown's Corner Bar & Grill,38.678091,-121.802099,392 W Main St,95695,4,35,$$,Bars,0SN5OmVNmnlJBjskRttJgQ,Woodland,Yolo County
+90,Morgan's Mill,38.6788449,-121.7662288,1059 Court St,95695,4.5,155,$$,Coffee & Tea,OFTjDAXDAnANzJOMl60rHg,Woodland,Yolo County
+91,Fiattos Pizzeria,38.677076,-121.800497,353 W Main St,95695,4,19,unavailable,Pizza,iuecHmRGoeeqDpcc5cx-PA,Woodland,Yolo County
+92,Golden Dragon Restaurant,38.6775246,-121.8007584,353 W Main St,95695,3.5,127,$,Chinese,vBVGgtpclNBYmHxil0QRgw,Woodland,Yolo County
+93,Vince's Mexican Restaurant,38.6779747,-121.7907715,140 W Main St,95695,4,135,$$,Mexican,0OaKGd6P7JYeFDJ9jmGhHg,Woodland,Yolo County
+94,Quetzal,38.67921,-121.78445,2 W Court St,95695,4,80,$,Mexican,aDaRshTD2iYovrNRKeJ3BA,Woodland,Yolo County
+95,Maria's Cantina,38.67847,-121.767,306 6th St,95695,3.5,261,$$,Mexican,0fZ-KSJlU9FVGSr_PPtimQ,Woodland,Yolo County
+96,Taqueria Guadalajara,38.6796132,-121.7845175,6 W Court St,95695,4,151,$,Mexican,f8tOeIFlkMTqEh57_mg1aQ,Woodland,Yolo County
+97,El Charro,38.6776149,-121.775531,415 Main St,95695,4,86,$,Mexican,kU1pVJ-9Klkcgfk9Rb5ksA,Woodland,Yolo County
+98,Rafael's Family Restaurant,38.67818,-121.78353,9 Main St,95695,4,40,$,American (Traditional),JMhVSkK_xAXQexItAJat7A,Woodland,Yolo County
+99,The Black Pearl Bar & Grill,38.69821167,-121.7675781,755 N East St,95776,4,4,$$,Food Trucks,IJBK6Q95zcEdaULn8VTYsg,Woodland,Yolo County
+100,Sol Mexican Cuisine,38.6762886,-121.8016968,375 W Main St,95695,3.5,136,$$,Mexican,a6rHI43bgJNmlAjQjrq8pA,Woodland,Yolo County
+101,Corkwood Restaurant,38.67863,-121.78971,117 W Court St,95695,3.5,55,$$,American (Traditional),ghi6MsTnTPit0UT0pYz9Rg,Woodland,Yolo County
+102,Ranch Kitchen,38.690241,-121.7648894,240 N E St,95776,4,73,$,Breakfast & Brunch,ui0cGsdqGAL-jnzZHWE7Lg,Woodland,Yolo County
+103,La Kora Taco Truck,38.692,-121.78383,7 W Kentucky,95695,4.5,63,$,Mexican,1x4qoGOHUcRJeZg_zwP9-g,Woodland,Yolo County
+104,Hot dogs y elotes el primo,38.67851593,-121.7732971,1038 Elliot St,95695,3.5,10,$,Hot Dogs,#NAME?,Woodland,Yolo County
+105,Wingstop,38.678548,-121.783565,9 Main St,95695,3,28,$$,Chicken Wings,sBkZbrhyx1EH2nu0wsvyag,Woodland,Yolo County
+106,Zitio Sports-Bar and Grill,38.68436,-121.76482,11 East St,95776,4,23,$,Sports Bars,dpegGHR1-FW_6EAoROESxw,Woodland,Yolo County
+107,Scribbler's Coffeehouse,38.67718,-121.77385,524 Main St,95695,4.5,21,unavailable,Coffee & Tea,U8C3TfUQYIscpDoDlndg7w,Woodland,Yolo County
+108,Judy's Grinder,38.67802811,-121.7972565,286 W Main St,95695,3,105,$,Cheesesteaks,QaQme_JyXW5qEVyDxM_3dQ,Woodland,Yolo County
+109,Denny's,38.70059748,-121.7829618,39050 Bernard St,95695,2,55,$$,Diners,mXop3_BctkF4yKSHefZomA,Woodland,Yolo County
+110,Las  Milpas  Taqueria,38.6772412,-121.773399,534 Main St,95695,4,29,$$,Mexican,2MWFuydGGmJ9UvarQ_OvOQ,Woodland,Yolo County
+111,Nugget Markets,38.678133,-121.780537,157 Main St,95695,4,109,$$,Grocery,P3KBneAIKjaCBbmvhwZtkg,Woodland,Yolo County
+112,La Frontera Bar And Grill,38.67907,-121.76862,929 Court St,95695,4,44,$,Bars,M9RFq4yV8E-zdFHSolGiSw,Woodland,Yolo County
+113,China Smorgi,38.67921,-121.78498,14 W Court St,95695,2.5,38,$,Chinese,SbvPH0bHbQLU9JCH4yb3CA,Woodland,Yolo County
+114,Savory Cafe,38.677654,-121.77107,722A Main St,95695,3,223,$$,Breakfast & Brunch,rIMyDW6AsDS4P9Z3nRha8w,Woodland,Yolo County
+115,Hecho En Mexico Taqueria,38.6779464,-121.7887904,374 California St,95695,3.5,48,$,Mexican,1LMc-RmtEyTf5Qn8rlCa0w,Woodland,Yolo County
+116,Country Waffles,38.67731094,-121.8021088,383 W Main St,95695,4,88,$,Breakfast & Brunch,AiXjHzknMjGdqPdtbiLtkw,Woodland,Yolo County
+117,Chicago Cafe,38.67767,-121.775749,411 Main St,95695,3.5,32,$,Chinese,YiE4GHyA_tZMFkoTy9fogg,Woodland,Yolo County
+118,Steve's Pizza - Woodland,38.67762914,-121.7712371,714 Main St,95695,3,100,$$,Pizza,vNbF8WaO77xEAiqKu5-gWg,Woodland,Yolo County
+119,Zitio Taco Truck,38.69265005,-121.7839133,16930 County Rd 99,95695,3.5,3,$,Food Trucks,KZcdOvwbcC9BpCtr5wNGyw,Woodland,Yolo County
+120,Bella Bean Coffee,38.6778199,-121.77088,729 Main St,95695,4,28,$,Cafes,3-qSf83uY5YqV0uUaJZUnw,Woodland,Yolo County
+121,Super Burrito & Taqueria,38.6790149,-121.7881943,90 W Court St,95695,3.5,46,$,Mexican,qx4b6w4lgwxcPwOqP65LFA,Woodland,Yolo County
+122,Rico's Pizza,38.67734146,-121.7920532,171 W Main St,95695,2.5,61,$$,Pizza,kWAfD1FXgqx-1W6B850Avw,Woodland,Yolo County
+123,Mariscos Los Reyes,38.6766126,-121.7649136,425 East St,95695,4.5,3,unavailable,Mexican,lvyaJT7dT18JVNysx-_qWA,Woodland,Yolo County
+124,McDonald's,38.678519,-121.786682,55 W Court St,95695,2,34,$,Fast Food,7UtoP2ya3h-rgm5JeL0fLw,Woodland,Yolo County
+125,Little Caesars Pizza,38.67892519,-121.7871152,68 W Court St,95695,2.5,8,$,Pizza,iRobBi6t-h8VUBPd9ikcRg,Woodland,Yolo County
+126,Togoâs Sandwiches,38.67744,-121.80093,361 W Main St,95695,3.5,35,$,Delis,lOU-ibZwIIv3Sy3kEygplg,Woodland,Yolo County
+127,KFC,38.6774,-121.788,83 West Main St.,95695,2.5,14,$,Fast Food,rHcvKFgTJNkX7oLFftlh0Q,Woodland,Yolo County
+128,El Jalisciense Restaurant,38.6775649,-121.7646802,1231 E Main St,95776,3.5,39,$,Mexican,AT8C-Stg-n-vHIvYK2kIvA,Woodland,Yolo County
+129,Taco Bell,38.677985,-121.793785,208 W Main St,95695,3,23,$,Fast Food,6uiPd9JWuDjZXfPAbCfU3g,Woodland,Yolo County
+130,Mariscos El Pantano,38.67667,-121.76494,425 E St,95776,2,40,$$,Mexican,0ktXfv81_KtNk_yjbSExtQ,Woodland,Yolo County
+131,Papa Murphy's,38.678768,-121.783277,13 Purity Plaza,95695,4,22,$,Pizza,rn_RwRIrnyAIUl2f4j5mvA,Woodland,Yolo County
+132,La Fogata Restaurant,38.6771,-121.76922,906 Main St,95695,3,5,$,Mexican,IGwrgUomTQzjR6H3fKi8xg,Woodland,Yolo County
+133,Carl's Jr.,38.67794,-121.7883,98 W Main St,95695,2.5,18,$,Salad,#NAME?,Woodland,Yolo County
+134,Wienerschnitzel,38.67718,-121.78898,103 W Main St,95695,3.5,18,$,Hot Dogs,kEHf4DMUKzJis387fnGj-Q,Woodland,Yolo County
+135,Burger King,38.677105,-121.796608,251 W Main St,95695,2,17,$,Burgers,8sev7SWfcAj5m14oAWqDAw,Woodland,Yolo County
+136,Subway,38.6775649,-121.77144,709 Main St,95695,4.5,12,$,Sandwiches,XILmYSmKe-vT5ljZckpIMA,Woodland,Yolo County
+137,El Taco Guerrero,38.67711,-121.76451,1226 E Main St,95776,5,1,unavailable,Mexican,mkHi63BI8Z7CJt4k00Aysg,Woodland,Yolo County
+138,Subway,38.6780735,-121.7887892,362 California St,95695,4,24,$,Sandwiches,fIHE0i8bVu-WMRRZnPqSzA,Woodland,Yolo County
+139,Jack in the Box,38.67709677,-121.7649136,1200 E Main St,95776,2.5,29,$,Fast Food,KZLsiwn6abhonaEHjadSig,Woodland,Yolo County
+140,Gyro Palace,38.67676,-121.73819,1780 East Main St,95776,4.5,178,$,Mediterranean,ELTBXCf8yL51r79lL-iYGQ,Woodland,Yolo County
+141,Jinju Sushi,38.67391624,-121.746103,467 Pioneer Ave,95776,4,321,$$,Sushi Bars,F8OTgKUfDiGw_vB87MKR-Q,Woodland,Yolo County
+142,El Paisano Taco Truck,38.676991,-121.756744,1392 E Main St,95776,4,209,$,Mexican,cD_oddbnbrYYDou-TOnbwA,Woodland,Yolo County
+143,La Michoacana Taqueria,38.67666,-121.7273,2020 E Main St,95776,4,32,$,Mexican,IA6421DbADkdJKQyFQuWrA,Woodland,Yolo County
+144,Applebee's Grill + Bar,38.67679,-121.739212,1790 E Main St,95776,2,108,$$,American (Traditional),Gfhv28AoqT8TB7trobSuHw,Woodland,Yolo County
+145,Treasure Dragon Chinese Cuisine and Sushi,38.67663,-121.73684,1810 E Main St,95776,2.5,131,$$,Chinese,v0MbF_DyPKz-WalucgSPLg,Woodland,Yolo County
+146,Dickey's Barbecue Pit,38.67666986,-121.7463167,401 Pioneer Ave,95776,3,70,$$,Barbeque,iQSp_I-x4QhO8OQlduETLQ,Woodland,Yolo County
+147,I Love Teriyaki No 7,38.674923,-121.746243,469 Pioneer Ave,95776,3,71,$,Japanese,#NAME?,Woodland,Yolo County
+148,Tacos El Paisano,38.67701,-121.7566,1392 E Main St,95776,4,69,$,Mexican,dIzav0dl8LscdyGbY2g_sg,Woodland,Yolo County
+149,Ann's Gluten Free Goodies,38.67281871,-121.7573685,1391 Parkview Dr,95776,5,2,unavailable,Gluten-Free,1Oc6JjOSd_awsmjjJqQdTg,Woodland,Yolo County
+150,Black Bear Diner,38.67672,-121.74992,1530 E Main St,95776,3,187,$$,Diners,Evtfhv1hGLEjdoK-dcq8VQ,Woodland,Yolo County
+151,Sonic Drive-In,38.67674305,-121.7478718,1580 E Main St,95776,2.5,164,$,Fast Food,8RKAclOhuMk5W9nQaM-CtQ,Woodland,Yolo County
+152,Round Table Pizza,38.676113,-121.745857,421 Pioneer Avenue,95776,2.5,67,$$,Pizza,tcjT9EOHixP7gep6hgIXNQ,Woodland,Yolo County
+153,Jersey Mike's Subs,38.67658,-121.72916,2000 E Main St,95776,3.5,9,unavailable,Sandwiches,#NAME?,Woodland,Yolo County
+154,Taco Bell,38.676904,-121.74664,411 Pioneer Ave,95776,3,24,$,Mexican,vxvENqcB1THjJpO77Ieohg,Woodland,Yolo County
+155,Denny's,38.676821,-121.7484672,1568 E Main St,95776,2.5,91,$,American (Traditional),VzZ4I5s9MdM6A61mZqwy5Q,Woodland,Yolo County
+156,McDonald's,38.67671463,-121.7503273,1500 E Main St,95695,2,49,$,Burgers,MQ6rMBVWSEiba6ds49f_aQ,Woodland,Yolo County
+157,Domino's Pizza,38.676153,-121.758429,1370 E Main St,95776,2.5,30,$,Pizza,qO5-YHNjyhADmfLBppQqXw,Woodland,Yolo County
+158,Jack in the Box,38.6765679,-121.727912,2010 E Main St,95776,3.5,21,$,Fast Food,FlbsNx3xRFfzpJyYijm5Gg,Woodland,Yolo County
+159,Burger King,38.67687,-121.73622,1830 E Main St,95776,3,8,$,Burgers,ZKtoJ-i7yXWOrGndV2NsvA,Woodland,Yolo County
+160,Carl's Jr.,38.67685,-121.74898,1556 E Main St,95776,1.5,10,$,Fast Food,UetGwtuZKsc3gNgtP1J0MA,Woodland,Yolo County
+161,Subway,38.67399596,-121.7462035,461 Pioneer Ave,95776,2,8,$,Sandwiches,M-0tMityql4RQolDSOQPJQ,Woodland,Yolo County
+162,Alamar Marina Resturant & Bar,38.674664,-121.62627,5999 Garden Hwy,95837,4,116,$$,Seafood,9js0IZPu76bgJ7CsMIPE1w,Sacramento,Sacramento County/Sutter County
+163,Swabbies,38.67401,-121.62568,5871 Garden Hwy,95837,3.5,553,$$,Bars,#NAME?,Sacramento,Sacramento County/Sutter County
+164,Esquire Grill,38.68506622,-121.5906525,6900 Airport Blvd,95837,3.5,352,$$,American (Traditional),Of3Zky9PdrvzXZYwrNlxgg,Sacramento,Sacramento County/Sutter County
+165,Burgers and Brew,38.69581422,-121.5930319,6900 Airport Blvd,95837,3,134,$$,American (Traditional),w90YlGm6MyU7MUc7qqKr4g,Sacramento,Sacramento County/Sutter County
+166,Cafeteria 15L - Airport,38.69580954,-121.5940927,6900 Airport Blvd,95837,3,339,$$,American (Traditional),g5WsjXhv87O34akJGVdJlA,Sacramento,Sacramento County/Sutter County
+167,Iron Horse Tavern,38.6935976,-121.5876668,6900 Airport Blvd,95837,2.5,308,$$,Diners,Gqb58XNuypUQXkFJzwc0hQ,Sacramento,Sacramento County/Sutter County
+168,Dos Coyotes Border Cafe,38.69571751,-121.5936915,6900 Airport Blvd,95837,2,265,$$,Cafes,N6JznQGZMwFg7KqFGVMuzw,Sacramento,Sacramento County/Sutter County
+169,La Taqueria and Cantina,38.693997,-121.587465,6900 Airport Blvd,95837,2.5,18,$$,Mexican,QSU3kPvVyac9leolDOgXdQ,Sacramento,Sacramento County/Sutter County
+170,Jack's Urban Eats,38.69558289,-121.5932006,6900 Airport Blvd,95837,1.5,509,$$,Sandwiches,p9s1uNs9liYn6NCxlmLIow,Sacramento,Sacramento County/Sutter County
+171,Freshii,38.69337013,-121.5874598,6900 Airport Blvd,95837,3.5,84,$$,American (New),RqKXmPIi0b-1QALJkAgnXQ,Sacramento,Sacramento County/Sutter County
+172,Paesanos,38.6926862,-121.5879408,6900 Airport Blvd,95837,3,26,$$,Salad,PBQkHQxq6FVhS_Q7rpDsPg,Sacramento,Sacramento County/Sutter County
+173,The Gateway Bar,38.69209419,-121.5914257,6900 Airport Blvd,95837,3.5,57,$$,Bars,4TNpNpU5Oj0pCCLQLJARLg,Sacramento,Sacramento County/Sutter County
+174,Camden Food,38.69382644,-121.5933493,6900 Airport Blvd,95837,3,6,$,American (Traditional),hNyNgoDQji2KM_itVGwRlQ,Sacramento,Sacramento County/Sutter County
+175,Famous Famiglia,38.69578894,-121.5937744,6900 Airport Blvd,95837,3,99,$,Pizza,XHwMqpe_-HQ-28LBHJ2mMA,Sacramento,Sacramento County/Sutter County
+176,Freshii,38.69081274,-121.5867776,6850 Airport Blvd,95837,3.5,6,$$,Soup,n2J2SuNUw9lJ5KBlF17SkA,Sacramento,Sacramento County/Sutter County
+177,Squeeze Burger,38.69317641,-121.5876281,6900 Airport Blvd E,95837,2.5,95,$$,Burgers,gZ3Yaj7BN0xpVia2lQnIKA,Sacramento,Sacramento County/Sutter County
+178,Famous Famiglia,38.69076157,-121.5946198,6851 Lindbergh Dr,95837,4.5,2,unavailable,Pizza,KBO-sj5O2oU4VTmPKB7gfg,Sacramento,Sacramento County/Sutter County
+179,Taylors Market,38.691583,-121.591358,6900 Airport Blvd,95837,1.5,5,unavailable,Patisserie/Cake Shop,XTVzjGP5sk4mzN-ZxYj3kw,Sacramento,Sacramento County/Sutter County
+180,Delhi Oven,38.67975,-121.53097,3150 Macon Dr,95835,4.5,59,$$,Indian,qLu8FvaOnIQLbVycLX3CPg,Sacramento,Sacramento County
+181,Championz Pizza,38.679886,-121.530979,3150 Macon Dr,95835,4,38,unavailable,Pizza,9jvzuiJ9-zL5ViGPWHAwkQ,Sacramento,Sacramento County
+184,Los Plebes,38.65948073,-122.8723689,,95441,5,14,$,Food Trucks,LaB6j_PZ7zixf_DEO3VAOw,Geyserville,Sonoma County
+187,Park Winters Farm Dinners,38.63551,-121.99345,27850 County Rd 26,95694,5,24,$$$$,American (New),MRZQDbz916UhYv02g3f83w,Winters,Yolo County/Solano County
+188,La Cocina De Ana,38.67297,-121.79428,646 Cottonwood St,95695,4.5,10,unavailable,Mexican,krHr3rc5JIBEiGFq_o4j3g,Woodland,Yolo County
+189,Spring Garden Restaurant,38.6723956,-121.7940235,650 Cottonwood St,95695,3.5,89,$,Chinese,GD92gpIIfD8Y9HqlTY4sSw,Woodland,Yolo County
+190,New York Pizza Pie,38.66091,-121.7652,1495 East St,95776,4.5,54,$,Pizza,YlVxiEsqREvmzDgkYmDqxw,Woodland,Yolo County
+191,Birrieria Mooooy,38.66973,-121.76431,801 E St,95776,4.5,19,unavailable,Food Trucks,U_LNHOEvenW1ZbpoKunSmA,Woodland,Yolo County
+192,El Patio,38.66255,-121.76637,1016 Gibson Rd,95695,3.5,211,$,Mexican,xOdZLIdBsd_dhtOJf7_v_g,Woodland,Yolo County
+193,Barajas Deli,38.66915,-121.764274,825 E St,95776,4.5,34,$,Mexican,pJTWT57cqyxshnErOXkmGg,Woodland,Yolo County
+194,Las Islitas,38.660392,-121.76522,1527 East St,95776,3,90,$$,Seafood,42n-ERzJziNQahDMN1rExA,Woodland,Yolo County
+195,La Roca,38.670772,-121.764745,737 East St,95776,3,10,$$,Seafood,18WcxkHh7Kt6yhE9lJWEqg,Woodland,Yolo County
+196,Mariscos La Rocka,38.670771,-121.764752,725 E St,95776,1,2,$$,Mexican,taXnOZt9gaeMwlRiyehKbQ,Woodland,Yolo County
+197,Kuji Asian Grill,38.66317,-121.74091,1801 E Gibson Rd,95776,4.5,112,$$,Korean,9n-_-3euQHw6KVbPJWFXAg,Woodland,Yolo County
+198,Sourdough & Co,38.67062,-121.72565,2051 Bronze Star Dr,95776,4.5,44,$$,Salad,H-uCXZOZLbB65BHgbT1mIg,Woodland,Yolo County
+199,Iguana's Mexican Grill,38.66422621,-121.7409503,1849 E Gibson Rd,95776,4,81,$,Mexican,jzz2hz1HsPLn90oUCRzb9A,Woodland,Yolo County
+200,MOD Pizza,38.67062,-121.72565,2051 Bronze Star Dr,95776,4,111,$,Fast Food,xVvzzgE7zW6TeoZ9jVyO2w,Woodland,Yolo County
+201,Red Robin Gourmet Burgers,38.6707979,-121.7262518,2031 Bronze Star Drive,95776,3,242,$$,Burgers,clV1SFK_w_BM7Ldc2nBOoA,Woodland,Yolo County
+202,In-N-Out Burger,38.6702718,-121.7279639,2011 Bronze Star Dr,95776,4,127,$,Burgers,1JY7Qv5OEsZ-i4BB10Mgfg,Woodland,Yolo County
+203,Jimboy's Tacos,38.6701549,-121.7278768,2021 Bronze Star Dr,95776,3.5,81,$,Mexican,sJTqVdOqSZqr0kqri75OcA,Woodland,Yolo County
+204,Orient Connection Chinese Restaurant,38.6626,-121.76188,1264 E Gibson Rd,95776,4,5,unavailable,Chinese,f7tr7mrbFHdgK9lsJzOZ8A,Woodland,Yolo County
+205,Mr. Pickle's Sandwich Shop,38.66324606,-121.7401779,1801 E Gibson Rd,95776,3.5,88,$,Sandwiches,k4aLlHa2uISu12Tfl-8kIA,Woodland,Yolo County
+206,Pizza Guys,38.66401672,-121.7415771,1837 E Gibson Rd,95776,3.5,45,$$,Pizza,vn0dDKaVFRA6OPQPxl2LQw,Woodland,Yolo County
+207,Panda Express,38.67031998,-121.726256,2041 Bronze Star Dr,95776,2,102,$,Chinese,2uqZdoipDg6QDS2VXOmiaQ,Woodland,Yolo County
+208,Little Caesar's Pizza,38.66423,-121.74045,1861 E Gibson Rd,95695,2,17,$,Pizza,26L6GF_h4KBZJ2nBbDOVjA,Woodland,Yolo County
+209,Taqueria La Kora,38.6606846,-121.7627756,1264 E Gibson Rd,95776,4,17,$,Mexican,tcI_lY7rqI5FYedsRcDsjA,Woodland,Yolo County
+210,Crawdad & Catfish Festival 2016,38.666508,-121.763138,1250 East Gum Ave,95776,1.5,3,unavailable,Festivals,QeCQFHsh0PSH2xoHFJfORA,Woodland,Yolo County
+211,Subway,38.6701549,-121.7278768,2021 Bronze Star Dr,95776,2.5,31,$,Sandwiches,O8jMjozAMGOjbnDb-iSTlw,Woodland,Yolo County
+212,Elkhorn Saloon,38.67083359,-121.6271744,18398 Old River Rd,95691,4,101,$$,American (Traditional),2hgErhUZLmt01GL-PmSgyw,West Sacramento,Yolo County
+213,Ono Hawaiian BBQ,38.65543401,-121.5239985,2800 Del Paso Rd,95834,3.5,98,$$,Barbeque,rQvvhbY5XxbvqyEkD-lYOw,Sacramento,Sacramento County
+214,Dos Coyotes,38.65677,-121.52245,2701 Del Paso Rd,95835,4,62,$$,Tex-Mex,8PFOCEs0SesGg68fN3NJZQ,Sacramento,Sacramento County
+215,Fire Wings,38.65742034,-121.5226459,2721 Del Paso Rd,95835,3.5,284,$$,Chicken Wings,Oj_9WsdIyJFuE7G8K_9dGg,Sacramento,Sacramento County
+216,Malabar American Cooking,38.65551313,-121.5280728,2960 Del Paso Rd,95834,3,597,$$,American (New),zMlDfuEM9F90qSlHA7EtZg,Sacramento,Sacramento County
+217,Chaat Kafe,38.657433,-121.522716,2721 Del Paso Rd,95835,4,365,$$,Indian,ofHvWgQ2N99pWPyvReS8yQ,Sacramento,Sacramento County
+218,Finâs House,38.6428093,-121.518919,2580 Arena Blvd,95834,4,74,$$,Sushi Bars,vClhDOOOd6tr0DXpgkJa_A,Sacramento,Sacramento County
+219,Chicken N Waffles,38.65463488,-121.5280396,2961 Advantage Way,95834,3.5,678,$$,Soul Food,YifT9cYcVs4kzPtP1mlOjw,Sacramento,Sacramento County
+220,Thai Princess,38.64188085,-121.5326231,3230 Arena Blvd,95834,4,147,$$,Thai,fWf-KVuj9LJHypYbDpnoIw,Sacramento,Sacramento County
+221,Teriyaki Maki,38.657357,-121.522441,2711 Del Paso Rd,95835,3.5,214,$,Japanese,HswsPuxWSmh6Z7bP1AlmwQ,Sacramento,Sacramento County
+222,Sizzler,38.65473,-121.52611,2901 Advantage Way,95834,3.5,282,$$,Seafood,WWWoCZ8DoYW3W4CYvPyNxQ,Sacramento,Sacramento County
+223,BurgerIM,38.65638,-121.52275,2731 Del Paso Rd,95835,3,149,$$,Burgers,oREjF73-MqRLtpdKgUBseg,Sacramento,Sacramento County
+224,Chang's Chinese Cuisine,38.6561349,-121.5222407,2711 Del Paso Rd,95835,3.5,168,$,Chinese,3lrGPWUHhQ1Sv1Z-MYpgBw,Sacramento,Sacramento County
+225,In-N-Out Burger,38.6553897,-121.5258754,2900 Del Paso Rd,95834,4,183,$,Burgers,puRniX2u_jTT0s4gTPwhrg,Sacramento,Sacramento County
+226,Huckleberry's,38.6426585,-121.5186748,2580 Arena Blvd,95834,3.5,229,$$,Breakfast & Brunch,OCVtzf2_42fL8URK2pMR7g,Sacramento,Sacramento County
+227,Quickly,38.6561349,-121.5222407,2711 Del Paso Rd,95835,4,146,$,Coffee & Tea,pCAX52doMR1DkXd7-4yX3A,Sacramento,Sacramento County
+228,Chipotle Mexican Grill,38.65559202,-121.5240335,2800 Del Paso Rd,95834,3.5,31,$,Mexican,59wPEBYn9hfxlpiMNB7CUA,Sacramento,Sacramento County
+229,Jersey Mike's Subs,38.6556551,-121.5248529,2850 Del Paso Rd,95834,3,78,$$,Fast Food,bQYbeFxYe5TPoxD-9nMUGA,Sacramento,Sacramento County
+230,Panda Express,38.655404,-121.527289,2940 Del Paso Rd,95834,2.5,109,$,Chinese,9qOYQEaXhnk6NCr4g7p6pA,Sacramento,Sacramento County
+231,Pizza Guys,38.6556551,-121.5246551,2820 Del Paso Rd,95834,3.5,90,$$,Pizza,c5P7QPkIPiGRMOEsNYdioQ,Sacramento,Sacramento County
+232,Panera Bread,38.65637695,-121.5227967,2731 Del Paso Rd,95835,3.5,191,$,Sandwiches,Is8JUcwhramYP7Pw92EV_A,Sacramento,Sacramento County
+233,Panda Garden,38.6428651,-121.5333909,3230 Arena Blvd,95834,3,44,$,Chinese,TjfEkpsYox-LyESU739PYA,Sacramento,Sacramento County
+234,Jimboy's Tacos,38.6428651,-121.5333909,3230 Arena Blvd,95834,3,72,$,Mexican,pAhhcb6pQlWzlwj2BhPNFw,Sacramento,Sacramento County
+235,Round Table Pizza,38.642284,-121.534926,3290 Arena Blvd,95834,2.5,97,$$,Pizza,3jzbfYC9ioH4mYcZ-hMEBg,Sacramento,Sacramento County
+236,Mr. Pickle's Sandwich Shop,38.641828,-121.532884,3230 Arena Blvd,95834,4,127,$,Sandwiches,GcVgSuLRlIabjzXScVG6ig,Sacramento,Sacramento County
+237,KFC,38.6557,-121.528,2920 Del Paso Road,95834,1.5,130,$,Fast Food,bqjdIwwLL0O8Gn855Kaz7A,Sacramento,Sacramento County
+238,Papa Murphy's,38.65677,-121.52245,2701 Del Paso Road,95835,3.5,36,$$,Pizza,UZtcZy4zyxT6otNcndE9jQ,Sacramento,Sacramento County
+239,IHOP,38.65454,-121.52758,2941 Advantage Ln,95834,2.5,129,$$,Breakfast & Brunch,7BKw5TVsNGHwc4dGeaIubQ,Sacramento,Sacramento County
+240,Taco Bell,38.65454978,-121.527071,2921 Advantage Ln,95834,1.5,125,$,Mexican,UwvOPFPJTQGeZ-BhT19_Mg,Sacramento,Sacramento County
+241,Northgate Blvd Fruit Stand,38.64334106,-121.5228195,Under The Rainbow Umbrella,95834,4.5,3,$,Fruits & Veggies,bPSVe5N5_8dgrKuSYprQjw,Sacramento,Sacramento County
+242,Wienerschnitzel,38.65465603,-121.5282347,2961 Advantage Way,95834,2.5,24,$,Hot Dogs,USiNS4DSB4ibId_9vww7oA,Sacramento,Sacramento County
+243,Denny's,38.65303264,-121.5263139,4441 E Commerce Way,95834,2,227,$,Diners,tQT0JpMaNttYz21Htv05jQ,Sacramento,Sacramento County
+244,Papa John's Pizza,38.6428093,-121.518919,2580 Arena Blvd,95834,2.5,97,$,Pizza,-nkdqLcijK4-8b88_aYNWw,Sacramento,Sacramento County
+245,A&W,38.6556505,-121.5270471,2920 Del Paso Rd,95834,1.5,25,$,Fast Food,2LM40tl4tKVcZbFVJMZKLA,Sacramento,Sacramento County
+246,Skyline Restaurant,38.648,-121.51707,1 Sports Pkwy,95834,2,5,$$,Restaurants,elH0jTwO1YFWj6541BmGGg,Sacramento,Sacramento County
+247,Jack in the Box,38.6554922,-121.5230789,2750 Del Paso Rd,95834,2,81,$,Fast Food,nsKZIusRxpK1NKyl_wEs6A,Sacramento,Sacramento County
+248,Subway,38.6559349,-121.540575,3511 Del Paso Rd,95835,1.5,52,$,Sandwiches,a8oYiWvOsdhok9-l7eaQRQ,Sacramento,Sacramento County
+249,Subway,38.6420682,-121.5192263,4000 E Commerce Way,95834,1.5,29,$,Sandwiches,QuZu5R7wT63FDVuFMKiLCA,Sacramento,Sacramento County
+308,Plainfield Station Bar & Grill,38.59102694,-121.8031873,23944 County Rd 98,95695,4,72,$,American (Traditional),gCIUyMA3_m6mNzS5M4DDMA,Woodland,Yolo County
+309,Manaao Thai Cuisine,38.5909951,-121.5550657,715 Harbor Pointe Pl,95605,4,309,$,Thai,Ozi7E69EVEeGZJBC10Yu7Q,West Sacramento,Yolo County
+310,Manchurian Hakka Cuisine,38.589409,-121.550667,767 Ikea Ct,95605,4,38,unavailable,Chinese,STlUS-Nzl1L_-IJQ7inGbA,West Sacramento,Yolo County
+311,Hawaiian Poke,38.59001,-121.54929,779 Ikea Ct,95605,4.5,103,$$,Poke,YMr0qbXndmkRJ7M6cJPOiQ,West Sacramento,Yolo County
+312,Curry Kabab Paradise,38.5917265,-121.554745,705 Harbor Pointe Pl,95605,4,225,$$,Indian,eIrnclr1qM3XVZ762FTrAQ,West Sacramento,Yolo County
+313,Taco Tuesday,38.59107,-121.55459,715 Harbor Pointe Pl,95605,3.5,67,$,Tacos,r1D-YY-kaaCXY8QHkWGzIA,West Sacramento,Yolo County
+314,MOD Pizza,38.58947,-121.54985,771 Ikea Ct,95605,4.5,91,$$,Pizza,gzyzv1_2cSDtjsvFRYQfSg,West Sacramento,Yolo County
+315,In-N-Out Burger,38.591543,-121.5502494,780 Ikea Ct,95605,4,180,$,Burgers,ISBq11rteW5LqWIYHRcTzA,West Sacramento,Yolo County
+316,Five Guys,38.59057,-121.55041,768 Ikea Ct,95605,3.5,135,$$,Burgers,KapCHD93BU6bZ02-iDH2fQ,West Sacramento,Yolo County
+317,Wingstop,38.58951,-121.55112,763 Ikea Ct,95605,2.5,166,$$,Chicken Wings,AgBkGNikRCrHvQtLSCHPuA,West Sacramento,Yolo County
+318,Chipotle Mexican Grill,38.59004109,-121.5496672,775 Ikea Ct,95605,2.5,176,$,Mexican,iNwmdQUlrlktVJLiwBLtSg,West Sacramento,Yolo County
+319,Panda Express,38.59065379,-121.5546513,735 Harbor Point Pl,95605,3,57,$,Chinese,DugNBOOnjGrrFKwka0nn4g,West Sacramento,Yolo County
+320,The Beach Hut Deli,38.58927,-121.55068,767 Ikea Ct,95605,3,173,$$,Sandwiches,gyjeW4mn1pbx-y0Df0PCBg,West Sacramento,Yolo County
+321,McDonald's,38.59111595,-121.5493997,800 Riverpoint Cir,95605,2,39,$,Fast Food,UTtNZsc6S1v_g2NbkYtFOA,West Sacramento,Yolo County
+322,IKEA Restaurant,38.58884,-121.55247,700 Ikea Ct,95605,3.5,197,$,Breakfast & Brunch,j2QAo6Jwidjo0Sb870grvQ,West Sacramento,Yolo County
+323,IHOP,38.59011,-121.549502,779 Ikea Ct,95605,3,147,$$,Breakfast & Brunch,B9UrMZ5FgIKMeh3bViJhdQ,West Sacramento,Yolo County
+324,IKEA Bistro,38.58884,-121.55247,700 Ikea Ct,95605,3,1,unavailable,Pizza,f4VmkRqwBkmvzjA3HV1uxg,West Sacramento,Yolo County
+325,Taco Bell,38.59105433,-121.5507539,776 Ikea Court,95605,2.5,45,$,Fast Food,rBNhfl7Klrld0lVsM4JIrA,West Sacramento,Yolo County
+326,Subway,38.5917265,-121.554745,705 Harbor Pointe Pl,95605,4,19,$,Fast Food,ibt57Dz2-vgvHAFnqw035A,West Sacramento,Yolo County
+327,Jack in the Box,38.5907875,-121.5556996,775 Harbor Pointe Pl,95605,2,44,$,Fast Food,99HZsOL10uYTdMWj276xiA,West Sacramento,Yolo County
+328,Burger King,38.589639,-121.55105,763 Ikea Ct #120,95605,2,38,$,Fast Food,UfYDuEUBs84GlTppgueyfQ,West Sacramento,Yolo County
+329,T & Z Chinese Restaurant,38.61294711,-121.5194223,2550 W El Camino Ave,95833,5,215,$$,Chinese,uSh45fmNiQz7x4l-zF0ixA,Sacramento,Sacramento County
+330,Pearl On the River,38.604228,-121.516753,1379 Garden Hwy,95833,3.5,344,$$,Seafood,WV49jYnyW3RqrUCBKl_nnA,Sacramento,Sacramento County
+331,Ruchi Indian Cuisine,38.61352921,-121.5167618,2600 Gateway Oaks Dr,95833,4,410,$$,Indian,J7c_-2vWW0vfWH7lmLOXuw,Sacramento,Sacramento County
+332,The Virgin Sturgeon,38.60493,-121.52269,1577 Garden Hwy,95833,3.5,308,$$,Bars,hAPE36FyI9lOljhVjhDKog,Sacramento,Sacramento County
+333,Crawdads On The River,38.603854,-121.517564,1375 Garden Hwy,95833,3,582,$$,Seafood,Qc1Qh8YxmANPnpnzo7GbeA,Sacramento,Sacramento County
+334,Maxine's Drive In,38.59031554,-121.5305746,1208 Sacramento Ave,95605,5,3,unavailable,Burgers,SJVjegLQ6kx9WvGwjsb38Q,West Sacramento,Yolo County
+335,La Rosa Taqueria,38.591228,-121.538024,1520 Sacramento Ave,95605,4.5,89,$,Mexican,40l3nZ5mIrQpMHgosrAKtA,West Sacramento,Yolo County
+336,Sushi King,38.61309,-121.51838,2550 W El Camino Ave,95833,3.5,237,$$,Japanese,xXvAbyiHSNcJQ0PnooiKsg,Sacramento,Sacramento County
+337,The Sandwich Spot,38.6130109,-121.5168003,2606 Gateway Oaks Dr,95833,4,208,$,Sandwiches,DYgCpYBa5uzQzx96zIwchw,Sacramento,Sacramento County
+338,Silver Skillet,38.61724,-121.53815,2828 El Centro Rd,95833,3.5,245,$$,American (Traditional),ahG2N8OKVyqXIiGPPVDqpA,Sacramento,Sacramento County
+339,Black Bear Diner,38.61482459,-121.5384579,2700 El Centro Rd,95833,3.5,684,$$,Diners,rTCQoOBxeixkd7fCnUjc_A,Sacramento,Sacramento County
+340,New York Pizza & Plus,38.61309,-121.51838,2550 W El Camino Ave,95833,3.5,117,$,Pizza,wRr1-HvMi-sQ1jjFpResAA,Sacramento,Sacramento County
+341,Cornerstone Cafe & Bar,38.59100031,-121.5401602,1617 Sacramento Ave,95605,4.5,67,$,Breakfast & Brunch,vqtlzGJVxt8M3a0Nf-W5iw,West Sacramento,Yolo County
+342,Bryte Way Market,38.595213,-121.541103,1552 Lisbon Ave,95605,4,4,$$$$,Grocery,wiEXKt2egihCB3vmGttqNA,West Sacramento,Yolo County
+343,Buffalo's Pizza,38.591209,-121.539413,1600 Sacramento Ave,95605,4,65,$,Pizza,KhWpwH1JE9TDSqCd9oTnQQ,West Sacramento,Yolo County
+344,Taqueria Ay Jalisco,38.589739,-121.52535,966 Sacramento Ave,95605,4,80,$,Mexican,CVCL7n5usDjmUy1ehiXY4w,West Sacramento,Yolo County
+345,City Cafe',38.6168956,-121.5175837,2720 Gateway Oaks Dr,95833,3,21,$,Delis,t9cRXei5rXq1SZPf6G6raA,Sacramento,Sacramento County
+346,Burger King,38.6153,-121.53885,2714 El Centro Rd,95833,2.5,34,$,Fast Food,sMI9R4tpJwUCG0pS8khlaw,Sacramento,Sacramento County
+347,Jack in the Box,38.61360737,-121.518889,2560 W El Camino Ave,95833,2.5,69,$,Fast Food,uVXzp8nodvGj9M-X7YaWKw,Sacramento,Sacramento County
+348,Subway,38.6130936,-121.5183785,2550 W El Camino Ave,95833,2.5,43,$,Sandwiches,L9MVgQUBi-OBTs_IyJbxyQ,Sacramento,Sacramento County
+349,Charles Place Food Truck,38.59746394,-121.5312911,,95605,5,1,unavailable,Food Trucks,6ThVQ937tzKMKuZ4FHtEqw,West Sacramento,Yolo County
+418,PUC Cafe,38.57034287,-122.4403776,1 Angwin Ave,94508,2.5,3,$$,Cafeteria,cjtJnwvXzixd4C0PlU6BhQ,Angwin ,Napa County
+419,T-Kumi Ramen & Rice Bowl,38.553407,-121.7869103,1260 Lake Blvd,95616,4,143,$$,Ramen,boYAoGF5ZqjvkmE_UJDVXQ,Davis,Yolo County
+420,Osteria Fasulo,38.54801709,-121.782252,2657 Portage Bay E,95616,4,232,$$$,Italian,o3fYBrGBeWuv8-FTjt6bEg,Davis,Yolo County
+421,Shanghai Town,38.55404282,-121.7870178,1260 Lake Blvd,95616,3.5,308,$,Chinese,zfsjrD5YmuZuGR3NXbsbcg,Davis,Yolo County
+422,Lamppost Pizza,38.55403,-121.78704,1260 Lake Blvd,95616,4,150,$$,Pizza,1Lu7Mqip_YJ3zkm9WAxT4w,Davis,Yolo County
+423,Dos Coyotes Border Cafe,38.56240388,-121.7657362,1411 W Covell Blvd,95616,3.5,425,$,Tex-Mex,NNzBiVCtdnNOAkOysGVp5g,Davis,Yolo County
+424,Chuy's Taqueria,38.554285,-121.786946,1260 Lake Blvd,95616,3,98,$,Mexican,C8I1FulFXUiDp2e1_uuNwg,Davis,Yolo County
+425,La Brisa Bistro,38.55966,-121.7744,1515 Shasta Dr,95616,4,2,unavailable,Sandwiches,3qx5qVescq4YyrLUguS3UQ,Davis,Yolo County
+426,Jack's Urban Eats,38.56168692,-121.7643803,1321 W Covell Blvd,95616,3,230,$$,American (Traditional),2fY_SsF7OAL6blGYGpIFYQ,Davis,Yolo County
+427,Westlake Market,38.55403,-121.78704,1260 Lake Blvd,95616,4.5,44,$$,Grocery,chFvH4trh6dc_F95l08CEw,Davis,Yolo County
+428,Panda Express,38.56121176,-121.7655516,1491 W Covell Blvd,95616,2.5,78,$,Chinese,T0SSP5lUL7dJXmNB-xthQQ,Davis,Yolo County
+429,Domino's Pizza,38.56281,-121.76874,2038 Lyndell Ter,95616,3.5,62,$,Pizza,GMfWhSNoHdn1g4UJcFqeSQ,Davis,Yolo County
+430,Burger King,38.56209396,-121.7690873,2026 Lyndell Ter,95616,2.5,28,$,Fast Food,vNjxfFdFh-tDha_6IU4RrA,Davis,Yolo County
+431,Round Table Pizza,38.56234,-121.76567,1411 W Covell Blvd,95616,2.5,16,unavailable,Pizza,SoL7q8KvjSilpPCJ5DCZ7A,Davis,Yolo County
+432,Togoâs Sandwiches,38.56234,-121.76567,1411 W Covell Blvd,95616,3.5,56,$,Sandwiches,ZvGsEfPuMudrW3aJqXtqyw,Davis,Yolo County
+433,China Express,38.56121262,-121.7655204,1451 W Covell Blvd,95616,3,1,unavailable,Chinese,u7-C24l_lczJVe3VkOW-qQ,Davis,Yolo County
+434,Subway,38.56147476,-121.7693338,2014 Lyndell Ter,95616,3,15,$,Fast Food,u0l2Dt-pishIKqlofjXjcg,Davis,Yolo County
+435,Sam's Mediterranean Cuisine,38.5440639,-121.7450443,301 B St,95616,4.5,1066,$,Mediterranean,I2MviWrFablKCIhePw-MjA,Davis,Yolo County
+436,De Vere's Irish Pub,38.54383,-121.7416,217 E St,95616,4,649,$$,Irish Pub,ktDezPsYUene7Dnara5AeQ,Davis,Yolo County
+437,I Love Sushi,38.56069503,-121.75683,620 W Covell Blvd,95616,4,128,$$,Sushi Bars,T5YmGhV_RjmJeJEJx6bVXA,Davis,Yolo County
+438,Hometown Taiwanese Kitchen & Bar,38.54588,-121.73919,330 G St,95616,4,37,unavailable,Taiwanese,7RT-BBKF2r08sv1oY7cTjQ,Davis,Yolo County
+439,Burgers and Brew,38.54442,-121.74349,403 3rd St,95616,4,1853,$$,Burgers,L4e-5b7nyJsdZdi4PREnsQ,Davis,Yolo County
+440,Thai Nakorn,38.54669,-121.73938,424 G St,95616,4,450,$$,Thai,HCCy4dLNRL9_YvXlRTLwiw,Davis,Yolo County
+441,Taqueria Guadalajara,38.55974405,-121.7573667,640 W Covell Blvd,95616,4,698,$,Mexican,NdAR7BkgrDm-j_1TLzqt0w,Davis,Yolo County
+442,Fire Wings,38.56027,-121.75678,640 W Covell Blvd,95616,3.5,152,$$,Chicken Wings,0p189eA6Xb6TkernyFu9Dw,Davis,Yolo County
+443,Yakitori Yuchan,38.54211059,-121.7408131,109 E St,95616,3.5,395,$$,Ramen,R_iyHB2R5_tk3lqUYFp00w,Davis,Yolo County
+444,Taqueria Davis,38.54877472,-121.7349014,505 1/2 L St,95616,4.5,537,$,Mexican,ZGga54kHVE7tUnSZlfvITg,Davis,Yolo County
+445,Paesanos,38.54315,-121.7394,139 G St,95616,3.5,516,$$,Italian,5pWzNr4QQtQQZNXZRmpM3w,Davis,Yolo County
+446,Thai Canteen,38.542374,-121.7410179,117 E St,95616,3.5,912,$$,Thai,1g8fx1DXNpf7RTBuzcd-lA,Davis,Yolo County
+447,Fish's Wild Island Grill,38.54302435,-121.7415012,516 2nd St,95616,4,302,$,Seafood,lkc3ZfRfls8YTgYIPaJ4hA,Davis,Yolo County
+448,Boiling Pot,38.54978029,-121.740319,630 G St,95616,3.5,183,$$,Taiwanese,X17_PstL3dJqR_vJvnqN_g,Davis,Yolo County
+449,Tommy J's Grill & Catering,38.54339,-121.73917,726 2nd St,95616,4,376,$$,American (Traditional),dqyX4WCSGsRRgs2miFzA7w,Davis,Yolo County
+450,Chay Corner,38.5465,-121.74006,407 G St,95616,4,34,unavailable,Vegan,xcDBpd6h7EUcb2Adba4WmA,Davis,Yolo County
+451,Yeti Restaurant,38.54372,-121.74102,234 E St,95616,4,279,$$,Indian,020ZLMQtsF2t7G4klDPsvw,Davis,Yolo County
+452,Chickpeas Kitchen - Davis,38.56027,-121.75678,640 West Covell Blvd,95616,4,289,$,Middle Eastern,W2MjAZtRgwl5CpbYzLdGzg,Davis,Yolo County
+453,The Old Teahouse,38.547273,-121.760364,825 Russell Blvd,95616,4,171,$,Bubble Tea,B0gUwH61MZI3zHhBR-mQTA,Davis,Yolo County
+454,Chengdu Style,38.54757701,-121.7590921,737 Russell Blvd,95616,3.5,170,$$,Chinese,rVdlgISrJxgNwfTDaQuwqA,Davis,Yolo County
+455,i-Tea,38.5434225,-121.7468278,236 A St,95616,4,67,$,Bubble Tea,W737Oh1NERPNG7dV34_UzA,Davis,Yolo County
+456,Red 88 Noodle Bar,38.54434,-121.739259,223 G St,95616,3,394,$,Bars,IYvbxcGXJAA6pZ9YMUiPeQ,Davis,Yolo County
+457,Manna Korean Restaurant,38.5444549,-121.7410837,622 3rd St,95616,3,245,$$,Korean,ITBLNZMjJnP3R3UJVTBS8Q,Davis,Yolo County
+458,Lazi Cow,38.5465,-121.74006,407 G St,95616,3.5,407,$,Desserts,U0_DUIITYCDr_1ZDEx00vA,Davis,Yolo County
+459,The Mustard Seed,38.5439551,-121.7419751,222 D St,95616,3.5,269,$$$,American (New),3w8N54N-VT6igPhUHQu2dQ,Davis,Yolo County
+460,Davis Noodle City,38.54267,-121.74127,129 E St D1,95616,3.5,467,$,Taiwanese,gHlJcEZPBuEBHN88eDMd9g,Davis,Yolo County
+461,Seasons Restaurant,38.5422347,-121.7394549,102 F St,95616,3.5,264,$$,American (New),9c9dMT8dDo3pIRMh3rZIrw,Davis,Yolo County
+462,Uniboil,38.54283,-121.74059,132 E St,95616,3.5,82,$$,Noodles,_nlwVAdUxqTu3kVu6i-zpA,Davis,Yolo County
+463,Zen Toro Japanese Bistro & Sushi Bar,38.54283,-121.74059,132 E St,95616,3.5,449,$$,Sushi Bars,u7sG4XfiiM58y5VHulhwRw,Davis,Yolo County
+464,Woodstock's Pizza Davis,38.5441692,-121.7391611,219 G St,95616,4,720,$$,Pizza,BcoTEYalRP6SR7gDn_VefA,Davis,Yolo County
+465,Taste of Thai,38.545,-121.73961,301 G St,95616,3.5,258,$$,Thai,cyMmnOLF7jmX1f3N_wPpGg,Davis,Yolo County
+466,Honey D Cafe,38.54363,-121.74154,213 E St,95616,3.5,41,unavailable,Taiwanese,bBqM3gtToeAd06vr9Tmmmw,Davis,Yolo County
+467,Open Rice Kitchen,38.5438679,-121.7387923,204 G St,95616,3,515,$,Chinese,ywcWDBIgQFql2L08iawVZg,Davis,Yolo County
+468,Tasty Kitchen,38.5457879,-121.7408356,335 F St,95616,3,198,$$,Cantonese,BMAf1Mi65tGzlzeWfnot4w,Davis,Yolo County
+469,Mermaid Sushi,38.54900555,-121.7401108,620 G St,95616,4,20,$,Sushi Bars,dx2cgK0xlW5F_ynwyBa3Jw,Davis,Yolo County
+470,Ding How Restaurant,38.56027,-121.75678,640 W Covell Blvd,95616,3.5,238,$,Chinese,zaRXb20vdcnY4hMyi1ED2w,Davis,Yolo County
+471,Froggy's Bar & Grill,38.54339,-121.73917,726 2nd St,95616,4,232,$$,Bars,QGv6PEVmu8ka_LiV725TzQ,Davis,Yolo County
+472,Blaze Fast-Fire'd Pizza,38.54393,-121.73977,212 F St,95616,4.5,441,$,Pizza,N_BDcYgSezhveRy5Yq22Rw,Davis,Yolo County
+473,Our House,38.54338,-121.73847,808 2nd St,95616,3.5,220,$$,American (New),7ZvUozX8CBrdsn_2MtUicQ,Davis,Yolo County
+474,Smokin'Ewe BBQ,38.544448,-121.7388745,228 G St,95616,4,8,$$,Barbeque,9GXsHR6vXWpl3m-axQrR1A,Davis,Yolo County
+475,China Bistro,38.5527,-121.71399,2880 5th St,95618,3,57,$$,Chinese,CqqQcnQPF9c1ENV3zB915A,Davis,Yolo County
+476,Sophia's Thai Bar & Kitchen,38.54279426,-121.7411274,129 E St,95616,3.5,656,$$,Thai,XXLy6_O6duFFZPBlgE-i0A,Davis,Yolo County
+477,Hunan Bar & Restaurant,38.5431969,-121.7423597,207 D St,95616,3.5,283,$,Chinese,CcxNJEGntphv0wH9qm99tw,Davis,Yolo County
+478,Nami Sushi,38.55272727,-121.7142547,2880 5th St,95618,3.5,286,$$,Sushi Bars,JfdUC9Ccw62-ARNuxcN6PQ,Davis,Yolo County
+479,KetMoRee Thai Restaurant & Bar,38.5448,-121.73886,238 G St,95616,3,562,$$,Thai,71mFc43koFfJPvzMJ2rs3g,Davis,Yolo County
+480,Ohana Hawaiian BBQ,38.5472793,-121.76023,825 Russell Blvd,95616,3,307,$,Hawaiian,Ym8tBi9ssLQgA-dMOgwPaw,Davis,Yolo County
+481,Cafe Bernardo,38.54416275,-121.7421265,234 D St,95616,3.5,510,$$,American (New),9W7YjwC7RxibXCfBhUec3g,Davis,Yolo County
+482,Raja's Tandoor,38.543752,-121.746706,207 3rd St,95616,4,590,$,Indian,K5FVrRw9HLMLrUarxZOrLA,Davis,Yolo County
+483,Farmer's Kitchen,38.5457501,-121.7414363,624 4th St,95616,4,78,$$,Bakeries,mGae9A6_RP4RQItLeGNrpw,Davis,Yolo County
+484,Pho King 4,38.5437213,-121.7459065,226 3rd St,95616,3,606,$,Vietnamese,UQi46vvRtAtQ20JvFnsptg,Davis,Yolo County
+485,Symposium Restaurant & Pizza House,38.5532851,-121.7314824,1620 E 8th St,95616,3.5,151,$$,Pizza,Nyb7QDI8ZE813ekNChihxQ,Davis,Yolo County
+486,Kathmandu Kitchen,38.54459763,-121.7388229,234 G St,95616,3.5,483,$$,Indian,1LYPBxME9ze2aFY5Kl9kWA,Davis,Yolo County
+487,Preethi Indian Cuisine,38.5437116,-121.7392266,715 2nd St,95616,3.5,291,$$,Indian,ENmi2GlUjrm8A5nKTv-czA,Davis,Yolo County
+488,Three Ladies Cafe,38.54307613,-121.7385412,130 G St,95616,3.5,81,$$,Juice Bars & Smoothies,DnkCSzuaGu6ZbPR3NgwQjg,Davis,Yolo County
+489,Ramen Hook,38.5464368,-121.7606331,825 Russell Blvd,95616,3,191,$,Sushi Bars,AZwpeeRJ7uQB0Eiozy3mxA,Davis,Yolo County
+490,Konditorei Austrian Pastry Cafe,38.551858,-121.7183134,2710 East 5th St,95618,4,321,$$,Bakeries,a4RfpM6MNjTjpAQHky5xPw,Davis,Yolo County
+491,Nugget Markets,38.56123,-121.73308,1414 E Covell Blvd,95616,4.5,338,$$,Grocery,K1SFIxSL8GWDl8veC82V9A,Davis,Yolo County
+492,Ali Baba,38.543555,-121.7462637,220 3rd St,95616,3.5,303,$,Middle Eastern,BnV6-tk01SiufBbJ7pB-9A,Davis,Yolo County
+493,Tres Hermanas,38.544289,-121.738476,805 2nd St,95616,3,293,$$,Mexican,4CKToYqUmlJYqkUPdeDiIg,Davis,Yolo County
+494,The Davis Graduate,38.54719178,-121.7598918,805 Russell Blvd,95616,3.5,253,$,Sports Bars,h6n3kwATxhm4UmgltKUWZA,Davis,Yolo County
+495,Ike's Sandwiches,38.54393,-121.73977,212 F St,95616,4,308,$,Sandwiches,BReP9GHrSDZA082TMbmaxw,Davis,Yolo County
+496,Taqueria El Burrito,38.54411194,-121.7406501,223 F St,95616,3.5,424,$,Mexican,olL-qRb3UuZgqVFT1A5zlA,Davis,Yolo County
+497,Village Bakery,38.5435379,-121.7386361,814 2nd St,95616,4,274,$,Bakeries,BXGz-aDjgXENw1mfdy2hFA,Davis,Yolo County
+498,Bistro 33,38.54441,-121.73991,226 F St,95616,2.5,813,$$,Bars,t8LcIcM9nO_gITvo2nV_1w,Davis,Yolo County
+499,Davis Sushi Buffet,38.54368973,-121.7395935,707 2nd St,95616,3,625,$$,Sushi Bars,ak4UdEUhXyyzTAnffnY7Yw,Davis,Yolo County
+500,Wingstop,38.54643678,-121.7396111,408 G St,95616,3,130,$$,Chicken Wings,lhfzFOJooW4z0xZvsZjyDw,Davis,Yolo County
+501,Shah's Halal Food - University Mall,38.54668465,-121.7599943,825 Russell Blvd,95616,4,279,$,Food Trucks,pHPnraHHsM3TchlbUP3eKA,Davis,Yolo County
+502,Jusco Japanese Restaurant,38.54460138,-121.738976,228 G St,95616,3.5,291,$$,Japanese,6xezYgIqkO2MSAWslm4Hhw,Davis,Yolo County
+503,The Hotdogger,38.54267,-121.74127,129 E St,95616,4,253,$,Hot Dogs,c0yIPL1duxmhNRHEBPFDHw,Davis,Yolo County
+504,Dickey's Barbecue Pit,38.56027,-121.75678,640 W Covell Blvd,95616,3,90,$$,Barbeque,jJUz7LnkQo330cg7C85G8g,Davis,Yolo County
+505,Sourdough & Co,38.547282,-121.760426,825 Russell Blvd,95616,3.5,94,$,Sandwiches,GxEjeDsigW-73fK7okR0xA,Davis,Yolo County
+506,Uncle Vito's Slice of NY,38.54305616,-121.7412283,524 2nd St,95616,3.5,324,$,Pizza,eWEgh9MnoHMQGG6evmAIwg,Davis,Yolo County
+507,Icekrimski Cafe,38.54325905,-121.7407619,618 2nd St,95616,4,165,$,Ice Cream & Frozen Yogurt,st4UdixGjFl4NYq9CIq5TQ,Davis,Yolo County
+508,Cenario's Pizza of Davis,38.561,-121.73463,1300 E Covell Blvd,95616,3.5,51,$,Pizza,5n4BZZ3Bc_uv7h5hfcw96g,Davis,Yolo County
+509,El Toro Bravo,38.54423165,-121.7426035,237 D St,95616,3.5,217,$$,Mexican,W9C2WIK7QcxcQNQoOWaDxQ,Davis,Yolo County
+510,Davis Food Co-op,38.54943,-121.73994,620 G St,95616,4,227,$$,Grocery,URI4y1OkYu0x1o9RT4XvTQ,Davis,Yolo County
+511,G Street WunderBar,38.5442579,-121.738915,228 G St,95616,3,151,$,Barbeque,AbNxqYKzwgtiTvISoRsiLw,Davis,Yolo County
+512,Village Pizza & Grill,38.54632,-121.74,403 G St,95616,3.5,299,$$,Pizza,4zjwM4JXGD1Ys7rEnmOx9Q,Davis,Yolo County
+513,Parkside Bar & Lounge,38.54588,-121.73919,330 G St,95616,3,1,unavailable,Lounges,G73t06dNm4oErfFRogMDvg,Davis,Yolo County
+514,Street Cravings,38.55448,-121.72152,,95618,4.5,10,unavailable,Food Trucks,6ehq00Wiaa0N_oUN_4EaFw,Davis,Yolo County
+515,Crepeville,38.54407535,-121.7437934,330 3rd St,95616,4,855,$$,Breakfast & Brunch,RXomRj2iuax6tLVQ2rwcKQ,Davis,Yolo County
+516,Temple Coffee Roasters,38.54471,-121.73953,239 G St,95616,4,404,$,Cafes,ZdYwpHXmh7MsE4AS2hla7A,Davis,Yolo County
+517,Tea List,38.54382706,-121.7420273,222 D St,95616,4,340,$$,Coffee & Tea,Qdzx7tsNBxGPo-Sa2K9v5g,Davis,Yolo County
+518,Golden Sun,38.5532612,-121.7301415,1750 E 8th St,95616,3,83,$,Chinese,W7lwAEmH07gp319q5V3t8A,Davis,Yolo County
+519,3rd and U Cafe,38.5439099,-121.74633,223 3rd St,95616,3.5,193,$,American (New),Kkt2r8EbOAPPCok0dpP-lg,Davis,Yolo County
+520,Cuarto Dining Commons,38.547257,-121.763157,550 Oxford Cir,95616,4,15,$,Buffets,AkSKpclvlkO31cZK9IA0mQ,Davis,Yolo County
+521,City Hall Tavern,38.54434748,-121.7400384,216 F St,95616,3.5,61,$$,American (New),El3EhDdiwFhPxnueBMbT6Q,Davis,Yolo County
+522,Zia's Delicatessen,38.5444471,-121.7411311,616 3rd St,95616,4,324,$,Delis,BdAdm9IltdNb_FG7fADPQg,Davis,Yolo County
+523,Steve's Pizza,38.54536,-121.74018,314 F St,95616,3.5,167,$$,Pizza,V9gB76Sc2wexbCrG_NGo5w,Davis,Yolo County
+524,Wing-Time Buffalo Wing Sauces,38.55057526,-121.7152557,606 Pena Dr,95616,5,1,unavailable,Chicken Wings,lO6ysZsKIQvtemFa7Im0Dg,Davis,Yolo County
+525,Chipotle Mexican Grill,38.54404614,-121.7415946,227 E St,95616,3,204,$,Mexican,3slTIjiepraU1gq3sPrwUg,Davis,Yolo County
+526,Little Caesars Pizza,38.56092,-121.73408,1340 E Covell Blvd,95616,2.5,34,$,Pizza,k7Od-U59-QV3DS8YVLjDoQ,Davis,Yolo County
+527,Taco Bell,38.546976,-121.740015,425 G Street,95616,2.5,58,$,Fast Food,Mn2ehkvG7_M5YaNpwq3iPw,Davis,Yolo County
+528,Bare Juices,38.54666,-121.74121,,95616,3.5,9,unavailable,Juice Bars & Smoothies,XulN2hzohxndgCBEK1KeAQ,Davis,Yolo County
+529,Black Bear Diner,38.54284,-121.74481,255 Second St,95616,3.5,496,$$,Breakfast & Brunch,PXz1zMm-RjTY_aYGF-14Dw,Davis,Yolo County
+530,KFC,38.5423,-121.731,1617 Research Park Dr.,95616,1.5,125,$,Fast Food,AUHx-4tdXdf11DAdZLMsyw,Davis,Yolo County
+531,Pizza Guys,38.54871329,-121.7348311,505 L St,95616,3.5,68,$,Pizza,yqx0ZA0IDOdZYlsNOlAHjw,Davis,Yolo County
+532,Carl's Jr.,38.56207,-121.73164,1616 E Covell Blvd,95616,2.5,23,$,Fast Food,IWKDBW2cMOa5kwty2Bd89A,Davis,Yolo County
+533,Papa Murphy's,38.56027,-121.75678,640 West Covell Blvd,95616,3.5,33,$$,Pizza,6X7d7KrXDFfpvlFEQjOrAw,Davis,Yolo County
+534,Panera Bread,38.5448089,-121.7408087,609 3rd St,95616,3,146,$,Sandwiches,CW_DCl2bRlsLVgliFFiBDw,Davis,Yolo County
+535,Barista Brew Cafe,38.54722356,-121.740048,431 G St,95616,4,152,$,Coffee & Tea,fls2Y7NiwzKxAeHc5VyWqg,Davis,Yolo County
+536,Jack in the Box,38.545858,-121.739805,337 G St,95616,2.5,69,$,Fast Food,ZliRrg2z-KQxHliNgquplg,Davis,Yolo County
+537,Cafe 110,38.54271876,-121.739622,110 F St,95616,2.5,8,$,American (Traditional),Tx2tkq6tJ4CHQI747Gjglg,Davis,Yolo County
+538,Subway,38.56103,-121.73473,1300 E Covell Blvd,95616,2.5,12,$,Fast Food,zmGBV_69ppNxJzPq0n4njw,Davis,Yolo County
+539,Subway,38.54759294,-121.759314,757 Russell Blvd,95616,2,54,$,Sandwiches,LKZIBQPiDGQOJxp8ZnPIMg,Davis,Yolo County
+540,Star Ginger Food Truck,38.54565,-121.7425,,95616,2.5,41,$,Street Vendors,NPkKsr7qIBygOLyPOJXrdw,Davis,Yolo County
+541,Subway,38.54338837,-121.7384796,130 G St,95616,3,32,$,Sandwiches,DYZDMa8zlIjEtiT3bwe87A,Davis,Yolo County
+542,Ciao,38.54225959,-121.7495049,1 Shields Ave,95616,2,5,$,American (New),MJbx5BdYiUFkQLb6rfKokw,Davis,Yolo County
+543,Huku Japanese Bistro,38.5497017,-121.6956863,417 Mace Blvd,95618,4,292,$$,Japanese,0hnY8GJeCRlNSGvkzmbS8w,Davis,Yolo County
+544,Taqueria Guadalajara Grill,38.54982624,-121.695944,417 Mace Blvd,95616,4,308,$,Mexican,OW4OgFFKD-2Vf8UdNCO5EA,Davis,Yolo County
+545,Wok of Flame,38.5493984,-121.6962463,417 Mace Blvd,95618,4,435,$$,Chinese,k0VO4SlsDXV8YVFk3HRZxg,Davis,Yolo County
+546,Cindy's Restaurant,38.55128,-121.69372,4823 Chiles Rd,95618,4,242,$,Thai,2C1qNA6H7vMhEhH-AvS6IA,Davis,Yolo County
+547,Beach Hut Deli,38.5552493,-121.6954743,4515 Fermi Pl,95618,3,132,$$,Sandwiches,lxUbp7TYundAUABLWv4kZg,Davis,Yolo County
+548,Extreme Pizza,38.5497,-121.69569,417 Mace Blvd,95618,3.5,47,unavailable,Pizza,imyEJ-eBKkww9oc2KVmgbQ,Davis,Yolo County
+549,Nugget Markets,38.54991,-121.69476,409 Mace Blvd,95618,4,113,$$,Grocery,G1EXec0C_Mu6Vs0fclc2sQ,Davis,Yolo County
+550,McDonald's,38.550596,-121.697333,4444 Chiles Rd,95616,3,115,$,Fast Food,gqRDktIJhDi1YeBCasQOyg,Davis,Yolo County
+551,Taco Bell,38.551079,-121.693533,4811 Chiles Road,95618,2.5,43,$,Fast Food,xJ3J-xzQk5WO6GQKHwZ0aQ,Davis,Yolo County
+552,Kow Thai Restaurant,38.55128,-121.69372,4823 Chiles Rd,95618,3.5,42,$$,Thai,V1eTf5Qw3lZ1arAagXAFtA,Davis,Yolo County
+553,Pizza Hut Express,38.55563,-121.69723,4625 2nd St,95618,3,1,$,Pizza,Judhpfp9mn-rJoiDzfG0wQ,Davis,Yolo County
+554,Domino's Pizza,38.55052185,-121.7012558,4120 Chiles Rd,95618,3,19,$,Pizza,pv6ifXufS9Oz7JWefvsXGw,Davis,Yolo County
+555,Subway,38.55015945,-121.6935883,4748 Chiles Rd,95616,3,22,$,Sandwiches,eDDrdCCv3_xclRgz7WmlDg,Davis,Yolo County
+556,Oishii Teriyaki,38.5726169,-121.5797466,4055 Lake Rd,95691,3.5,148,$,Japanese,MRo_GaXCmUsR5cj3nMar4Q,West Sacramento,Yolo County
+557,Grand Central Station,38.57256,-121.54954,1250 Harbor Blvd,95691,4,134,$,Cheesesteaks,PSXE24FtwjFA7K2cKUi0QA,West Sacramento,Yolo County
+558,Chando's Tacos,38.56745,-121.5434,2530 Boatman Ave,95691,4,220,$,Mexican,krOJi0NgmQGcW3EfYjIwVg,West Sacramento,Yolo County
+559,Taqueria Maya's Taco Truck,38.5775808,-121.5675935,4205 W Capitol Ave,95691,4.5,77,$,Food Trucks,R51pSR7ESxFFloDrrIGeqw,West Sacramento,Yolo County
+560,Flaming Grill Cafe,38.57138652,-121.5490115,1350 Harbor Blvd,95691,4,248,$$,Burgers,PH9AuRZmVVDsUYlxwqXAmw,West Sacramento,Yolo County
+561,Kick N Mule,38.57899983,-121.5496375,2901 W Capitol Ave,95691,4,233,$$,Sports Bars,jucm4MlKRUTlF0VKKYUOUw,West Sacramento,Yolo County
+562,Eppie's Restaurant,38.5717058,-121.5793346,4025 Lake Rd,95691,4,56,$,Diners,vnCIRaUwBk0JTAlj1k30Yw,West Sacramento,Yolo County
+563,Serrano's Cafe,38.5790061,-121.5504206,3021 W Capitol Ave,95691,4.5,386,$,Breakfast & Brunch,TDhp8Cv0sXecG2VX5EzTbg,West Sacramento,Yolo County
+564,Sancho's Tacos & Burritos,38.57218,-121.57951,4055 Lake Rd,95691,3.5,75,$,Mexican,nJ8i1turW6PU00cMqoynnA,West Sacramento,Yolo County
+565,Raku Sushi,38.57843,-121.54835,805 Harbor Blvd,95691,4,439,$$,Japanese,2TXL003Q2TJGwyyl92OlPQ,West Sacramento,Yolo County
+566,Vince's Ristorante,38.578256,-121.549102,840 Harbor Blvd,95691,3.5,231,$$,Italian,lokhqeUaiKKOlJ5qenlrcg,West Sacramento,Yolo County
+567,River City Grill,38.56958,-121.54357,2521 Del Monte St,95691,4,58,$,American (New),P-12THRPCe2G6JKjdzEjHQ,West Sacramento,Yolo County
+568,Krispy Krunchy Chicken,38.57669,-121.54801,2811 Evergreen Ave,95691,4.5,14,unavailable,Seafood,yeA6FCRVXRTvf0HLd04CJw,West Sacramento,Yolo County
+569,California Burrito,38.57951,-121.5497,2910 W Capitol Ave,95691,4,111,$,Mexican,NdHkQVmiQIcdd-weII58IQ,West Sacramento,Yolo County
+570,Hings Chinese Cuisine,38.57845002,-121.5497315,2933 W Capitol Ave,95605,3.5,137,$,Chinese,SKB4EaTgHNyNQs7WC6VUhg,West Sacramento,Yolo County
+571,Taste of India,38.577703,-121.550376,3025 W Capitol Ave,95691,5,1,unavailable,Indian,Wpxa3x6t9xEY3G66kKjDpw,West Sacramento,Yolo County
+572,24 Karat Grill,38.57260132,-121.5755844,3951 Lake Rd,95691,4.5,7,$,American (Traditional),iBgLfpb5abOr1IGmdgTnUQ,West Sacramento,Yolo County
+573,Oscar's Very Mexican Food,38.57140818,-121.5490487,1350 Harbor Blvd,95691,3.5,312,$,Mexican,H4yS5gKpTn7YiYBNIHwQ4Q,West Sacramento,Yolo County
+574,I Love Teriyaki,38.578809,-121.549154,830 Harbor Blvd,95691,4,40,$,Japanese,AEZ3njHcIMJxFcYyg7hk5w,West Sacramento,Yolo County
+575,La Favorita Taqueria,38.5790059,-121.5504225,3023 W Capitol Ave,95605,3.5,186,$,Mexican,h5sPtmxRo0im2EqWcDHInw,West Sacramento,Yolo County
+576,Panaderia La Purisima,38.578225,-121.548906,840 Harbor Blvd,95691,4.5,13,$,Bakeries,a_65xiGtnPaPiBvtSXc6uw,West Sacramento,Yolo County
+577,Mountain Mike's Pizza,38.578512,-121.549138,2919 W Capital Ave,95691,3,54,$$,Pizza,KcvTj7Yyjtvi7NPYybyhDw,West Sacramento,Yolo County
+578,Pizza Guys,38.57889,-121.54908,800 Harbor Blvd,95691,3,45,$$,Pizza,iatmLlDEZWmX4xX7ThJl_A,West Sacramento,Yolo County
+579,Denny's,38.57348925,-121.5491328,1235 Harbor Blvd,95691,3,115,$,American (Traditional),IweWgk1106BWq8MHquzgIg,West Sacramento,Yolo County
+580,Taco Bell,38.5774,-121.5487,850 Harbor Blvd,95691,3,28,$,Mexican,jYGqW8GqQG1jl3fypNLh-Q,West Sacramento,Yolo County
+581,McDonald's,38.57902037,-121.548229,2729 W Capitol Ave,95691,1.5,52,$,Fast Food,onAjCru5B7c88D9HJoZE_Q,West Sacramento,Yolo County
+582,Domino's Pizza,38.578404,-121.5473933,829 Harbor Blvd,95691,2,38,$,Pizza,F40VhA9Agzq1GB9u3b_H0A,West Sacramento,Yolo County
+583,Subway,38.57206648,-121.578793,4015 Lake Rd,95691,2,33,$,Sandwiches,Qjvc-X7mD-d7L6LEN1EHZA,West Sacramento,Yolo County
+584,Togoâs Sandwiches,38.579199,-121.543602,2455 W Capitol Ave,95691,3,34,$,Sandwiches,E9py05WEWdpmI5Z5BerVxQ,West Sacramento,Yolo County
+585,Jimboys Tacos,38.5795403,-121.5492935,750 Harbor Blvd,95691,1,1,unavailable,Mexican,EOZIcsYWG2VnE-Sv7XILDg,West Sacramento,Yolo County
+586,Vince's Deli & Liquor,38.578261,-121.549105,840 Harbor Blvd,95691,4,1,unavailable,Delis,gp4w57Mh_wAi-XZ9D2XfTw,West Sacramento,Yolo County
+587,Carl's Jr.,38.577159,-121.549232,854 Harbor Blvd,95691,2.5,22,$,Burgers,ktlBWBTsnXMiz5o8eYAa_Q,West Sacramento,Yolo County
+588,Del Taco,38.578063,-121.548255,841 Harbor Blvd,95691,2.5,58,$,Mexican,MPq8yYioOr-4P12cn7DGbA,West Sacramento,Yolo County
+589,Fruit Stand I-80 /Davis,38.57134,-121.57124,First Exit After Causeway Heading To Davis,95799,2,1,$$,Fruits & Veggies,Jr4KauCC7k7t8YDs5VpZ-g,West Sacramento,Yolo County
+590,Wienerschnitzel,38.5795403,-121.5492935,750 Harbor Blvd,95691,1.5,15,$,Fast Food,M5e8ssDPcXCZZiou4-o8rg,West Sacramento,Yolo County
+591,Subway,38.578518,-121.54791,817 Harbor Blvd,95691,2,18,$,Sandwiches,9Xhk5dQga44HmcezsBsGkA,West Sacramento,Yolo County
+592,Harbor Deli & CafÃ©,38.57809,-121.54922,840 Harbor Blvd,95691,2.5,2,unavailable,Indian,vjyt2SHSWDK1o6R6lwXDVw,West Sacramento,Yolo County
+593,Vientiane Restaurant,38.57517,-121.52373,1001 Jefferson Blvd,95691,4,311,$$,Thai,ZGzEdyWLtP_PlAxHLXOH-g,West Sacramento,Yolo County
+594,Marco's Pizza,38.555962,-121.540092,2230 Lake Washington Blvd,95691,3.5,9,unavailable,Pizza,PN09yh7MsWTP7B4kEt6plw,West Sacramento,Yolo County
+595,The Sail Inn Grotto and Bar,38.56918,-121.52489,1522 Jefferson Blvd,95691,4,210,$$,Bars,uQGVtckfGduuThLjuLigzg,West Sacramento,Yolo County
+596,Peace Cuisine,38.579807,-121.525283,829 Jefferson Blvd,95691,4.5,382,$,Chinese,EyVMhfsbWIyxuG5OyOazFQ,West Sacramento,Yolo County
+597,Wings Plus Plus,38.57948629,-121.5244712,1259 Merkley Ave,95691,4.5,166,$,American (Traditional),Ibw__yMRbL_MXXKZgFkezw,West Sacramento,Yolo County
+598,Pooja Indian Grill,38.5798195,-121.5242959,1223-25 Merkley Ave,95691,4,530,$$,Indian,hwHh0VtEJ4jFGO-j-rtdmQ,West Sacramento,Yolo County
+599,Taqueria Ay Jalisco,38.57581,-121.52515,900 Jefferson Blvd,95691,4,232,$$,Mexican,9OptOB51HX7XIgWeccLZ2Q,West Sacramento,Yolo County
+600,Whitey's Jolly Kone,38.57168,-121.5238,1300 Jefferson Blvd,95691,4,368,$,Fast Food,wLUODnY2m2pqMPEiNyqZ0w,West Sacramento,Yolo County
+601,Roman's Pizza,38.58095,-121.53033,1648 W Capitol Ave,95691,4,216,$,Pizza,MrtORrCrTKdUuKOSQYwnmg,West Sacramento,Yolo County
+602,Carol's Restaurant,38.580933,-121.523929,1201 W Capitol Ave,95691,4,344,$$,Breakfast & Brunch,4mpEi_dekmRnPr873Sbwrw,West Sacramento,Yolo County
+603,Kabab Corner,38.575172,-121.523735,1001 Jefferson Blvd,95691,3.5,148,$,Indian,AsrkTvigjppeSrNk0rkUug,West Sacramento,Yolo County
+604,Club Pheasant,38.55182,-121.53711,2525 Jefferson Blvd,95691,3,278,$$,Italian,m8TQyBEec4AmbhvAGRsz4A,West Sacramento,Yolo County
+605,Cap's Bar and Grill,38.58291,-121.51979,900 W Capitol,95691,3.5,19,$,American (New),4zDZ3YMMDhqBPSyxuM4Stw,West Sacramento,Yolo County
+606,Aloha Poke & Ramen,38.54945,-121.5374,2055 Town Center Plz,95691,4,56,unavailable,Poke,bAvwHwg1JPKQvko0832KWQ,West Sacramento,Yolo County
+607,El Puerto Restaurant,38.58016,-121.53992,2248 West Capital Ave,95691,4,83,$,Mexican,_Lqsp6APNtJWTr9htJKIoQ,West Sacramento,Yolo County
+608,Hula Hawaiian BBQ,38.550712,-121.538551,2155 Town Ctr Plz,95691,3,163,$,Hawaiian,67VWvLJ-vZU1_SdmlXSD3Q,West Sacramento,Yolo County
+609,Cocina Dona Chuyita,38.57268,-121.523358,1035 Drever St,95691,4.5,90,$,Mexican,Pia4apWoOuhHpgEBfB8CWg,West Sacramento,Yolo County
+610,Lighthouse Bar & Grill,38.57959404,-121.5384147,2125 W Capitol Ave,95691,3.5,8,$,Sports Bars,_-2jWFn7BQKluZM1-ENFtQ,West Sacramento,Yolo County
+611,Eastside Chef,38.550116,-121.538699,2105 Town Center Plz,95691,3.5,202,$,Chinese,sWmKmTx9JUt0sPStOUrIfg,West Sacramento,Yolo County
+612,Streets of London Pub,38.553607,-121.537864,2200 Lake Washington Blvd,95691,3,252,$$,British,i_sPGnHQojeFjzmlsvBJZg,West Sacramento,Yolo County
+613,Hefty Burgers,38.58054,-121.5303334,1640 W Capitol Ave,95691,3.5,166,$,Burgers,e91QektfhOT1z7QWVz98iA,West Sacramento,Yolo County
+614,Savoury,38.55603,-121.539779,2240 Lake Washington Blvd,95691,4.5,129,$,Cafes,WEnZWQuV_fDKcUq6HlTNBw,West Sacramento,Yolo County
+615,Little Caesars,38.57991,-121.52515,825 Jefferson Blvd,95691,2,48,$,Pizza,sMJQiYlLKglskAJ00lm0bw,West Sacramento,Yolo County
+616,Tsuki Sushi,38.554012,-121.538163,2210 Lake Washington Blvd,95691,3.5,194,$$,Sushi Bars,jIXimgjQz7nktgghdaZxzg,West Sacramento,Yolo County
+617,KFC,38.5797,-121.531,812 Westacre Road,95691,1.5,71,$,Fast Food,8OVmPW-CSVukF2kVsIDdtQ,West Sacramento,Yolo County
+618,Papa Murphy's,38.58243834,-121.5250848,1288 West Capitol Avenue,95691,3.5,16,$$,Pizza,9jT54u4hqYL6PV9ZAJ0ZKQ,West Sacramento,Yolo County
+619,La Bou,38.5795699,-121.52597,849 Jefferson Blvd,95691,3,95,$,Coffee & Tea,ZkcJFvFXegjp3HMmOz464g,West Sacramento,Yolo County
+620,Round Table Pizza,38.55078332,-121.5381432,2105 Town Center Plaza,95691,2,152,$$,Pizza,gJf-GTV68qyEDL7aqW3YXA,West Sacramento,Yolo County
+621,Nugget Markets,38.55090952,-121.5359442,2000 Town Center Plz,95691,4.5,369,$$,Grocery,hjcDNEhmYayRfA2gRh8xgQ,West Sacramento,Yolo County
+622,Panda Express,38.55392164,-121.5388657,2220 Lake Washington Blvd,95691,2.5,39,$,Chinese,7NwaF3FYbo2--Cz6J4BI-Q,West Sacramento,Yolo County
+623,Subway,38.58199,-121.52214,1036 W Capitol Ave,95691,3,15,$,Fast Food,xzWz-uIkPD4WvPeYI94WEQ,West Sacramento,Yolo County
+624,Papa Murphy's,38.55263,-121.53626,2455 Jefferson Boulevard,95691,3,33,$,Pizza,9eOiL7GnNuXYIglYHGHvrA,West Sacramento,Yolo County
+625,McDonald's,38.58074,-121.5311373,1700 W Capitol Ave,95691,1.5,54,$,Fast Food,Cu-G29vPW7vTcAOc2Yb0FA,West Sacramento,Yolo County
+626,A&W,38.579559,-121.531105,812 Westacre Rd,95691,2,3,unavailable,Burgers,wy1lB87ugguNH9Pp3guF5g,West Sacramento,Yolo County
+627,McDonald's,38.5569484,-121.5403142,2244 Lake Washington Blvd,95691,1.5,115,$,Burgers,hQZIaGWYVHiXfZVpGUp9Tw,West Sacramento,Yolo County
+628,Taco Bell,38.55639,-121.54065,2246 Lake Washington Blvd.,95691,2.5,37,$,Fast Food,uXojxbxS4-zNda_OzFbv5w,West Sacramento,Yolo County
+629,Subway,38.55068249,-121.5385905,2155 Town Center Plz,95691,2,41,$,Fast Food,TjhoYAHqvs4oOHazrQ0vOA,West Sacramento,Yolo County
+630,boon eat + drink,38.50223,-122.99835,16248 Main St,95446,4.5,795,$$,American (New),xgawPTsisHDLwovF5pZroA,Guerneville,Sonoma County
+631,BROT modern german,38.50217862,-122.9976591,16218 Main St,95446,4.5,14,unavailable,German,adn8pX9_OB8Zm5ARExL4-A,Guerneville,Sonoma County
+632,Betty Spaghetti,38.50342755,-123.0001433,16390 4th St,95446,4,180,$$,Italian,zaiMJJM3SChP4qoCCROa7g,Guerneville,Sonoma County
+633,Timberline Restaurant,38.50318673,-123.0003636,16440 4th St,95446,4.5,123,$$,Comfort Food,zPNPVTvOPoN3GW0-oyINew,Guerneville,Sonoma County
+634,El Barrio,38.50205764,-122.9977255,16230 Main St,95446,4.5,80,$$,Cocktail Bars,K1PG8_2kUatkrIK7Vmn2ew,Guerneville,Sonoma County
+635,Agriculture Public House,38.5018506,-123.0021001,16467 Hwy 116,95446,4,100,$$$,American (New),aZilztGVgw657pe5r6ISAg,Guerneville,Sonoma County
+636,Patâs International,38.50218573,-122.9983576,16236 Main St,95446,4.5,16,unavailable,Bars,z_nAhjJaF15G1Cwm3ty24Q,Guerneville,Sonoma County
+637,Main Street Bistro,38.50212,-122.9984181,16280 Main St,95446,3.5,298,$$,Pizza,B7W2x5IaGJbIp3W60phzYg,Guerneville,Sonoma County
+638,Koala's Fine Food,38.501362,-123.000049,16380 Mill St,95446,4,113,$,Burgers,U7NccB1ohQqU5y1EEQLqDg,Guerneville,Sonoma County
+639,Big Bottom Market,38.50242,-122.99832,16228 Main St,95446,4,303,$$,"Beer, Wine & Spirits",GZRd4LhZeROsWLcr2846nA,Guerneville,Sonoma County
+640,Guerneville Taco Truck,38.50182723,-123.0011414,16632 Main St,95446,4.5,219,$,Mexican,4JFxWKGptINgDL146YTzhA,Guerneville,Sonoma County
+641,La Bodeguita,38.50136185,-123.0000458,16380 Mill St,95446,3.5,34,$,Mexican,aspvCoiU-Cxwtc8cPBHQ3g,Guerneville,Sonoma County
+642,Smart Pizza,38.50165348,-122.9972414,16205 1st St,95446,3,164,$$,Pizza,nF2Tiu0qtuaKmXl_Lwkh1Q,Guerneville,Sonoma County
+643,Taqueria La Tapatia,38.50180485,-123.0045662,16632 Hwy 116,95446,3.5,103,$$,Mexican,CTIfBMxpgppW9Ctk_YddZw,Guerneville,Sonoma County
+644,Flavors Unlimited,38.5021456,-123.0010969,16450 Main St,95446,4.5,130,$,Ice Cream & Frozen Yogurt,mUAbIYdpCdpPR0zM8IU23g,Guerneville,Sonoma County
+645,River Inn Grill,38.50206,-122.99622,16141 Main St,95446,3.5,170,$$,Breakfast & Brunch,3yVf6Dvs2VaPzht2x0eB1Q,Guerneville,Sonoma County
+646,Coffee Bazaar,38.50262222,-122.9973292,14045 Armstrong Woods Rd,95446,4,194,$,Coffee & Tea,LK6lAse_0OGJFbpgJwNT5A,Guerneville,Sonoma County
+647,Safeway,38.50090431,-123.0007796,16405 Hwy 116,95446,2,224,$$,Grocery,si5BcJaTX2GBzP0t9Eny_A,Guerneville,Sonoma County
+648,Subway,38.502258,-122.999069,16316 Main St,95446,2.5,20,$,Sandwiches,RA_42uhZ54ZNmhHduvp0gg,Guerneville,Sonoma County
+649,Russian River Pub,38.504316,-122.941268,11829 River Rd,95436,4,265,$$,American (Traditional),uB9SS05j0AEn10UKJCnBKQ,Forestville,Sonoma County
+650,The Farmhand,38.51403,-122.98238,15025 River Rd,95446,4.5,91,$$,Delis,OSuBLA-h2Yo6neFMHL0bjw,Guerneville,Sonoma County
+651,Huria's,38.5138239,-122.9834976,15045 River Rd,95446,4.5,14,unavailable,Pizza,W31uxkY6fGyouP7Pvvaong,Guerneville,Sonoma County
+652,Stumptown Brewery,38.51370827,-122.983609,15045 River Rd,95446,3.5,294,$$,Pubs,5QS9EM4mw9mE1CDPQ_ChAQ,Guerneville,Sonoma County
+653,Korbel Delicatessen & Market,38.50787571,-122.9647492,13250 River Rd,95446,4,107,$$,Delis,u8yTbX1lV1-DU6abwt5gQg,Guerneville,Sonoma County
+654,Guerneville Gas & Food 2,38.5117493,-122.9846802,15190 River Rd,95446,1,2,unavailable,American (New),q91mu124gk155lcl5r5-bw,Guerneville,Sonoma County
+722,Tomat's California Cuisine,38.5194,-121.98728,1123 Grant Ave,95694,4,66,$$,American (New),_vFi-QEeRab2I0nvaXsaQA,Winters,Yolo County/Solano County
+723,Goonies Bar & Grill,38.52492,-121.98719,9999 Roosevelt Ave,95694,5,4,unavailable,Sports Bars,3yE_t6d1IhaeNxObHUAneg,Winters,Yolo County/Solano County
+724,Preserve,38.52116,-121.96876,200 Railroad Ave,95694,4,414,$$,Lounges,xngM0XdP4_83zDKdOhNQ_Q,Winters,Yolo County/Solano County
+725,Ficelle,38.5223,-121.96844,5 E Main St,95694,4.5,151,$$,Spanish,G-ukVJFsW7bqceEMil5nFQ,Winters,Yolo County/Solano County
+726,Buckhorn Steakhouse,38.52152,-121.96892,2 Main St,95694,4,625,$$$,Steakhouses,MblC75U3lic6kdoGgFNusw,Winters,Yolo County/Solano County
+727,Yolo Traders Bistro,38.52131,-121.96949,30 Main St,95694,5,76,$$,Seafood,dg3Dav-atfrsMJiSYWrMsw,Winters,Yolo County/Solano County
+728,Putah Creek Cafe,38.5219312,-121.9691168,1 Main St,95694,3.5,582,$$,Breakfast & Brunch,dn-Fk04R9wd1vy-gi_BcRA,Winters,Yolo County/Solano County
+729,Ocean Restaurant,38.52099,-121.97037,104 Main St,95694,4,65,$,Chinese,AdIOhGUQaZres7hr7RmF9w,Winters,Yolo County/Solano County
+730,Chuy's Taqueria,38.52116,-121.96875,208 Railroad Ave,95694,3.5,104,$,Mexican,4qCHtqo0WyDykoNOYn9nBg,Winters,Yolo County/Solano County
+731,Kountry Kitchen,38.52502,-121.97139,11 Grant Ave,95694,3,23,$,American (Traditional),bCQ5jWLcmis2yKXY8741Sw,Winters,Yolo County/Solano County
+732,El Verduzco Taco Truck,38.52486863,-121.9702148,E Grant Ave,95694,4.5,25,$,Food Trucks,OnITjGTnJIJfj-dJBN1b_w,Winters,Yolo County/Solano County
+733,El Pueblo Meat Market & Deli,38.521536,-121.9701434,43 Main St,95694,4,65,$,Grocery,qg1q2V3CXrdtZUwb2Vf55A,Winters,Yolo County/Solano County
+734,Steady Eddy's Coffee House & Roastery,38.5223,-121.96844,5 E Main St,95694,4.5,138,$,Coffee & Tea,4qhOY6Ye1nZbq0zQZ_IzuQ,Winters,Yolo County/Solano County
+735,Lester Farms Bakery,38.52429581,-121.9705429,606 Railroad Ave,95694,4.5,39,$,Bakeries,bi-2296e98GfvEB-UtZ_fw,Winters,Yolo County/Solano County
+736,Round Table Pizza,38.5269462,-121.9649626,196 East Grant Ave,95694,3.5,32,$$,Pizza,xeEMUI-E_ArVtUpq3nqnEA,Winters,Yolo County/Solano County
+737,Burger King,38.53050889,-121.956439,701 County Rd 90,95694,1.5,20,$,Fast Food,QMz03l57ZLb1ElieUqlj3w,Winters,Yolo County/Solano County
+738,Anderson Family Catering & BBQ,38.52173,-121.9706,,95694,5,1,unavailable,Caterers,jHZ8v3Vj_Fs_bKL1AbO1MA,Winters,Yolo County/Solano County
+739,Tienda Delicious,38.52121,-121.96977,44 Main St,95694,2.5,3,unavailable,Restaurants,lOSi7StmB3pnNLys77Y8UA,Winters,Yolo County/Solano County
+740,Taco Bell,38.53145,-121.9528,703 Matsumoto Lane,95694,3,25,$,Tex-Mex,7BPuu7pqUws7D2BGAmK2DA,Winters,Yolo County/Solano County
+741,Subway,38.52659607,-121.9648972,180 E Grant Ave,95694,3,4,$,Sandwiches,qWlFQnkcnsJrb2lhwUF2Ng,Winters,Yolo County/Solano County
+743,D Street Steakhouse,38.54215046,-121.7420067,113 D St,95616,4,129,$$,Cocktail Bars,h6081clppJyibSYZPjJhSQ,Davis,Yolo County
+744,Four Seasons Gourmet Chinese Restaurant,38.54022201,-121.7319727,1601 Research Park Dr,95618,4.5,614,$,Chinese,qqti9B1QsOFEnNhplwAgug,Davis,Yolo County
+745,Mikuni Japanese Restaurant and Sushi Bar,38.54109,-121.740974,500 1st St,95616,4,754,$$,Japanese,iLNnJRb7zgms4flTf9qteg,Davis,Yolo County
+746,Delta of Venus,38.542172,-121.743866,122 B St,95616,4,383,$,Pubs,Nsd4yFS62WfHzoj9-fowYA,Davis,Yolo County
+747,Pluto's,38.54135916,-121.7412271,500 1st St,95616,4,614,$$,Sandwiches,_SoKIGS91l7mXkUCAWXJdw,Davis,Yolo County
+748,The Halal Guys,38.541355,-121.740669,500 1st St,95616,3.5,173,$$,Halal,wWnio1zt4ewKLjd6GPnL5Q,Davis,Yolo County
+749,Hong Kong Cafe,38.54218485,-121.7253161,2151 Cowell Blvd,95618,3,100,$,Hong Kong Style Cafe,cEBft24-NmgcbEAVwyWu-A,Davis,Yolo County
+750,Davis's PiÃ±ata Mexican Grill,38.54168701,-121.743721,305 1st St,95616,4,187,$,Mexican,vmlDZr7J6hJ5BHFBw47eZA,Davis,Yolo County
+751,In-N-Out Burger,38.54093745,-121.7371436,1020 Olive Dr,95616,4,380,$,Fast Food,bi9ZUN54a6TBS0c91fYs_g,Davis,Yolo County
+752,Dos Coyotes Border Cafe,38.5408845,-121.7235609,2191 Cowell Blvd,95618,3.5,384,$$,Tex-Mex,4HJTj1xezvDMe1foiXgxYQ,Davis,Yolo County
+753,Teabo CafÃ©,38.54076552,-121.7247179,2191 Cowell Blvd,95618,3.5,493,$,Cafes,lFxN0ZJLsE3Fe5-AIkh77w,Davis,Yolo County
+754,The Gunrock,38.53907,-121.750425,482 Hutchison Dr,95616,4,50,$$,American (New),Qf7OWGs7gnnB3QkyEohUyA,Davis,Yolo County
+755,La Crepe,38.53880877,-121.7531187,The Silo,95616,4,49,$,Creperies,hvQpyVSUbbyDYQCyNVjhEg,Davis,Yolo County
+756,Redrum Burger,38.540345,-121.738776,978 Olive Dr,95616,3,691,$$,Burgers,AJ3xTiOD6WheoJ6HNPCSUQ,Davis,Yolo County
+757,Spokes Grill,38.53845819,-121.7532868,420 Hutchison Dr,95616,4,3,unavailable,Burgers,cui5_dL70j3PywSg9SNc3A,Davis,Yolo County
+758,Segundo Dining Commons,38.53688723,-121.7561531,470 La Rue Rd,95616,4,43,$,Cafeteria,zXhJuVBbCvRbr_vu8NgoEg,Davis,Yolo County
+759,Solomon's Delicatessen - Davis,38.541367,-121.740827,500 1st St,95616,3.5,134,$$,Sandwiches,BH0vr-7Iu5F8WuJZBVJ0zw,Davis,Yolo County
+760,IHOP,38.5402,-121.73032,1745 Cowell Blvd,95618,2.5,134,$$,Breakfast & Brunch,wN8zoRcvRwFG346GKjN2gQ,Davis,Yolo County
+761,Mr. Pickle's Sandwich Shop,38.54087999,-121.7238942,2191 Cowell Blvd,95618,4,108,$,Sandwiches,h2lyOO6bi5Ii4Q5mYmbCLA,Davis,Yolo County
+762,Taos Cafe,38.539751,-121.7507163,1 Shields Ave,95616,5,1,unavailable,Food Stands,CLjyTYe0InpYlrRFmk0n8w,Davis,Yolo County
+763,The Red Chicken,38.539751,-121.7507163,1 Shields Ave,95616,3,3,unavailable,Food Trucks,ZbOjafFOgWfxnzCtj2Z3VQ,Davis,Yolo County
+764,Mandalay Express,38.539751,-121.7507163,1 Shields Ave,95616,4,1,unavailable,Vietnamese,Q-xi4tE6xAynn9WR-t4_2w,Davis,Yolo County
+765,Tercero Dining Common,38.536405,-121.75889,La Rue Rd Dairy Rd,95616,3.5,16,$$,Cafeteria,_wjkxTLOHmrQn9HB_4yzZA,Davis,Yolo County
+766,Silo,38.53880901,-121.7532027,Unversity Of California,95616,3,34,$,Fast Food,GH7uWD_uuaFcGUVh7EQMxA,Davis,Yolo County
+767,Carl's Jr,38.5404091,-121.7309418,1701 Cowell Blvd,95618,2.5,24,$,Fast Food,BSvAYxLB_X6F4Cw8AH-8ZQ,Davis,Yolo County
+768,TxMx Grill,38.54058556,-121.7479764,1 Shields Ave,95616,3.5,4,$,Food Court,Ts1LdZn-rYDateW8mQWu0A,Davis,Yolo County
+769,Swirlz Cafe,38.539751,-121.7507163,1 Shields Ave,95616,4,1,unavailable,Bakeries,4oK5kkzsDbNPmjemr8heOQ,Davis,Yolo County
+770,Coho South Cafe,38.53930805,-121.7516741,397 Hutchinson Dr,95616,3,20,$$,Coffee & Tea,WmddckMrJnulusgPrm6CgQ,Davis,Yolo County
+771,ASUCD Coffee House Coho,38.54214072,-121.749691,1 Shields Ave,95616,3.5,170,$,Coffee & Tea,TraRlAy5trsa331IlfxreA,Davis,Yolo County
+772,BioBrew by CoHo,38.5407639,-121.7479916,1 Shields Ave,95616,5,1,unavailable,Cafes,_SSxT_FsWEADF4Z793Satw,Davis,Yolo County
+773,Scrubs Cafe,38.532133,-121.761933,976 Garrod Dr,95616,3,30,$,Coffee & Tea,t2slfCLuJ3Y3VLWaEcTz5w,Davis,Yolo County
+774,Croutons,38.539751,-121.7507163,1 Shields Ave,95616,3,4,$,Salad,LZxj7oQ99IEQ2oxIxDcm2g,Davis,Yolo County
+775,West Sac Sports Bar and Grill,38.53646633,-121.5528799,3340 Jefferson Blvd,95691,4.5,30,$,Sports Bars,nOn17CDzCzYRL_fV-yRVDA,West Sacramento,Yolo County
+776,Lenise's Cafe,38.54029528,-121.549282,3150 Jefferson Blvd,95691,4,150,$,Cafes,tS8bEf66Zlg3k25Wmsm2Tg,West Sacramento,Yolo County
+777,Banzai Sushi,38.510128,-121.541795,6409 Riverside Blvd,95831,4,375,$$,Sushi Bars,MvG4_smGRFHKdsbna0soaw,Sacramento ,Sacramento County
+778,Edokko II,38.508231,-121.5429231,358 Florin Rd,95831,3.5,182,$$,Japanese,FO4jh4Z7SwOPfQ5Frxy3yw,Sacramento ,Sacramento County
+779,Scott's Seafood Grill and Bar,38.534362,-121.518102,4800 Riverside Blvd,95822,3.5,962,$$$,Seafood,poc-gzcNWpd6dfthGkgxeQ,Sacramento ,Sacramento County
+780,New China Restaurant,38.51075,-121.5407,6363 Riverside Blvd,95831,4,201,$$,Chinese,US-lZaah4Qoa1qNKKBPt6w,Sacramento ,Sacramento County
+781,Chopsticks Express,38.510825,-121.541,6381 Riverside Blvd,95831,3.5,117,$,Chinese,6AFQVILdspUlA62J67kCLQ,Sacramento ,Sacramento County
+782,Round Table Pizza,38.50729,-121.540893,398 Florin Rd,95831,2.5,101,$$,Pizza,EvS_iSKso99aTmfEZ-z9HQ,Sacramento ,Sacramento County
+783,Taco Bell,38.505764,-121.539581,356 Florin Rd,95831,3,49,$,Mexican,PUatTlA9MqzrcRQexGsYvw,Sacramento ,Sacramento County
+784,Baked on the River,38.49629,-123.00646,17071 Highway 116,95446,4.5,26,unavailable,Bakeries,AsxFNhSVFWh453DEnf6fTQ,Guerneville,Sonoma County
+785,Noodle Rice Etc,38.49529266,-123.0075607,17121 Hwy 116,95446,4.5,80,$$,Chinese,aY9HBWqlpf9TwL7ulTTO1Q,Guerneville,Sonoma County
+786,Garden Grill,38.49592177,-123.0076718,17132 Hwy 116,95446,4,402,$$,American (New),6TkCu4VJToQSMhKFtnMWyQ,Guerneville,Sonoma County
+787,Village Inn & Restaurant,38.4673469,-123.007252,20822 River Blvd,95462,3.5,128,$$$,Hotels,O-15hIqdajkuRL1ocj_ADA,Monte Rio,Sonoma County
+788,Bia Cafe,38.47753047,-122.9976527,19420 Hwy 116,95462,4.5,59,$,Cafes,lA8GnK9DRulBghCAq-9Q_w,Monte Rio,Sonoma County
+789,Lucy's Lounge and Grill,38.46828592,-123.0107518,20391 Hwy 116,95462,4,35,$$,American (Traditional),AiFIKOj04sjIVZi8uE269g,Monte Rio,Sonoma County
+790,Lightwave Coffee and Kitchen,38.46072,-123.01133,9725 Main St,95462,5,19,unavailable,Coffee & Tea,qiQJzZ2CkNrQ75i1zcvMsA,Monte Rio,Sonoma County
+791,Rio Cafe Take 2,38.46741867,-123.0104065,20396 Bohemian Hwy,95462,4,51,$$,Breakfast & Brunch,LYOTq7qo-psOsOZ2VAvpUg,Monte Rio,Sonoma County
+792,Northwood Restaurant,38.47775316,-122.9969382,19400 Hwy 116,95462,3.5,129,$$,Breakfast & Brunch,PETXyCcC7wXHrvBTGtz4yA,Monte Rio,Sonoma County
+793,Backyard,38.47347,-122.89198,6566 Front St,95436,4,402,$$,American (New),Le1elbXKs_1OkU_LuGuBwA,Forestville,Sonoma County
+794,Canneti Roadhouse Italiana,38.47370699,-122.893228,6675 Front St,95436,4,207,$$$,Italian,s7hbcI_Nd7o3YZcM6u5IaA,Forestville,Sonoma County
+795,Farmhouse Inn Restaurant,38.490312,-122.883546,7871 River Rd,95436,4,277,$$$$,American (New),zYLiYO_FpolNbqippDu8QA,Forestville,Sonoma County
+796,Twist Eatery,38.4732716,-122.890782,6536 Front St,95436,4.5,87,$$,American (New),NsfTGwpxSLonibvKXDYAVQ,Forestville,Sonoma County
+797,Tiny Town Cafe,38.473452,-122.8910947,6544 Front St,95436,4.5,62,$,American (Traditional),sloN8R1QbeHWat4-5SMjUA,Forestville,Sonoma County
+798,La Rosa Market and Taqueria,38.4737649,-122.8913223,6555 Front St,95436,3.5,81,$,Mexican,O9dezGRh3CitYndP6HCvgw,Forestville,Sonoma County
+799,Forestville Pizza,38.474149,-122.896204,6490 Mirabel Rd,95436,3.5,93,$$,Pizza,uyHyhBg6i0HexwBOH-tC_g,Forestville,Sonoma County
+800,Tahoe Chinese Restaurant,38.47334723,-122.894783,6484 Mirabel Rd,95436,3,57,$$,Chinese,BdJ9J7ciYfx1ijYbf1Q-yA,Forestville,Sonoma County
+801,Carr's Drive In,38.47392,-122.8898,6533 Covey Rd,95436,3.5,47,$,Fast Food,lfJXroSm7jHuUvqN064MHg,Forestville,Sonoma County
+927,Auberge du Soleil Restaurant,38.4937758,-122.406468,180 Rutherford Hill Road,94573,4.5,763,$$$$,American (New),t6i0yl0NUjWk-aCM9xvfAw,Rutherford,Napa County
+928,Rutherford Grill,38.46004107,-122.4225426,1180 Rutherford Rd,94573,4,2188,$$,American (Traditional),Jo6ysQjXw7Xebtm94CHxrw,Rutherford,Napa County
+930,La Luna Market & Taqueria,38.4595,-122.42107,1153 Rutherford Rd,94573,4.5,230,$,Mexican,rRVXwNuYeGZKjsexl7FYlw,Rutherford,Napa County
+957,Cacio,38.481501,-121.517728,7600 Greenhaven Dr,95831,4.5,127,$$,Italian,EBY-FJmVcf88x9ZpVKC9HA,Sacramento ,Sacramento County
+958,Ramen House Tenjin,38.48568074,-121.5346725,7485 Rush River Dr,95831,4.5,149,$$,Ramen,d6f156R6VgcK0qkYYnQbVg,Sacramento ,Sacramento County
+959,Hop Junction,38.481481,-121.517847,7600 Greenhaven Dr,95831,4.5,67,$$,Pubs,tHbuVRrrJt6FV28onn2QRg,Sacramento ,Sacramento County
+960,Foodie Spot,38.49424517,-121.5212107,1032 Florin Rd,95831,3.5,20,unavailable,Chinese,FPn3kHw1E1rLHQTiRf7gbg,Sacramento ,Sacramento County
+961,A TASTE ABOVE,38.48604281,-121.5340986,7485 Rush River Dr,95831,4,142,$,Coffee & Tea,toqGpTJGTIx1Q2m263STKw,Sacramento ,Sacramento County
+962,Beijing Garden,38.48566167,-121.5341567,7485 Rush River Dr,95831,4,22,unavailable,Chinese,5Zjtc3OFpoqYSE65Tafzmg,Sacramento ,Sacramento County
+963,Sai Varee,38.4858096,-121.5337803,7485 Rush River Dr,95831,4,292,$$,Thai,Ntz67iHOIQzUqMK0EIAP_Q,Sacramento ,Sacramento County
+964,Pho Bac Hoa Viet,38.48072445,-121.5180887,7600 Greenhaven Dr,95831,4,352,$$,Vietnamese,apUhlUKPUdSFkv5wpqKOAw,Sacramento ,Sacramento County
+965,Burgerim,38.4862,-121.533512,7465 Rush River Dr,95831,3,70,$$,Burgers,GkS9Bu0YIJiwPwxJQecgXg,Sacramento ,Sacramento County
+966,L&L Hawaiian Barbecue,38.4953352,-121.5210737,1030 Florin Rd,95831,3.5,187,$,Hawaiian,Zv-4knA0xpHZ3Uic9wx6wQ,Sacramento ,Sacramento County
+967,Vientos Mexican Cocina,38.48155085,-121.5174523,7600 Greenhaven Dr,95831,3.5,244,$$,Mexican,flxvdKxrJFyEcvMbO3sr1g,Sacramento ,Sacramento County
+968,Nugget Markets,38.49466,-121.52124,1040 Florin Rd,95831,4.5,262,$$,Grocery,581jupcYZkwWK64ZZ5GojQ,Sacramento ,Sacramento County
+969,Wingstop,38.495333,-121.5210587,1052 Florin Rd,95831,2.5,179,$$,Chicken Wings,YpIOj3pUMop-PyWHLHsbgg,Sacramento ,Sacramento County
+970,Jimboy's Tacos,38.4950199,-121.52333,7215 Greenhaven Dr.,95831,3,117,$,Mexican,tDj4uNn1QHALjwK7DdVnfA,Sacramento ,Sacramento County
+971,Mountain Mike's Pizza,38.486492,-121.534949,7465 Rush River Dr,95831,3.5,130,$$,Pizza,pWtPDnAEC0kcukbD10MN_w,Sacramento ,Sacramento County
+972,Shari's Cafe & Pies,38.495291,-121.522424,960 Florin Rd,95831,3,368,$$,Diners,VcMZNY4l2XRVcyPeUnT8CQ,Sacramento ,Sacramento County
+973,Caffe Latte,38.48047265,-121.5176911,7600 Greenhaven Dr,95831,3.5,172,$,Coffee & Tea,JkOEL1rkZU9J80L-zwuSUw,Sacramento ,Sacramento County
+974,Pizza Guys,38.48059177,-121.517749,7600 Greenhaven Dr,95831,3.5,96,$$,Pizza,_QDEOq8tWYzflBgDhgy_UQ,Sacramento ,Sacramento County
+975,Burger King,38.49465942,-121.5233536,7225 Greenhaven Dr,95831,2,89,$,Fast Food,QLsfJpc5c_BdWNv0IbCXog,Sacramento ,Sacramento County
+976,Domino's Pizza,38.4919061,-121.5203201,7385 Greenhaven Dr,95831,3,62,$,Pizza,8yUd4DpQyV9Rcrh4nu5Hig,Sacramento ,Sacramento County
+977,Papa Murphy's,38.48597,-121.53464,7465 Rush River Drive,95831,3.5,35,$$,Pizza,b6xXnJo6ObRQKm-Tz_RlBA,Sacramento ,Sacramento County
+978,Subway,38.48120886,-121.5171106,7600 Greenhaven Dr,95831,3,43,$,Sandwiches,5HjatTSggaPVOe-VVhZOOQ,Sacramento ,Sacramento County
+979,Subway,38.4953346,-121.5210696,1036 Florin Rd,95831,2.5,31,$,Fast Food,KqCIDtiZtz_D_Hae_mrImQ,Sacramento ,Sacramento County
+980,The Blue Heron Restaurant,38.45300919,-123.0525917,25300 Steelhead Blvd,95430,3.5,103,$$,American (New),CGCChErMNvnYUaVDaTB3Xg,Duncans Mills,Sonoma County
+981,Cape Fear Cafe,38.453969,-123.054308,25191 Main St,95430,4,255,$$,Breakfast & Brunch,P9NLPwK-GyO_wGNxhEFpFg,Duncans Mills,Sonoma County
+982,Gold Coast Coffee & Bakery,38.45290616,-123.0532942,25377 Steelhead Blvd,95430,4.5,131,$$,Bakeries,fg6BjYZpsH2hAlCOsDAlyQ,Duncans Mills,Sonoma County
+983,Underwood Bar and Bistro,38.436279,-122.868694,9113 Graton Rd,95444,4,370,$$,Lounges,1aUwbpY1wVSOLX4q5oAjuw,Graton,Sonoma County
+984,Willow Wood Market Cafe,38.436888,-122.86898,9020 Graton Rd,95444,4,383,$$,Breakfast & Brunch,ThAVK_8Csdj91y8_70na1A,Graton,Sonoma County
+985,Mexico Lindo Restaurant,38.43663,-122.86905,9030 Graton Rd,95444,4,45,$$,Mexican,XPLKTcF6OMvUu6zMAtaPBw,Graton,Sonoma County
+1251,Palooza Brewery & Gastropub,38.41921996,-122.5514659,8910 Sonoma Hwy,95452,4,273,$$,Gastropubs,00czjj1k8xczRqpr-in4bw,Kenwood,Sonoma County
+1252,TIPS Roadside,38.4245,-122.5549,8445 Sonoma Hwy,95452,4,161,$$,Comfort Food,FOrPUMUecPgvKRB1cer8Yg,Kenwood,Sonoma County
+1253,Cafe Citti,38.4182523,-122.5503581,9049 Sonoma Hwy,95452,4,530,$$,Italian,evJAB7KJVTCw9uE6jWjQ0g,Kenwood,Sonoma County
+1254,La Cucina,38.4169343,-122.5511142,60 Shaw Ave,95452,4,9,$$,Italian,TymDmeYG8m_00fStllp9WA,Kenwood,Sonoma County
+1256,Wine Country BBQ,38.4140282,-122.5458679,Highway 12 And Warm Springs,95452,4,1,unavailable,Barbeque,h2n2Au_t550JeQQAjAjCDA,Kenwood,Sonoma County
+1260,Oakville Grocery,38.43747,-122.40279,7856 St Helena Hwy,94562,3.5,531,$$,Delis,I6NTvkNHgxN2WShDIfu-Lg,Oakville,Napa County
+1281,La Amitstad Cafe,38.4140575,-121.5831104,36046 Jefferson Blvd,95612,4,32,$$,Mexican,yPQG9KJZtnZxP9HIgUXKCA,Clarksburg,Yolo County
+1282,Husicks Taphouse,38.41670227,-121.5251617,36510 Riverview Dr,95612,4.5,142,$$,Barbeque,JDe467rJHWcLynTTYpV0Tg,Clarksburg,Yolo County
+1283,Mama Kims,38.42305,-121.53162,35265 Willow Ave,95612,4,1,unavailable,Food Stands,ozRU_3moLzfCNlV1nuJwpw,Clarksburg,Yolo County
+1284,Bohemian Buffet,38.40814,-122.99646,18036 Coleman Valley Rd,95465,5,1,unavailable,Buffets,XhTXIRlw8E-kk25Q45Yl-A,Occidental,Sonoma County
+1285,Hazel,38.408682,-122.948372,3782 Bohemian Hwy,95465,4.5,208,$$,Pizza,LWYf4dVf_XbI2aQ1i6KYkw,Occidental,Sonoma County
+1286,Negri's Original Occidental,38.407595,-122.948213,3700 Bohemian Hwy,95465,4,322,$$,Italian,NjuvfvH6S30vgCUcRvUaJg,Occidental,Sonoma County
+1287,Barley & Hops,38.40695,-122.94806,3688 Bohemian Hwy,95465,4,216,$$,Pubs,2QdwoXMFpPmEmaQ7dAA0Fw,Occidental,Sonoma County
+1288,Union Hotel Restaurant,38.40817,-122.94711,3731 Main St,95465,4,438,$$,Italian,rUm3mkFGt6iQQH_Qrc1EqQ,Occidental,Sonoma County
+1289,Howard Station Cafe,38.40670396,-122.9473263,3611 Bohemian Hwy,95465,4.5,482,$$,Breakfast & Brunch,grSb4Ae0NUnouNZEOJC7Pg,Occidental,Sonoma County
+1381,Salt & Stone,38.408941,-122.543617,9900 Sonoma Hwy,95452,3.5,199,$$,Wine Bars,EA6mCIpgSaMChUIgs7AV6w,Kenwood,Sonoma County
+1438,Hood Supply Company,38.368308,-121.519111,10761 Hood Franklin Rd,95639,3.5,233,$$,American (New),r70UPYXS-cLYodYssXqVrw,Hood ,Sacramento County
+1439,Fisherman's Cove,38.329713,-123.058906,1850 Bay Flat Rd,94923,4.5,611,$$,Seafood,DFmjfic3Y4keTVD183UHxQ,Bodega Bay,Sonoma County
+1440,Spud Point Crab Company,38.329518,-123.058876,1860 Westshore Rd,94923,4.5,995,$$,Seafood,H161IYPpJLhlE1CLpyiWVQ,Bodega Bay,Sonoma County
+1441,Terrapin Creek Cafe & Restaurant,38.3391499,-123.04821,1580 Eastshore Rd,94923,4.5,540,$$$,American (New),XTqjvbp0dBaqwIAkFEYzrA,Bodega Bay,Sonoma County
+1442,The Boat House,38.3352999,-123.04785,1445 N Hwy 1,94923,4,348,$$,Fish & Chips,E0zFqBePo_Uae6_Cfc-VEQ,Bodega Bay,Sonoma County
+1443,Ginochio's Kitchen,38.33429836,-123.0496259,1410 Bay Flat Rd,94923,4.5,181,$$,Barbeque,h8SQ2bb3WbexKseUne4EKw,Bodega Bay,Sonoma County
+1444,Gourmet Au Bay,38.3337383,-123.0506174,1412 Bay Flat Rd,94923,4,167,$$,Wine Bars,8lZVcNplYWm_aapKh5FNNQ,Bodega Bay,Sonoma County
+1445,The Birds Cafe,38.33505923,-123.0489126,1407 Hwy 1,94923,4,311,$$,Seafood,Eu0MaO9FVUxNJtCs7g2FVg,Bodega Bay,Sonoma County
+1446,La Bodeguita,38.340951,-123.048925,2001 Ca-1,94923,4,231,$$,Mexican,D7sdfKCPKPrwicZijbJgmQ,Bodega Bay,Sonoma County
+1447,Left Coast Latte,38.34077,-123.04869,2001 N Hwy 1,94923,5,11,unavailable,Cafes,qoSYskELuvP6zv0MYThW5w,Bodega Bay,Sonoma County
+1448,Bay View Restaurant & Lounge,38.329619,-123.044037,800 Hwy One,94923,3.5,63,$$$,Italian,Xada_LSbhFdXfuysD53uNA,Bodega Bay,Sonoma County
+1449,The Tides Wharf Restaurant,38.3285957,-123.0447565,835 Highway One,94923,2.5,907,$$,Seafood,KYot7OVU2XqRPDONUa1mjQ,Bodega Bay,Sonoma County
+1450,Pelican Plaza Grocery & Deli,38.33478,-123.0484,1400 N Hwy 1,94923,4,62,$$,Grocery,dsN975A7mQSTxJWmuBI7Ww,Bodega Bay,Sonoma County
+1451,Diekmann's Bay Store,38.333412,-123.048402,1275 Hwy 1,94923,3.5,55,$$,Grocery,moy06cHY9Lo84UxYCpvlDw,Bodega Bay,Sonoma County
+1452,Cowboy Oysters,38.33833,-123.0475,,94923,4,1,unavailable,Seafood,omeBYICOnK2ruorafyq83A,Bodega Bay,Sonoma County
+1453,Fishetarian Fish Market,38.32640689,-123.0409342,599 Hwy 1 S,94923,4.5,749,$$,Seafood,k8T9uE2jt7UI2Gn34RBqIw,Bodega Bay,Sonoma County
+1454,Lucas Wharf Restaurant & Bar,38.32619,-123.040912,595 S Hwy 1,94923,3.5,570,$$,Seafood,cac397KsgRtc8z-A_P_WAg,Bodega Bay,Sonoma County
+1455,The Dog House,38.3258282,-123.0398269,537 Smith Brothers Rd,94923,4,138,$$,Burgers,46zPPbpdvBsSqVo0jYTO4g,Bodega Bay,Sonoma County
+1456,The Casino Bar & Grill,38.34605105,-122.97326,17000 Bodega Hwy,94922,4,121,$$,Dive Bars,6NPzR8cCwyFkax25ir1I9w,Bodega,Sonoma County
+1457,Litchfield's,38.330859,-122.96052,16702 Shoreline Hwy,94922,4.5,52,$$$,American (New),3tS4-8MlV0ns4WboqI2nLw,Bodega,Sonoma County
+1458,Colleen's Coffee Shop,38.346318,-122.974269,17175 Bodega Hwy,94922,4,24,$,Coffee & Tea,ULTgLmcLNoRd_3rFe49gAA,Bodega,Sonoma County
+1720,Glen Ellen Star,38.364301,-122.52464,13648 Arnold Dr,95442,4,461,$$,American (New),JkwFGjX15uogn6MSUER03g,Glen Ellen ,Sonoma County
+1721,The Fig Cafe,38.36337007,-122.5245073,13690 Arnold Dr,95442,4,401,$$,Cafes,dK8GyEyrjEdyALVp3Uw0gw,Glen Ellen ,Sonoma County
+1722,Glen Ellen Inn ,38.36357,-122.52463,13670 Arnold Dr,95442,4,310,$$,Bars,MF5pjb--ZvTMTwdxkHCyEQ,Glen Ellen ,Sonoma County
+1723,Yeti Restaurant,38.354521,-122.524595,14301 Arnold Dr,95442,4.5,264,$$,Indian,kPj4GXBVGrldwFacXvh_SA,Glen Ellen ,Sonoma County
+1724,Jack London Saloon,38.36299,-122.52621,13740 Arnold Dr,95442,3.5,143,$$,Pubs,BQmRbpbfIJ6jsI1NhKhHFg,Glen Ellen ,Sonoma County
+1725,Glen Ellen Village Market,38.36203,-122.52539,13751 Arnold Dr,95442,4.5,150,$$,Grocery,2V3mpthAKgJDWJlIs8UMfQ,Glen Ellen ,Sonoma County
+1726,Les Pascals,38.36211706,-122.5260692,13758 Arnold Dr,95442,4.5,80,$$,Bakeries,sicUlF6oMsKVZsiG25gbnA,Glen Ellen ,Sonoma County
+1727,Garden Court Cafe,38.36397,-122.52411,13647 Arnold Dr,95442,4,168,$$,Bakeries,Wm5m84b4h7TakFA2cWLP1Q,Glen Ellen ,Sonoma County
+1728,Rancho Market & Deli,38.33906,-122.51239,929 Madrone Rd,95442,4,20,$,Mexican,9M1-6VpiNNZkYhkuHmSvSg,Glen Ellen ,Sonoma County
+1899,Tamales Chepo's,38.34965,-121.90869,6092 A St,95625,5,44,$,Mexican,4u47i2nIVp8_9qTjq7xd1Q,Elmira, Solano County
+1900,Courtland Market,38.3323755,-121.56912,11711 State Hwy 160,95615,5,16,$,Grocery,TDKolVIJPUi58GYkCKdtEA,Courtland,Sacramento County
+1901,Hood Ranch Kitchen,38.367974,-121.518928,10761 Hood Franklin Rd,95639,4.5,3,unavailable,American (New),FAFFvZMxp6idIYGcW2Ys5A,Hood ,Sacramento County
+1902,Drakes Sonoma Coast,38.31782,-123.032582,103 Coast Hwy 1,94923,4,575,$$$,American (New),cOyIlIKQkZ9dcjA0X7gB0w,Bodega Bay,Sonoma County
+1903,Bluewater Bistro & Bar,38.312812,-123.027588,21301 Heron Dr,94923,3,140,$$,American (New),wjY_fFmUMRXuLsGw-pCrQQ,Bodega Bay,Sonoma County
+1904,Drakes Fireside Lounge,38.317772,-123.032811,355 California 1,94923,3.5,24,$$$,American (New),EPBzUngox1EsBEFMmkj11g,Bodega Bay,Sonoma County
+1905,Rocker Oysterfeller's,38.31758,-122.92472,14415 Hwy 1,94972,4,279,$$,Seafood,51erZciM_SPLXqc_TYcZDw,Valley Ford ,Sonoma County
+1906,Valley Ford Cheese & Creamery,38.31817,-122.9238,14390 Valley Ford Rd,94972,5,13,unavailable,Cheese Shops,tUG_G14zHb55yFlrkERNSw,Valley Ford ,Sonoma County
+1907,Dinucci's Italian Dinners,38.318247,-122.926322,14485 Valley Ford Rd,94972,3.5,157,$$,Italian,qWHNog8UpAcGGfXv9XopRA,Valley Ford ,Sonoma County
+1908,Estero Cafe,38.31844,-122.92521,14450 Hwy 1,94972,4,166,$$,Breakfast & Brunch,_UuREe-IJVf7NeRYmp9kZg,Valley Ford ,Sonoma County
+1911,YiaYia's The Grateful Greek,38.2974825,-122.6665849,10007 Main St,94951,5,73,unavailable,American (Traditional),ZU3mUbJc_dXYO11jokLuDQ,Penngrove,Sonoma County
+1915,Twin Oaks Roadhouse,38.29081,-122.6671,5745 Old Redwood Hwy,94951,4.5,127,$$,Bars,YbVU3-c--psUIbTEB0U-rw,Penngrove,Sonoma County
+1916,Caprara's Pizzeria,38.29582,-122.66702,10101 Main St,94951,4.5,116,$$,Pizza,VCIWk8m1hicDx38qQQJlVw,Penngrove,Sonoma County
+1917,Penngrove Market,38.29659,-122.66617,10070 Main St,94951,4.5,37,$$$,Grocery,uCpjPi3Oji-2oV63WGHgkA,Penngrove,Sonoma County
+1918,Mack's Bar & Grill,38.297389,-122.666533,10056 Main St,94951,4,26,$$,Bars,Esg9mKO7LJuvAam90K1xDw,Penngrove,Sonoma County
+1919,JavAmore Cafe,38.29581833,-122.6670227,10101 Main St,94951,4,56,$$,Coffee & Tea,4maNemO0Lp0Jpi1Ggydv-g,Penngrove,Sonoma County
+1926,El Verano Inn,38.30066299,-122.4876404,705 Laurel Ave,95433,3.5,12,$,Bars,DtohvfBPdZLmq5FsUPe3Dg,El Verano ,Sonoma County
+2218,Tony's Tacos,38.32842,-121.57294,Hwy 160 At Paintersville Bridge,95615,4.5,8,$,Food Stands,jHl7UAJBMha9Ygh9Y6o01A,Courtland,Sacramento County
+2219,Dillon Beach Coastal Kitchen,38.2497853,-122.9647796,1 Beach Ave,94929,4,45,unavailable,American (New),KiLKD4iZKn6VEcedauTGPw,Dillon Beach,Marin County
+2220,William Tell House,38.24592,-122.90521,26955 Hwy 1,94971,4,115,$$,American (New),Ta0DGCzV8cj3vk4VzplUwA,Tomales,Marin County
+2221,K&A Take Away,38.24645,-122.9052,27005 Hwy 1,94971,5,48,$,American (New),_mJcBQ0tEMjUgFGYNtPQZg,Tomales,Marin County
+2222,Tomales Deli And Cafe,38.246517,-122.9046725,27000 Shoreline Hwy,94971,3.5,104,$$,Delis,DkWwEy27s_PfKEjEoEYNlQ,Tomales,Marin County
+2309,Ang Hapag Kainan - The Dining Table,38.23866856,-122.59499,18 Raffles Quay,48582,2,1,$,Street Vendors,eclgtvhn2nYRBoS49oA-Jg,NAN,NAN
+2312,Carneros Bistro,38.277338,-122.460444,1326 Broadway,95477,3.5,212,$$$,American (New),3I6Hj0kTuWuAZJ286q4IDA,NAN,NAN
+2588,Nick's Cove,38.199438,-122.920605,23240 Highway 1,94940,3.5,792,$$$,Seafood,D-gZAfWSzVq6AVbgJr1etw,Marshall ,Marin County
+2764,Hog Island Oyster Company,38.16208094,-122.8935477,20215 Shoreline Hwy,94940,4.5,818,$$,Seafood,b0vD-LUEU4HAeZb_srNHJQ,Marshall ,Marin County
+2765,The Marshall Store,38.15316693,-122.8897837,19225 California 1,94940,4.5,786,$$,Seafood,DL-_UY0zeP5CgU53HrOk3w,Marshall ,Marin County
+2850,The Rivers Edge Bar & Grill,38.170985,-121.639371,15476 CA-160,95641,4.5,4,unavailable,American (Traditional),Bn04do5z88bSHHEYih1_Aw,Isleton ,Sacramento County
+2851,Peter's Steak House,38.162212,-121.611352,203 2nd St,95641,4,134,$$,Steakhouses,YEXqv6mqLh5mwiynbCCHiQ,Isleton ,Sacramento County
+2852,Yes My Sweet BBQ & Catering,38.162698,-121.606428,25 Main St,95641,5,104,$$,Barbeque,B5f53U0kpLBBi2z9RgdR0g,Isleton ,Sacramento County
+2853,Rogelio's Dine & Sleep Inn,38.1623956,-121.6060691,34 Main St,95641,4.5,43,$$,Hotels,KF1rIQwzSL2gnF8qUzIY4g,Isleton ,Sacramento County
+2854,The Joint,38.16256,-121.60428,58 Main St,95641,4,28,unavailable,Pizza,FW8ewbJMf43RqyPY4Bh-zQ,Isleton ,Sacramento County
+2855,Pineapple Restaurant,38.16220856,-121.606514,22 Main St,95641,3.5,38,$$,Chinese,MV_dzPK25cVgkVyTrThQCg,Isleton ,Sacramento County
+2856,Rusty Anchor,38.1709699,-121.63937,15476 State Highway 160,95641,1,1,unavailable,Restaurants,CzT1mzuqoR63oDA1PD_Zcg,Isleton ,Sacramento County
+2857,Tony's Seafood Restaurant,38.14695,-122.88305,18863 Shoreline Hwy,94940,4.5,33,unavailable,Seafood,V5rHe9f8m3AF6HBv8o9mEw,Marshall ,Marin County
+3087,Spindrift Restaurant,38.1076315,-121.5986342,841 W Brannan Island Rd,95641,3.5,52,$$,American (New),QPHTlsvC3bEpHUxwccHVRQ,Isleton ,Sacramento County
+3088,Sammy's,38.103765,-122.9359388,17000 Sir Francis Drake Blvd,94937,5,1,$$$$,American (Traditional),DUzD6y1fjWrJ5L2C2A8tsg,Inverness,Marin County
+3089,Saltwater Oyster Depot,38.09670185,-122.8516315,12781 Sir Francis Drake Blvd,94937,4,460,$$$,Seafood,Tl6n6VPNGDQVnDN3fd5osA,Inverness,Marin County
+3090,Fog's Kitchen,38.10743499,-122.8630467,12938 Sir Francis Drake Blvd,94937,4,146,$$,American (New),YCTRcqhMW5QQ2vv3DurVRQ,Inverness,Marin County
+3091,Tap Room,38.069888,-122.825367,12321 Sir Francis Drake Blvd,94937,4.5,54,$$,Beer Bar,fNyp1qmATL1lWoSvoaYBIA,Inverness,Marin County
+3092,Vladimir's Czechoslovakian Restaurant,38.09699,-122.85215,12785 Sir Francis Drake Blvd,94937,3,228,$$,German,26WcDhWgW_Bf0xGObr7-5Q,Inverness,Marin County
+3093,Inverness Park Market,38.069324,-122.824892,12301 Sir Francis Drake Blvd,94937,4.5,186,$$,Delis,DhyEdm2xiXtGyFRRd3z9yw,Inverness,Marin County
+3094,Cafe Reyes,38.0667588,-122.8045768,11101 Sr 1,94956,4,443,$$,Pizza,768gC1uxxlLp3LfmnwmSDQ,Point Reyes Station,Marin County
+3095,Side Street Kitchen,38.06855143,-122.8074196,60 4th St,94956,4.5,140,$$,Sandwiches,Sl4p79WuUW9VagF060Itfg,Point Reyes Station,Marin County
+3096,Station House Cafe,38.06772,-122.80478,11180 Hwy 1,94956,3.5,818,$$,Breakfast & Brunch,66xTLIjHaCMpsTNFneuKtw,Point Reyes Station,Marin County
+3097,Osteria Stellina,38.06808686,-122.8062272,11285 Hwy 1,94956,3.5,496,$$$,Italian,WPc3sYNxBsOKXuLzPOe36Q,Point Reyes Station,Marin County
+3098,Palace Market,38.06857,-122.80598,11300 Shoreline Hwy,94956,4,94,$$,Grocery,vk9hFKQaZ8n_ilpjvzR1hg,Point Reyes Station,Marin County
+3099,Whale of A Deli & Market,38.0671636,-122.804062,997 Mesa Rd,94956,2.5,88,$,Delis,#NAME?,Point Reyes Station,Marin County
+3274,Lighthouse Bar and Grill,38.1030925,-121.570869,151 Brannan Island Rd,95641,3,61,$$,Bars,6lo9RVOGNZW8WqZ_2za5LA,Isleton ,Sacramento County
+3275,Mooreâs Riverboat Restaurant,38.100802,-121.566053,106 W Brannan Island Rd,95641,3,125,$$,American (Traditional),#NAME?,Isleton ,Sacramento County
+3276,Pirates Lair Cafe,38.09893036,-121.5691376,169 W Brannan Island Rd,95641,3,22,$$,American (New),ilgSSifwWGeXaKBwAjdp3g,Isleton ,Sacramento County
+3277,Marin Sun Farms,38.063652,-122.805192,10905 Shoreline Hwy 1,94956,4,358,$$,Steakhouses,OxhezNu4o8ivhjDoXLgqmA,Point Reyes Station,Marin County
+3278,Due West,38.04053,-122.78832,10005 California Hwy 1,94950,4,25,unavailable,Cocktail Bars,xFih6XkTnGrAlNUvXbJGrA,Olema ,Marin County
+3279,Sir and Star at The Olema,38.04212116,-122.7861167,10000 Sir Francis Drake Blvd,94956,3.5,278,$$$,American (New),tpSlueOXeY6mR3CVYz2FJw,Point Reyes Station,Marin County
+3280,Rancho Nicasio,38.06213178,-122.6983809,1 Old Rancheria Rd,94946,3.5,175,$$,American (Traditional),4IFJFPZ4J2r0vFWBU1E6gg,Nicasio,Marin County
+3293,Warrior NY Pizza,38.0282163,-122.2657274,687 Parker Ave,94572,4.5,107,$,Pizza,8QAt2KUdL2IeajemmEfjiA,Rodeo ,Contra Costa County
+3294,D's Giant Burgers,38.03365,-122.26757,358 Parker Ave,94572,4.5,114,$,American (Traditional),dTLe7E2jWdrhK9uaT0aK5w,Rodeo ,Contra Costa County
+3295,Ricky's Corner,38.03752136,-122.2683868,18 Parker Ave,94572,3.5,104,$$,Italian,nmXGiK1PuKbguhv8ml_FiQ,Rodeo ,Contra Costa County
+3296,Happy Wok,38.0284135,-122.265781,677 Parker Ave,94572,4,79,$,Chinese,rI-hCg_peaEtDVMHDgy_LA,Rodeo ,Contra Costa County
+3297,El Sol,38.0350988,-122.2681574,224 Pacific Ave,94572,3,87,$$,Mexican,VgjTsESRGRzqCGrmssBcBw,Rodeo ,Contra Costa County
+3298,Flippy's Cafe,38.03533,-122.2679,240 Parker Ave,94572,4,120,$,Diners,uUtCBgOiK3TDjWq63uPecQ,Rodeo ,Contra Costa County
+3301,Subway,38.0282203,-122.2657294,685 Parker Ave,94572,4,19,$,Sandwiches,8xmyJsJWUgGgT-ERtFeEPA,Rodeo ,Contra Costa County
+3302,The Dead Fish,38.055614,-122.231448,20050 San Pablo Ave,94525,3.5,2831,$$$,Seafood,uW2y1L12tZMReZyIzXc2Ig,Crockett,Contra Costa County
+3303,Judy's Place,38.05215073,-122.2229691,1207 Pomona St,94525,4,83,$,Latin American,kjMipa6DHgfmnpl0IdNr4Q,Crockett,Contra Costa County
+3306,Abrol Cafe,38.05254667,-122.2239458,1300 Pomona St,94525,4.5,2,$,Cafes,mbM8V2Mjid9_zQ0K85A1zg,Crockett,Contra Costa County
+3307,Four Corners Pizza-N-Pasta,38.05332,-122.22394,628 2nd Ave,94525,4,82,$$,Pizza,kG_SSWa69ZQPY1h4cqornQ,Crockett,Contra Costa County
+3308,Sugartown Sweet Shoppe,38.05359003,-122.2235099,611 2nd Ave,94525,4,46,$$,Coffee & Tea,1gtexrcY_LFIQmWF62rfsw,Crockett,Contra Costa County
+3311,Sugartown Elite Eats@Toot's Tavern,38.0535469,-122.2235184,627 2nd Ave,94525,4,2,unavailable,Farmers Market,GXAxzrw5wr9fk-v3WGQpVg,Crockett,Contra Costa County
+3319,Bull Valley Roadhouse,38.046498,-122.183924,14 Canyon Lake Dr,94569,4,677,$$$,American (New),k7plsOZuLFfFjUPE9UqZAw,Port Costa,Contra Costa County
+3324,Warehouse Cafe,38.04689,-122.183108,5 Canyon Lake Dr,94569,4,331,$,American (New),SkE86YIxQh1gK4lyXIeS5w,Port Costa,Contra Costa County
+3388,Rusty Porthole,38.0346229,-121.6232696,3893 Willow Rd,94511,4,88,$$,American (Traditional),ktSnwvHJO2IZcmOtDcV49Q,Betherl Island,Contra Costa County
+3389,Sugar Barge RV Resort & Marina,38.02536,-121.615508,1440 Bethel Island Rd,94511,3.5,85,$$,RV Parks,8G24choTudZX2a4FEiqj_g,Betherl Island,Contra Costa County
+3390,Sugar Barge Bar & Grill,38.02576,-121.61463,1440 Sugar Barge Rd,94511,4,8,unavailable,Sports Bars,4GEqdssFK986ZYJqN1-Kww,Betherl Island,Contra Costa County
+3391,Papermill Creek Saloon,38.01493857,-122.6904309,1 Castro Ave,94933,4.5,30,$,Dive Bars,o9XmKAnz9HlIFlGM5kk3XA,Forest Nolls,Marin County
+3392,Arti Natural Organic Indian Cafe,38.01266,-122.70152,7282 Sir Francis Drake Blvd,94938,4.5,189,$$,Indian,USljZmbtpya0BEKocSLbUw,Lagunitas,Marin County
+3393,Two Bird CafÃ© At the Valley Inn,38.01413,-122.66748,625 San Geronimo Valley Dr,94963,4,152,$$,American (New),LWX40P88yUmFmWBAnSN4qA,San Geronimo,Marin County
+3394,San Geronimo Restaurant & Bar,38.015635,-122.661358,5800 Sir Francis Drake Blvd,94963,4,5,$$$,American (Traditional),utjG2KZ7_Rvyo-bj4ApZLA,San Geronimo,Marin County
+3395,Pump Espresso Bar,38.01586,-122.68493,6700 Sir Francis Drake Blvd,94933,5,17,$,Cafes,Zah5m13qNMqd-7xGK61Cjw,Forest Nolls,Marin County
+3396,Lagunitas Groceries & Delicatessen,38.01228561,-122.7017002,7290 Sir Francis Drake Blvd,94938,4,32,$,Delis,Pk-GFGTITNOl6zyulg4X4A,Lagunitas,Marin County
+3397,Valley Inn of San Geronimo,38.01413,-122.66748,625 San Geronimo Vly,94963,4,5,unavailable,Hotels,avD0ccIDui2BN2tfe3iF_g,San Geronimo,Marin County
+3398,Woodacre Country Market & Deli,38.01307015,-122.6435137,175 San Geronimo Valley Dr,94973,4,20,$,Grocery,zIXfcQDmTKed1ydOB7dPFA,Woodacre ,Marin County
+3581,Fosters Freeze,38.00424,-122.30486,993 San Pable Ave,95464,3.5,79,$,Burgers,VYSK1Y_E9is-zhk08encfQ,Nice,Lake County
+4050,La Villa Mexican Restaurant,38.0138588,-121.6410065,6111 Bethel Island Rd,94511,3.5,59,$,Mexican,s0UU7w00IEanAmLxoJGVTQ,Betherl Island,Contra Costa County
+4051,Delta Sports Bar and Grill,38.01526688,-121.6405217,6210 Bethel Island Rd,94511,4,19,$$,American (Traditional),0wkL2VJqqIO5x8juL_VlPw,Betherl Island,Contra Costa County
+4052,Tugs AKA Boathouse,38.01532,-121.64003,6210 Bethel Island Rd,94511,4,15,unavailable,Burgers,MU8xOYKqD68YTWziUBu6dw,Betherl Island,Contra Costa County
+4053,Nantucket Too,38.01526688,-121.6405217,6210 Bethel Island Rd,94511,5,1,unavailable,American (New),Bq_gJp-hqrOATna4y3oeHQ,Betherl Island,Contra Costa County
+4056,Guesthouse,37.95453,-122.54798,850 College Ave,94904,4,162,$$$,Cocktail Bars,tpZJb13luDMUwU3VuRAL-A,Greenbrae,Marin County
+4087,Half Day Cafe,37.9543,-122.54803,848 College Ave,94904,4,287,$$,Breakfast & Brunch,LBKHga7_i8Y469-g9Y1CHw,Greenbrae,Marin County
+4089,Kin Wah Restaurant,37.955247,-122.547236,937 Sir Francis Drake Blvd,94904,3,26,$,Chinese,DWIq2ChYhG-Oduo_fLjPUA,Greenbrae,Marin County
+4095,Woodlands Cafe,37.95234,-122.54987,799 College Ave,94904,3,174,$$,Cafes,FwHCQN6iesUvwzS-fhG9NA,Greenbrae,Marin County
+4096,Zee's Deli Wine and Spirits,37.9539199,-122.54588,913 Sir Francis Drake Blvd,94904,4,6,$,Delis,ZxPRSoe48_fMpcTCUXm2nw,Greenbrae,Marin County
+4166,Jason's Restaurant,37.94235,-122.51889,300 Drakes Landing Rd,94904,4,335,$$$,Italian,aJOcS-6zhsHg0uEjpJqgSA,Greenbrae,Marin County
+4197,Gott's Roadside,37.94561729,-122.5234145,302 Bon Air Ctr,94904,3,206,$$,American (Traditional),KRn7eblBrs-YC-_6_ITQ5g,Greenbrae,Marin County
+4312,Oyama Sushi,37.94587,-122.523996,282 Bon Air Ctr,94904,3.5,125,$$,Japanese,KYpjDISLwUCV12SB2OUHkQ,Greenbrae,Marin County
+4406,Papa Murphy's,37.94523,-122.52316,318 Bon Air Center,94904,3.5,29,$,Pizza,po3CUPEqmfMmrs4AfAkjBw,Greenbrae,Marin County
+4409,VCE Cafe,37.95114,-122.53956,1034 D St,94904,3,5,unavailable,Cafes,7Dj57AZhz_Y5ldBs-XU3Cg,Greenbrae,Marin County
+4419,Subway,37.945478,-122.522226,332 Bon Air Ctr,94904,3,23,$,Sandwiches,WdU_3nugrcBTxd8LpcrC1Q,Greenbrae,Marin County
+4420,Greenbrae Grill,37.94752,-122.53545,250 Bon Air Rd,94904,2,5,$,Breakfast & Brunch,Qu-KoKBCIN1RFBZZZm_iIw,Greenbrae,Marin County
+4423,Roadrunner Burrito,37.94638,-122.52545,158 Bon Air Ctr,94904,2,123,$,Mexican,rPqfh_W7lOs6RR0gShIKPQ,Greenbrae,Marin County
+4709,Los 5 Pinos,37.93597,-122.34832,2207 MacDonald Ave,94875,2,1,unavailable,Mexican,HafCpy9_xxu7uVUyp8Ge3A,NAN,NAN
+5321,Red Coach Deli,37.96961,-121.66581,3079 Knightsen Ave,94548,5,1,unavailable,Delis,AyBAbP9VoaGqfDP4IwmXqg,Knightsen,Contra Costa County
+5342,Eleven,37.90973,-122.68608,11 Wharf Rd.,94924,4.5,28,$$,Hotels,TPkz7Cs-56zW0lcgFkPv4A,Bolinas ,Marin County
+5343,Coast Cafe,37.90983835,-122.6852703,46 Wharf Rd,94924,3.5,245,$$,American (New),hPJxnpBk_2XKHCt5gi6X2A,Bolinas ,Marin County
+5344,Barbary Coast Pizza and Catering,37.90937,-122.68575,14 Wharf Rd,94924,4.5,3,unavailable,Pizza,zrdcshFDOKM6a-VeAK1Bew,Bolinas ,Marin County
+5345,BoVida,37.90948309,-122.6861035,6 Wharf Rd,94924,4.5,6,unavailable,Acai Bowls,9eZx_fKfeTdUspFIak7eGA,Bolinas ,Marin County
+5346,The Siren Canteen,37.895969,-122.639562,3201 Hwy 1,94970,4.5,231,$,Burgers,TRf_Aoq2Gl71GebevaRPbQ,Stinson Beach,Marin County
+5347,Sand Dollar Restaurant,37.89858959,-122.6389299,3458 Shoreline Hwy 1,94970,3,423,$$,Seafood,I3g9IDrHeYsjtgMjeWZsHQ,Stinson Beach,Marin County
+5348,Parkside Cafe,37.89766992,-122.6397601,43 Arenal Ave,94970,3,590,$$,American (Traditional),pKTR6gCF6_84ftXVLIGrzA,Stinson Beach,Marin County
+5349,Breakers Cafe,37.8983,-122.63916,3465 Hwy 1,94970,3.5,198,$$,Breakfast & Brunch,yhFQSw02txaZwx2mzOqzAg,Stinson Beach,Marin County
+5350,Parkside Snack Bar,37.89765,-122.639655,43 Arsenal Ave,94970,3,87,$,Fast Food,f-DpZQHKzp77gHbPtvQOow,Stinson Beach,Marin County
+6053,Vin Alegro,37.90378373,-121.6027559,1520 Discovery Bay Blvd,94505,4,28,unavailable,American (New),JcmVeXlDIH7acu_XkZ3hNQ,Discovery Bay,Contra Costa County/Alameda County
+6054,DB Steakhouse,37.89061607,-121.602073,2477 Discovery Bay Blvd,94505,3,222,$$,Sports Bars,7il7HRoQe-DsvxyKr8PuBQ,Discovery Bay,Contra Costa County/Alameda County
+6055,Matsuyama Restaurant,37.89008,-121.62036,14870 Hwy 4,94505,4,141,$$,Japanese,2obhHl_cG9SY7CfDdhqiNg,Discovery Bay,Contra Costa County/Alameda County
+6056,La Taqueria Limon,37.891186,-121.620727,14840 Hwy 4,94505,3.5,165,$,Mexican,yEqYD8ZcPgz6wogHmApKVg,Discovery Bay,Contra Costa County/Alameda County
+6057,Mountain Mike's Pizza,37.9040899,-121.60383,1555 Riverlake Rd,94505,4.5,35,$$,Pizza,8bEm3opyjLV_4UtMwnOwtQ,Discovery Bay,Contra Costa County/Alameda County
+6058,China Wok,37.89009063,-121.6205439,14850 California 4,94505,3.5,50,$,Chinese,uUKDXnx1skXYthoX_WzffA,Discovery Bay,Contra Costa County/Alameda County
+6059,Oriental House,37.89107,-121.60149,2453 Discovery Bay Blvd,94505,3,68,$$,Chinese,A7YcKr7VhdIDy9EFWEkAIw,Discovery Bay,Contra Costa County/Alameda County
+6060,Big Al's Cafe,37.89008,-121.62036,14870 Hwy 4,94505,3,82,$$,American (Traditional),drIyWbVeE1G8vUvGgmobSQ,Discovery Bay,Contra Costa County/Alameda County
+6061,Callahan's Coffee & Cones,37.9040899,-121.60383,1555 Riverlake Rd,94505,5,57,$,Coffee & Tea,7H6WmgCzsrWHQ0l49-nxxg,Discovery Bay,Contra Costa County/Alameda County
+6062,The Guy's Tri Tip & BBQ,37.9011827,-121.6022434,,94505,3,5,unavailable,Food Trucks,yKsrfUlnDOWiLCqoVBJtvA,Discovery Bay,Contra Costa County/Alameda County
+6063,Round Table Pizza,37.89022327,-121.6206865,14870 H Highway 4,94505,3,75,$$,Pizza,CzSwUq-7F5AkXzcGEmk9Nw,Discovery Bay,Contra Costa County/Alameda County
+6064,Subway,37.89008,-121.62036,14870 Hwy 4,94505,4,22,$,Sandwiches,p3M2hvmFAnQg57x9DKJn4g,Discovery Bay,Contra Costa County/Alameda County
+6065,Boardwalk Grill,37.90226364,-121.5881195,5879 Marina Rd,94505,3,284,$$,American (Traditional),xTkGEiaCjdP8_2bJ4XE_Pw,Discovery Bay,Contra Costa County/Alameda County
+6848,Forli Restaurant & Bar,37.85171,-122.03226,3160 Danville Blvd,94507,4.5,130,$$,Italian,5L82Qfe36GRibgEMFTg4ng,Alamo,Contra Costa County
+6849,The Peasant's Courtyard,37.84963,-122.03265,3195 Danville Blvd,94507,4,324,$$,American (Traditional),3OwWzbtvg7ZyqpscqpaOxw,Alamo,Contra Costa County
+6850,Maguey Mexican Restaurant,37.85131,-122.03093,3168 Danville Blvd,94507,4,49,unavailable,Mexican,dP7FLsyWW_m8sWQCGJk1eA,Alamo,Contra Costa County
+6852,RJ's Asian Fusion,37.851848,-122.032223,3162 Danville Blvd,94507,4,106,$$,Japanese,D9cfqhzfggWB6nFQofBHKA,Alamo,Contra Costa County
+6853,The Afghan Chef,37.85009003,-122.0323868,,94507,5,1,unavailable,Afghan,#NAME?,Alamo,Contra Costa County
+6854,Lamorinda Pizza,37.8491,-122.03138,3206 Danville Blvd,94507,4.5,34,$,Pizza,R17oEL0Q0RMs8Xv2d0O5sA,Alamo,Contra Costa County
+6855,Alamo Palace Chinese Restaurant,37.851522,-122.035002,120 Alamo Plz,94507,3.5,136,$$,Chinese,daIBXuupXnjHRgnA1IQSLA,Alamo,Contra Costa County
+6856,Xenia Bistro,37.85002269,-122.0336719,115 Alamo Plz,94507,3,149,$$,American (New),UZGpqEBxekUuPOFrWLksuw,Alamo,Contra Costa County
+6857,Ha-La Sushi,37.85214785,-122.0344976,115-C Alamo Plz,94507,3.5,113,$$,Japanese,qoBMKlU4HkAfGJUlQq0C4w,Alamo,Contra Costa County
+6858,Five Guys,37.8499628,-122.0338836,190 Alamo Plz,94507,2.5,65,$$,Burgers,Od6r4jjQy49bBNAUII5iGg,Alamo,Contra Costa County
+6859,High Tech Burrito,37.85246429,-122.0350074,120-A Alamo Plz,94507,3,110,$,Mexican,tSbWboFgIDokjBAoOyyN1g,Alamo,Contra Costa County
+6860,Brass Bear Delicatessen,37.8499669,-122.0338859,190 Alamo Plz,94507,4,157,$,Delis,z0VswHbUyZWlkNLLntHpBw,Alamo,Contra Costa County
+6861,Round Table Pizza,37.85218865,-122.0362218,150-A Alamo Plz,94507,3.5,107,$$,Pizza,S5mkoqAUOFDIkav1Cgkr7A,Alamo,Contra Costa County
+6862,Panera Bread,37.85108598,-122.0339227,215 Alamo Plz,94507,3,62,$$,Salad,0Ew0mijEK3gHX6tLFbC_Eg,Alamo,Contra Costa County
+6863,Papa Murphy's,37.85258,-122.0335,3000 Danville Blvd.,94507,3.5,27,$,Pizza,6dyzn98umVWv3ebN0nifdg,Alamo,Contra Costa County
+6864,Alamo Cafe,37.84997177,-122.0318069,1 Alamo Sq,94507,4,133,$,American (Traditional),rcHe3NF-D8l3CLEXiC12Mw,Alamo,Contra Costa County
+6865,Cherubini Coffee House,37.85015,-122.03145,37 Alamo Sq,94507,4,111,$,Coffee & Tea,7JvGMRJjvD_paTpDnVJAwA,Alamo,Contra Costa County
+6866,Extreme Pizza - Alamo,37.84811262,-122.0316022,3227 Danville Blvd,94507,4,83,$,Pizza,6phqEtXUF5mIQqlZ01WUyA,Alamo,Contra Costa County
+6867,Taco Bell,37.851769,-122.031882,3160-D Danville Blvd.,94507,2.5,26,$,Fast Food,oCgRz29Q1D6nrAT-vrH_bw,Alamo,Contra Costa County
+6868,Bagel Street Cafe,37.84995209,-122.0337572,124 Alamo Plz,94507,3,85,$,Bagels,h1yGdVRYIg5Sam8owiLkEg,Alamo,Contra Costa County
+6870,Subway,37.85171,-122.03226,3160 Danville Blvd,94507,1.5,25,$,Sandwiches,3hGjq1oLsErxsfpOrc9v7g,Alamo,Contra Costa County
+6871,Salvador Family Farm,37.88272,-121.66945,815 Hoffman Ln,94514,4.5,9,$,Food Stands,QJc3dBElOjeoVE9YrN40gA,Byron ,Contra Costa County/Alameda County
+6872,Taqueria Diaz,37.86731,-121.63781,15031 Byron Hwy,94514,4,53,$,Mexican,BlXFknYIiHSGudESc3PRfA,Byron ,Contra Costa County/Alameda County
+6873,Byron Inn Cafe,37.85088941,-121.6232365,16141 Byron Hwy,94514,4,260,$$,Breakfast & Brunch,2_Op_5l9Ic5_psgbDK5KMg,Byron ,Contra Costa County/Alameda County
+6874,McDonald's,37.88975,-121.62075,14896 Highway 4,94514,2,48,$,Burgers,q_FaaeWM0krEFhUCMlF6NQ,Byron ,Contra Costa County/Alameda County
+7182,Black Bear Diner,37.837469,-122.293889,5750 Christie Ave,95616,3,722,$$,Diners,oqU4zijtcB3PhzF3qwz7ZA,Davis,Yolo County
+8052,Critter Cafe,37.82525342,-122.1604086,Pinehurst Rd,94516,4.5,2,$,Cafes,cqAuwY39WDEJ3jS7IbCR6A,Canyon ,Contra Costa County
+10630,Burger King,37.768103,-122.177503,7757 Irlo Bronson Memorial Hwy,34747,1.5,23,$,Burgers,8H6AniEuQ1YsxAQ3JJGsHg,Kissimmee,FL
+10721,Bishop Farms,37.76486283,-121.96481,2600 Camino Ramon,94683,3,10,$,American (New),toz0VhsZK0MKVDCbT-vRMQ,NAN,NAN
+10780,Lanka2Go,37.78704834,-121.5449219,595 N Ortega Dr,95391,5,1,unavailable,DJs,OjsEiyYkNajCS8zP9zg_vw,Tracy,Alameda County
+11820,RCJ Construction Services,37.67549133,-121.7582169,,78130,1,1,unavailable,Contractors,i9-LvK55bnHf1Qou-sDzLg,New Braunfels,TX
+11835,Blue Moon Kettle,37.7582199,-121.548418,,95391,2,1,unavailable,Food Stands,AkFP2Ui_r4cAqniCb2EyYg,Tracy,Alameda County
+11836,Taqueria Jalos,37.72295744,-121.5322068,25456 S Schulte Rd,95377,2.5,69,$,Mexican,eurKEealOCSqG_fGaOycSQ,Tracy,Alameda County
+11837,Wienerschnitzel,37.7231,-121.53278,25432 South Schulte Rd,95377,3,26,$,Fast Food,cynq2N3E7n63jm_97UiVOQ,Tracy,Alameda County
+11838,Subway,37.72279348,-121.53283,25440 S Schulte Rd,95304,2,15,$,Sandwiches,0_IJ3j3b9ObRy6vJyKIgjA,Tracy,San Joaquin County
+12378,TipTop Tavern,37.68691,-122.12854,391 Lewelling Blvd,94580,4.5,28,$,American (Traditional),kD4p-BClFytXvtYdCSYWFA,San Lorenzo,Alameda County
+12387,Flavor of India,37.68053115,-122.1268029,15930 Hesperian Blvd,94580,4,509,$$,Indian,ipeU-rvjCg4d1yD2MDBkOA,San Lorenzo,Alameda County
+12391,Black Angus Steakhouse,37.68278,-122.12803,15800 Hesperian Blvd.,94580,3,584,$$,Steakhouses,fE2YW4Y_5yqYcyzJ7Oypmw,San Lorenzo,Alameda County
+12398,Kusinera,37.6866358,-122.1225091,15 E Lewelling Blvd,94580,3.5,44,$,Filipino,PHtdInCH1AWjcfikWiC3CQ,San Lorenzo,Alameda County
+12408,Classic Burger,37.6804503,-122.1277322,15927 Hesperian Blvd,94580,4.5,221,$,Burgers,EQz1AMvBXMFoKrWWo_R6hw,San Lorenzo,Alameda County
+12410,R & D Cafe,37.6769537,-122.1426363,15813 Channel St,94580,4,416,$,Vietnamese,w5Tdm1hLhPR4v66uvKj_Pw,San Lorenzo,Alameda County
+12417,Hunan Restaurant,37.67508,-122.12455,17383 Hesperian Blvd,94580,4,362,$,Chinese,OIAMtMaMdnF8RDDt3GSV7Q,San Lorenzo,Alameda County
+12439,Ichi,37.6823387,-122.1270218,15828 Hesperian Blvd,94580,3.5,193,$$,Japanese,2fI1iY6pfJxS6bG28KDQsA,San Lorenzo,Alameda County
+12443,Fresh Pizza Restaurant,37.6768373,-122.1425646,15829 Channel St,94580,3.5,142,$$,Pizza,Og2XvLZuImvMoAuOp8d0iA,San Lorenzo,Alameda County
+12446,Avila's Taqueria-to go,37.68637848,-122.1171188,16841 Meekland Ave,94580,4,89,$,Mexican,DxE4dfYxzAnJxRPZnwuGpQ,San Lorenzo,Alameda County
+12452,Frodo Joe's Coffee & Tea,37.67366,-122.1235,17665 Hesperian Blvd,94580,4.5,650,$,Coffee & Tea,p5OO-EvUSz-ZcaLGXwvj-w,San Lorenzo,Alameda County
+12455,Tao's Fresh,37.67676611,-122.1431522,15809 Channel St,94580,3.5,112,$,Asian Fusion,WSTDjw5ITIFQVbiM59JBpA,San Lorenzo,Alameda County
+12466,Papa Pancho's Taqueria,37.680083,-122.128009,15939 Hesperian Blvd,94580,3.5,90,$,Mexican,HCBEWgABh_4wwLGNOs5G8Q,San Lorenzo,Alameda County
+12467,Peking Garden,37.68026971,-122.126587,15950 Hesperian Blvd,94580,3.5,152,$$,Chinese,N7zxNfrUL_YEYdltTvU_aw,San Lorenzo,Alameda County
+12469,Popeyes Louisiana Kitchen,37.67437,-122.12395,17555 Hesperian Blvd,94580,2,177,$,Fast Food,enmSC5rmq_GOZtsa3P0JZg,San Lorenzo,Alameda County
+12470,Taqueria Camino Real,37.68789135,-122.1294303,15568 Hesperian Blvd,94580,3.5,107,$,Mexican,RL9UjN_kQ9zBrKK4NmEIKA,San Lorenzo,Alameda County
+12471,Taqueria El Mezcal,37.68642426,-122.1224976,5 E Lewelling Blvd,94580,3.5,66,$,Mexican,JDzPXvuFMrMN8k395-PG_Q,San Lorenzo,Alameda County
+12472,New York Pizza,37.6865651,-122.1212344,39 E Lewelling Blvd,94580,3,85,$,Pizza,UEFdltH0Ey3sElcyV_7awg,San Lorenzo,Alameda County
+12478,Mountain Mike's Pizza,37.686986,-122.138399,699 Lewelling Blvd,94576,3,97,$$,Pizza,yxThGCm_7by_WI_dk5GfWg,Deer Park,Napa County
+12483,Neveria Y Antojitos Avila's,37.68641872,-122.1166956,16828 Meekland Ave,94580,4,7,$,Desserts,Xbs_tRToj84cszeKG8-M7g,San Lorenzo,Alameda County
+12488,Quickly,37.672989,-122.1221398,17940 Hesperian Blvd,94580,3,58,$,Bubble Tea,wZL_sySI0rVgNelnsGEzDQ,San Lorenzo,Alameda County
+12491,Lee's Donuts,37.68641663,-122.1216202,35 E Lewelling Blvd,94580,4,20,$,Donuts,nCsTuhvO1eVRLit5TOsKnA,San Lorenzo,Alameda County
+12496,Wendy's,37.67466736,-122.1244659,17435 Hesperian Blvd,94580,2.5,49,$,Fast Food,LBttrLnew-51LqqGAWCxYg,San Lorenzo,Alameda County
+12497,Round Table Pizza,37.68007851,-122.1264562,15960 Hesperian Blvd,94580,2,90,$$,Pizza,qdzpT_Bp0Icrb30dcNvMLA,San Lorenzo,Alameda County
+12500,Little Caesars Pizza,37.67296955,-122.1221391,17900 Hesperian Boulevard,94580,2,53,$,Pizza,xbmNvy5VEVrV9uZTfUbMkw,San Lorenzo,Alameda County
+12506,KFC,37.6741673,-122.123027,17630 Hesperian Blvd.,94580,2,58,$,Fast Food,k9fA64DvisVo48ljng1DOw,San Lorenzo,Alameda County
+12509,Ros Donuts,37.681089,-122.127167,15918 Hesperian Blvd,94580,3,54,$,Donuts,Wk75SP2q3jXu-wABOYfSAA,San Lorenzo,Alameda County
+12520,Jack in the Box,37.674706,-122.1232835,17550 Hesperian Blvd,94580,2,28,$,Burgers,RCOLZ1wGcB0V3CV5sqkA9g,San Lorenzo,Alameda County
+13276,Jack in The Box,37.71591118,-121.522977,26030 S Corporate Ct,95377,1,1,$,Fast Food,zpmFKzfH2mIxHv8sd8MIlw,Tracy,Alameda County
+13575,Sarku Japan,37.6372289,-122.4175851,1150 El Camino Real,94096,2.5,104,$,Japanese,HsNid0WeAXC7gbcnXPUG8A,NAN,NAN
+13611,Pinoy Place,37.6705693,-122.12213,676 Bockman Rd,94580,4,26,$,Filipino,b_cXbgSdEfbvUoOvsy0aXg,San Lorenzo,Alameda County
+13612,Pupuseria El Girasol,37.672378,-122.121704,18200 Hesperian Blvd,94580,3.5,82,$,Salvadoran,PG1EVNPMa5DiZ0-a9GNGGA,San Lorenzo,Alameda County
+13633,Taqueria El Mezcal,37.67128797,-122.1212299,18502 Hesperian Blvd,94580,3,99,$,Mexican,bfWN26g-71fQYMjdE6go-g,San Lorenzo,Alameda County
+13647,Asia Delight Express Three,37.671536,-122.121304,18444 Hesperian Blvd,94580,3,70,$,Chinese,CGL96IPnqw4PPdwgxXrBXA,San Lorenzo,Alameda County
+13680,Subway,37.672684,-122.121889,18030 Hesperian Blvd,94580,3.5,19,$,Sandwiches,OeIb9HcEzYo_VKcliFnXBw,San Lorenzo,Alameda County
+14501,Casa Bella Bistro,37.593676,-121.888363,11984 Main St,94586,4.5,26,unavailable,Cafes,n5NMCXhEzTKmq6UvgG_j0g,Sunol,Alameda County
+14502,Bosco's Bones & Brew,37.593866,-121.887993,11922 Main St,94586,3,175,$$,Bars,PLLHD0EuEgJQ5qHIVJVKMg,Sunol,Alameda County
+14505,La Costanera,37.54603195,-122.5139415,8150 Cabrillo Hwy,94037,3.5,1256,$$$,Latin American,tCh_q4kkDs-glBGRuONyXg,Montara ,San Maeto County
+14506,Gherkin's Sandwich Shop,37.542469,-122.5156784,171 7th St,94037,4,288,$$,Sandwiches,Gftfs8v9rlR3YE25apgrcg,Montara ,San Maeto County
+15179,Mr. Chow's Fast Food,37.54254,-122.03523,35204 Newark Blvd,7175,1,1,unavailable,Chinese,VfRrXf1EgTqTzW14SRzTmA,Newark,NJ
+15257,Coconut Guy,37.57198179,-121.8836997,Andrade Rd,94586,4.5,4,unavailable,Food Stands,UtpL4yPeDKJX3WdXb5EO4g,Sunol,Alameda County
+15258,Moss Beach Distillery,37.51778,-122.51283,140 Beach Way,94038,3.5,1241,$$$,Seafood,9N2SyYEqGTL3pZnhyiFHzg,Moss Beach,San Mateo County
+15259,Here Comes The Sun,37.54117,-122.51609,8455 N Cabrillo Hwy,94037,4.5,145,$,Cafes,d3trbu-A0LZ1Ppidjbr0uw,Montara ,San Maeto County
+15260,El Gran Amigo Taqueria,37.52682449,-122.5131124,2448 Cabrillo Hwy,94038,4,197,$,Tacos,#NAME?,Moss Beach,San Mateo County
+15262,Odyssey Pizza,37.528453,-122.513717,2350 Carlos St,94038,3.5,113,$$,Greek,GjAqILq2FiXSWFYmktPEZQ,Moss Beach,San Mateo County
+15268,Seville Tapas,37.50476941,-122.4862491,450 Capistrano Rd,94018,4,235,$$,Tapas/Small Plates,jMl7w9qpEKaiWjfYzr0y2A,El Granada ,San Mateo County
+15275,The Press,37.50615,-122.48109,107 Sevilla Ave,94018,4,258,$$,Breakfast & Brunch,T5dPjP-4dt9p9eYuOUxcWA,El Granada ,San Mateo County
+15279,Harbor Pizza,37.50557,-122.48018,65 Alhambra Ave,94018,3.5,69,$$,Pizza,EtvpRSw6cZzJt7AzpfJj8g,El Granada ,San Mateo County
+15312,Paul Martin's American Grill,37.53837561,-122.300821,101 Hillsdale Shopping Center,91362,3.5,1144,$$,American (New),vcZEmagJcaJiwoRweBNJhA,Thousand Oaks,Los Angeles County
+15347,Tacos Peralta,37.54172,-122.28986,342 E Hillsdale Blvd,94407,4,205,$,Mexican,eOwiuibsL1VYfEmALbwnGA,San Mateo,San Mateo County
+15843,Stazione Cafe,37.49760056,-122.2669983,,94071,3,1,unavailable,Restaurants,dWm_Ouf0H6BSrLHXm4p1mg,NAN,NAN
+16162,Gold Rush Eatery,37.35513069,-122.0101988,1010 S Wolfe Rd,94036,4,137,$$,Food Trucks,rRVAOEHSBuvzOWkz6NJ72A,NAN,NAN
+16859,Fosters Freeze,37.42773582,-121.9075708,78 Serra Way,95025,4,237,$,Ice Cream & Frozen Yogurt,_tX29mCxnp9YR2ynF4hzBg,NAN,NAN
+18657,Biggâs Diner,37.72875,-122.14642,San Jose Street,1112,5,1,unavailable,Diners,UqGrisfMJTWl3s9CHvpSEQ,NAN,NAN
+19326,Togoâs Sandwiches,37.29165,-121.99636,18574 Prospect Rd,96070,3,56,$,Sandwiches,QhNroiAN9YeNOWF7WpSw7g,Obrien ,Shasta
+19898,Dominos Pizza,37.31579589,-121.8713021,Monterey Road,64440,5,1,unavailable,Food Delivery Services,wP6IrJ5Ilh7uiETe--NLEQ,De Kalb,MO
+20029,Duarte's Tavern,37.25215409,-122.3828096,202 Stage Rd,94060,3.5,1155,$$,American (Traditional),kvNUHPQFxNaVK5gkjhTHWQ,Pescadero,San Mateo
+20030,Arcangeli Grocery Co - Norm's Market,37.2533699,-122.38366,287 Stage Rd,94060,4.5,500,$,Bakeries,2KCAreZ359rtOJZTf5vzDA,Pescadero,San Mateo
+20031,Mercado & Taqueria De Amigos,37.25193,-122.38337,1999 Pescadero Creek Rd,94060,4.5,182,$,Gas Stations,qKUZVG2NFJ3RUASoQa_9Qg,Pescadero,San Mateo
+20032,Downtown Local,37.25223,-122.38345,213 Stage Rd,94060,4,163,$,Cafes,UrDkDGhS1NiV7CV0GaPs0g,Pescadero,San Mateo
+20468,Mattia Pizza,36.97407005,-122.0309598,,95060,5,5,unavailable,Food Trucks,ehMR39g9buWG6MrVEZu5IQ,Santa Cruz,County of Santa Cruz
+20593,Ate 3 One,37.03260803,-121.9835815,,95065,3.5,35,$$,Food Trucks,4aUwpoE5lMkmSYgTd0oHsw,Santa Cruz,Santa Cruz County
+20665,Highway 1 Brewing Company,37.1653203,-122.3599673,5720 S Cabrillo Hwy,94060,3,420,$$,Gastropubs,sYTDdeMnp8u6_XEWXZddfA,Pescadero,San Mateo
+20666,Cascade Restaurant,37.156611,-122.34891,2001 Rossi Rd,94060,3,172,$$,American (New),QJiT5WJffZTOxOCjgNVLyA,Pescadero,San Mateo
+20667,Pine Tent BBQ & Brew,37.15679001,-122.3481766,2001 Rossi Rd,94060,3,2,unavailable,Barbeque,R7960GNl4G4GC9bGcwS-og,Pescadero,San Mateo
+20668,Boulder Creek Lodge & Conference Center,37.15431,-122.16121,16901 Big Basin Way,95006,5,1,$,Bars,Qg6ylls11HB1fc9NZ8_5eQ,Boulder Creek ,Santa Cruz County
+20669,Boulder Creek Roadside Cafe,37.152939,-122.13366,15520 Hwy 9,95006,4,54,$$$,Burgers,vYDVLzRBBo1R9UTHV_BTmg,Boulder Creek ,Santa Cruz County
+20690,Boulder Creek Pizza & Pub,37.1253699,-122.12189,13200 Central Ave,95006,4,177,$$,Pizza,pGUo8yz2uLGjv31DalWSZQ,Boulder Creek ,Santa Cruz County
+20691,Tae's Edo Sushi Bar & Grill,37.12635,-122.12293,13271 Hwy 9,95006,4.5,133,$$,Japanese,XgQnxSNqxMu6F70n80YTwA,Boulder Creek ,Santa Cruz County
+20692,The Red Pearl,37.124599,-122.122444,13151 Hwy 9,95006,4.5,273,$,Chinese,bZUBGGnDAc91q0EzI-L4Bg,Boulder Creek ,Santa Cruz County
+20693,Scopazzi's,37.12526,-122.12426,13300 Big Basin Way,95006,3.5,213,$$,American (New),tsmIVuoKw4zTqrCsEQubqg,Boulder Creek ,Santa Cruz County
+20694,Treehouse Cafe,37.12610918,-122.1224486,13271 CA-9,95006,3.5,7,unavailable,Cafes,YaglZlvl2Nc_DA9rQVbt7w,Boulder Creek ,Santa Cruz County
+20695,Bellaâs Cafe,37.12448383,-122.1218848,13132 CA-9,95006,4.5,11,unavailable,Cafes,M0OLNCK0_kvNmLbdZEpH9w,Boulder Creek ,Santa Cruz County
+20696,Taqueria Los Amigos,37.12358404,-122.1216005,13070 Hwy 9,95006,3.5,111,$,Mexican,jB6CcyUbZXEFucDYs9J9gQ,Boulder Creek ,Santa Cruz County
+20697,Jenna Sue's Cafe,37.123939,-122.121513,13090 Hwy 9,95006,4,92,$,Coffee & Tea,qxv5zZaKAvF42RQCSZ65lQ,Boulder Creek ,Santa Cruz County
+20698,Fosters Freeze,37.1203,-122.120521,110 Mountain Ave,95006,4.5,107,$,Ice Cream & Frozen Yogurt,jidYPvo__dn4V6GTj9I8Ow,Boulder Creek ,Santa Cruz County
+20699,Ronnie's Meat Market,37.12548,-122.12273,13225 Hwy 9,95006,3.5,21,$$,Delis,Wla_RpphLc7Xt1sHkFXNfg,Boulder Creek ,Santa Cruz County
+20700,Redwood Keg Liquor & Deli,37.12244415,-122.120903,12980 Hwy 9,95006,4.5,48,$,"Beer, Wine & Spirits",qGyifetwNUZ6ikFXfIRPCQ,Boulder Creek ,Santa Cruz County
+20760,Ricky's Grill,37.12082,-121.61884,1488 Tennant Ave,95046,4.5,19,$$,Food Stands,qtderhevNthnAjw7l1KLjg,San Martin,Santa Clara County
+20798,Casa Nostra,37.0873,-122.08909,9217 Hwy 9,95005,4,363,$$,Italian,4sHWPfuOY8K5jLNfJxlZbw,Ben Lomond,Santa Cruz County
+20799,Pat's Pit BBQ,37.08975,-122.08895,9450 Hwy 9,95005,4.5,12,$$,Barbeque,T7f5C91fjttUg5kopjV7KQ,Ben Lomond,Santa Cruz County
+20800,Tyrolean Inn Restaurant,37.089665,-122.0923179,9600 Hwy 9,95005,4,262,$$,German,pnpdr4lf0R-Fx8QGTiI_vw,Ben Lomond,Santa Cruz County
+20801,Henfling's Tavern,37.089625,-122.088879,9450 Hwy 9,95005,3.5,55,$,Pubs,opkWe_Vlg42Y24gKRiQABQ,Ben Lomond,Santa Cruz County
+20802,La Placa Family Bakery,37.08777,-122.08764,9280 Highway 9,95005,4,39,unavailable,Gelato,Ew7xioMn8KlueI_euHEs1w,Ben Lomond,Santa Cruz County
+20803,Spanky's,37.0897787,-122.0906478,9520 Hwy 9,95005,4,158,$,Breakfast & Brunch,uTYVzmsfGV85XvnetRdvHA,Ben Lomond,Santa Cruz County
+20804,Masoods Liquor & Deli,37.07233,-122.08399,7970 Hwy 9,95005,5,69,$,"Beer, Wine & Spirits",LXUqySdtvKVIrSTTbByrAw,Ben Lomond,Santa Cruz County
+20805,Zayante Creek Market & Deli,37.08509,-122.04766,9210 E Zayante Rd,95018,4.5,10,$,Delis,xPu-fd954Tw033hE77nQqg,Felton ,Santa Cruz County
+20807,San Martin Cafe,37.086673,-121.611613,13475 Monterey Hwy,95046,3.5,136,$,American (Traditional),x532_evX4mpW37MNPh6QrA,San Martin,Santa Clara County
+20808,Los Corias Taco Truck,37.09003106,-121.5963652,Corner Of San Martin Avenue And Sycamore Ave,95046,4,3,unavailable,Food Trucks,dd5BE25pp_t5LLDJicrn9w,San Martin,Santa Clara County
+20809,ABC Chinese Restaurant,37.04412,-122.0985,,95060,3,3,unavailable,Chinese,6qcN_vHTqubcPDDoVevTvA,Santa Cruz,County of Santa Cruz
+20810,The Cremer House,37.0523349,-122.073027,6256 Hwy 9,95018,3.5,414,$$,American (Traditional),En03CGYK-FKBZWHblsDO7g,Felton ,Santa Cruz County
+20811,Cowboy Bar & Grill,37.04089643,-122.0724589,5447 Hwy 9,95018,3.5,331,$$,Barbeque,a4TExlQ-OoqKt9cIwqSWJw,Felton ,Santa Cruz County
+20812,Taqueria Vallarta,37.052524,-122.072883,6272 State Rte 9,95018,4,193,$,Mexican,GmwTHXBoYdqt8Bzi_0o2Sw,Felton ,Santa Cruz County
+20813,Redwood Pizzeria,37.0514573,-122.0734275,6205 Hwy 9,95018,4,215,$$,Pizza,gqgBiPZDVHmt0ngluNNZYw,Felton ,Santa Cruz County
+20814,Empire Grille,37.05055,-122.07372,6155 CA-9,95018,4,91,$$,Coffee & Tea,uFGqODUFJKo7UCimyCSUpg,Felton ,Santa Cruz County
+20815,Sushi San,37.05257951,-122.0680075,6231 Graham Hill Rd,95018,4,101,$$,Sushi Bars,yVrLlsBpi3gKRT9rgh8IGw,Felton ,Santa Cruz County
+20816,I Wok Bistro,37.04966,-122.0727,6112 Hwy 9,95018,4,38,$$,Chinese,_gHriTYiz0H3eDRvsUQcQQ,Felton ,Santa Cruz County
+20817,Castelli's Deli Cafe,37.06042607,-122.079704,6965 Hwy 9,95018,4.5,74,$,Delis,AmY-YHES6DzrbvUgtUP_pw,Felton ,Santa Cruz County
+20818,The White Raven,37.052249,-122.073646,6253 Hwy 9,95018,4,187,$,Coffee & Tea,h7UTWh_zsCdGTn1YRRyldA,Felton ,Santa Cruz County
+20819,Rockys Cafe,37.0548511,-122.0743339,6560 Hwy 9,95018,3.5,197,$$,Breakfast & Brunch,Yb29tg8Qc4uMKvD6_x4xNw,Felton ,Santa Cruz County
+20820,Chopstix,37.05179326,-122.0733055,6249 Hwy 9,95018,3.5,141,$$,Chinese,qneoSvZMYOBwGE3tE5BUhA,Felton ,Santa Cruz County
+20821,Round Table Pizza,37.05306129,-122.0692565,6267 Graham Hill Rd,95018,2.5,31,$$,Pizza,uVUDSn4iitA05IHtEdMJVQ,Felton ,Santa Cruz County
+20822,Cafe Hanna,37.05657952,-122.011127,5272 Scotts Valley Dr,95066,4.5,166,$,Mediterranean,xd9vzD1heKLgE4aIxQ_w-g,Scotts Valley,Santa Cruz County
+20823,Otoro Sushi,37.047347,-122.032109,235 Mt Hermon Rd,95066,4.5,706,$$,Japanese,MJPtF2SIcSeFFgwV0Cc2uw,Scotts Valley,Santa Cruz County
+20824,Bruno's Bar and Grill,37.0458574,-122.0277845,230 Mount Hermon Rd,95066,4,129,$$,American (New),X2_1OW77lq50Fn4tSYr7yw,Scotts Valley,Santa Cruz County
+20825,Malone's Grille,37.04656619,-122.0188846,4402 Scotts Valley Dr,95066,3.5,316,$$,American (Traditional),76gXolf65-oXvcLh2C01LQ,Scotts Valley,Santa Cruz County
+20826,Thai Heart,37.04630833,-122.0263032,218 G Mt Hermon Rd,95066,4,178,$$,Thai,p170vDE9OWAy6rM4OXoL_g,Scotts Valley,Santa Cruz County
+20827,Los Gallos Taqueria,37.06146604,-122.0064519,18 Victor Sq,95066,4.5,148,$,Mexican,FI5J97RTWw9vxGtLWvpEGA,Scotts Valley,Santa Cruz County
+20828,The Redwood Sandwich,37.04381046,-122.0247981,3105 Scotts Valley Dr,95066,4.5,294,$,Barbeque,BD41eojTWRn_Ovu_Izgc7A,Scotts Valley,Santa Cruz County
+20829,Habanero's Bar And Grill,37.04169514,-122.025242,95 Mount Hermon Rd,95066,4,92,$$,Mexican,kY_l4Hoe5BdxxOBwYICnDg,Scotts Valley,Santa Cruz County
+20830,Ambrosia India Bistro - Scotts Valley,37.036441,-122.022444,6006 La Madrona Dr,95066,4.5,223,$$,Indian,6KaP6iWhIC7Rvce3eYJv6A,Scotts Valley,Santa Cruz County
+20831,Jia Tella's,37.05940872,-122.0076424,18 Victor Sq,95066,3.5,322,$$,Asian Fusion,NZ6GZy44ARfRepJWiYCmdg,Scotts Valley,Santa Cruz County
+20832,Two Doors,37.0614046,-122.006283,5600 Scotts Valley Dr,95066,3.5,44,$$,Salad,Fn6ggLDWHVyn8q1lg0-5OQ,Scotts Valley,Santa Cruz County
+20833,Kao Sook,37.0464155,-122.0294372,245 H Mt Hermon Rd,95066,4,234,$$,Thai,Kfhr-yjf0A8wC7pSG-Wdhg,Scotts Valley,Santa Cruz County
+20834,Heavenly Roadside Cafe,37.05292511,-122.0379562,1210 Mt Hermon Rd,95066,4,350,$$,Breakfast & Brunch,UvixoTj-TTutbAYD03hpgQ,Scotts Valley,Santa Cruz County
+20835,Rumble Fish,37.05045833,-122.0156137,4727 Scotts Valley Dr,95066,4,341,$$,Japanese,s7kxlD2isnjaMFIxjrxO5w,Scotts Valley,Santa Cruz County
+20836,Sushi Blossom,37.04420905,-122.0248765,11 Camp Evers Ln,95066,4.5,162,$$,Japanese,pssMCqTZ20H_9SYZYmrXIA,Scotts Valley,Santa Cruz County
+20837,Chubby's Diner,37.04826,-122.03168,266 Mount Hermon Rd,95066,4,147,$,Diners,wmZt7oaGXiAtU_TPlSODZA,Scotts Valley,Santa Cruz County
+20838,Chef Liu,37.04653,-122.02012,4303 Scotts Valley Blvd,95066,4,83,$$,Chinese,FsCb-3QxO7d8BS2ntQVRcA,Scotts Valley,Santa Cruz County
+20839,Taqueria Los Gallos,37.0463255,-122.0292652,243 Mt Hermon Rd,95066,4,165,$,Mexican,8R7WRSwp6ru70UghUHjF1g,Scotts Valley,Santa Cruz County
+20840,Stonehouse Bar & Grill,37.03584,-122.02488,6001 La Madrona Dr,95060,3.5,33,$$,Bars,_GuJPBJq-OLzsU6ho9NdLg,Santa Cruz,County of Santa Cruz
+20841,5030 Restaurant & Lounge,37.05406,-122.01209,5030 Scotts Valley Dr,95066,3,2,unavailable,American (New),KoOsOod_weGIwj1q0jYxkQ,Scotts Valley,Santa Cruz County
+20842,Sushi Garden,37.0612571,-122.0072746,5600 Scotts Valley Dr,95066,3.5,85,$$,Japanese,TBRMXfBUC9a9_bq-nhMp1A,Scotts Valley,Santa Cruz County
+20843,Green Hills Cafe,37.05117497,-122.0091179,1700 Green Hills Rd,95066,4,9,$$,Breakfast & Brunch,e48VpbXfekEamQ7WzsrClg,Scotts Valley,Santa Cruz County
+20844,Mountain Mike's Pizza,37.036441,-122.022566,6006 La Madrona Dr,95066,3.5,87,$$,Pizza,Px5y1nxWhBYbv6pHQ78tuw,Scotts Valley,Santa Cruz County
+20845,Maya Mexican Restaurant,37.0433794,-122.0250441,3115 Scotts Valley Dr,95066,3,111,$$,Mexican,0YH7H8ocDrszq3GXOgCcmw,Scotts Valley,Santa Cruz County
+20846,Avenue cafe,37.04426317,-122.0268698,219 F Mt Hermon Rd,95066,3,49,unavailable,Breakfast & Brunch,Ep0xcHibkbPQc9JWwetQOw,Scotts Valley,Santa Cruz County
+20847,ABC Chinese Restaurant,37.04449564,-122.027109,219 Mount Hermon Rd,95066,3,136,$,Chinese,a709RGbT7pWGiawjTvfbEg,Scotts Valley,Santa Cruz County
+20848,Cafeteria @ ETC,37.06372,-122.00003,100 Enterprise Way,95066,1,1,unavailable,Cafeteria,gXAQqvYZJ1vEcorv0vQFTA,Scotts Valley,Santa Cruz County
+20849,Auntie Mame's,37.04374947,-122.0249866,3103 Scotts Valley Dr,95066,3.5,190,$$,Breakfast & Brunch,r1ezSWjgpqPAgqXLBek5YQ,Scotts Valley,Santa Cruz County
+20850,Tony & Alba's Pizza and Pasta,37.04848075,-122.0275658,226 Mount Hermon Rd Frnt,95066,2.5,103,$$,Pizza,N4Sojc7pe7hmrCgaZZlxYw,Scotts Valley,Santa Cruz County
+20851,Tim's Express,37.04513379,-122.0281892,235 Mount Hermon Rd,95066,3.5,79,$,Chinese,X0UhaOW479cuwzBPo_3r5w,Scotts Valley,Santa Cruz County
+20852,Round Table Pizza,37.04567966,-122.0289947,245 Mount Hermon Road,95066,3,59,$$,Pizza,vg_TgL8uu2E5uPAeyxLwrA,Scotts Valley,Santa Cruz County
+20853,Papa Murphy's,37.0464155,-122.0294372,245 Mt. Hermon Road,95066,4,35,$,Pizza,ssNWbCBKPMnWC4YJBqphQw,Scotts Valley,Santa Cruz County
+20854,Taco Bell,37.045135,-122.026968,233 Mount Hermon Rd,95066,1.5,58,$,Mexican,qFq4Fpff0CvYLDdFvHJghw,Scotts Valley,Santa Cruz County
+20855,Scotts Valley Coffee,37.03657296,-122.0224456,6006 La Madrona Dr,95066,3.5,119,$,Coffee & Tea,arYTGsP96of8-1BliJ8qdg,Scotts Valley,Santa Cruz County
+20856,Erik's DeliCafÃ©,37.0472582,-122.0264665,222 Mount Hermon Rd,95066,3,58,$,Delis,2TaUtC9BJFP9hR-iJ1-DIQ,Scotts Valley,Santa Cruz County
+20857,Carl's Jr,37.061875,-122.0068351,5620 Scotts Valley Dr,95066,2.5,26,$,Fast Food,FltBcuq_Dgk7_Qj2KF54qQ,Scotts Valley,Santa Cruz County
+20858,McDonald's,37.04743508,-122.0323228,259 Mount Hermon Rd,95066,1.5,106,$,Fast Food,spP96ZVqig_dz1LdOGZecQ,Scotts Valley,Santa Cruz County
+20859,Togoâs Sandwiches,37.0482411,-122.0310582,266 Mt Hermon Rd,95060,4,44,$,Sandwiches,nxUywunuUb01PsYx1JwFSQ,Santa Cruz,County of Santa Cruz
+20860,Jack in the Box,37.06291,-122.00455,6014 Scotts Valley Dr,95066,2.5,49,$,Fast Food,Y6TsAhFw6hsmjeo3o1w5xA,Scotts Valley,Santa Cruz County
+20861,Burger King,37.045175,-122.027745,227 Mt Herman Rd,95066,2,23,$,Burgers,NOcOW1pJoWnzBjIrUcae-A,Scotts Valley,Santa Cruz County
+20862,Subway,37.04525883,-122.0283148,231 Mount Hermon Rd,95066,2.5,29,$,Sandwiches,IPPfpDaIyA1_VlMTypAyLw,Scotts Valley,Santa Cruz County
+20863,Shockwave,36.98846,-121.95249,,95073,5,7,unavailable,Food Trucks,1nHoGRJ17bE4bRLS2fVaJQ,Soquel,Santa Cruz County
+20864,Anjaneya's World Cafe,37.02727236,-121.7396748,445 Summit Rd,95076,4,11,$,Cafes,KMDL2ypZjGjsAEzc_t63mw,Watsonville,Santa Cruz County/Monterey County/Santa Clara
+20865,Lou's BBQ & Catering of San Martin,37.05921997,-121.5963816,11205 Monterey Rd,95046,4.5,62,$,Barbeque,oEpAT_3EFlvtndE9oPl_8g,San Martin,Santa Clara County
+20884,Whale City Bakery Bar & Grill,37.01138802,-122.1951885,490 Hwy 1,95017,4,515,$$,Bakeries,0JY9AeYcXfzKLK0VWJTQMg,Davenport,Santa Cruz County
+20885,Cemitas 1,37.0116,-122.19545,500 Hwy 1,95017,4.5,102,$$,Mexican,FPcs4nyH7juOTHsr1kMSzg,Davenport,Santa Cruz County
+20886,Davenport Roadhouse Restaurant & Inn,37.01087,-122.193882,1 Davenport Ave,95017,3,671,$$,American (Traditional),vDhO6QIgTzZHxDG9H087Mw,Davenport,Santa Cruz County
+20887,Vivas Mexican Restaurant,37.00000649,-122.0535837,Crown Rd,95064,4,14,$$,Mexican,9da4oxBjIPXoKInl8Gldcw,Santa Cruz,Santa Cruz County
+20888,Raymond's Catering,36.99933167,-122.0621808,1156 High St,95060,4.5,73,$,Mexican,3P0RBYf5GLFasgbx5GnNJw,Santa Cruz,County of Santa Cruz
+20889,Terra Fresca,37.000616,-122.05764,600 McLaughlin Dr,95064,3,40,$$,American (New),ZKzUCJUixKLNbJqB1t4XYA,Santa Cruz,Santa Cruz County
+20890,Vivas Organic Mexican Food,37.00006376,-122.0533655,200 Mclaughlin,95064,5,5,$,Mexican,l-Lsvs8R_fFkQUoQ_FGxlw,Santa Cruz,Santa Cruz County
+20891,Cowell & Stevenson Dining Hall,36.99639411,-122.0524021,1156 High St,95064,3.5,7,$$,American (New),nmQpi5u4L4PpsZHZZHQMLw,Santa Cruz,Santa Cruz County
+20892,Cowell & Stevenson Dining Hall,36.97746,-122.05226,1156 High St,95064,5,1,unavailable,Pizza,KJ9lAalrzxazW4aBLm25Dg,Santa Cruz,Santa Cruz County
+20893,Carson College Cafe,36.99148712,-122.0644066,1154 High St,95064,2.5,7,$$,Cafes,sAC5rECfZgV1H-GjTVeS7g,Santa Cruz,Santa Cruz County
+20894,Crown & Merrill Dining Hall,37.000156,-122.054396,1156 High St,95064,4.5,2,$$,Cafeteria,_dFm5wLPxhoC22ks-GK_JQ,Santa Cruz,Santa Cruz County
+20895,Banana Joe's,36.99998627,-122.0544363,1156 High St,95064,2.5,13,$,Convenience Stores,lrgPKWaoQ-yAlTasj4T7nA,Santa Cruz,Santa Cruz County
+20896,Porter - Kresge Dining Hall,36.99432,-122.065951,301 Heller Dr,95064,3,11,$$,Food Court,lCdiZ6pS-iLIvZiCjGRcmQ,Santa Cruz,Santa Cruz County
+20897,Bowls by Cafe Brasil,36.99424192,-122.0657617,1156 High St,95064,2,1,unavailable,Brazilian,Nr0FyrTekJFWMKWNip66AQ,Santa Cruz,Santa Cruz County
+20898,College Nine & Ten Dining Hall,36.97746,-122.05226,1156 High St,95064,3.5,6,$,Diners,zsFTklZHikkCImqcofKH-Q,Santa Cruz,Santa Cruz County
+20899,Owl's Nest,36.99677753,-122.0659482,600 Kresge Ct,95064,3,55,$,Bagels,QqUZir2imu4fOtx76eHVEA,Santa Cruz,Santa Cruz County
+20900,Crown & Merrill Dining Hall,37.000177,-122.054439,1156 High St,95064,3,1,unavailable,Food Court,RKaiCq8m1qhqOyiOZWBbqQ,Santa Cruz,Santa Cruz County
+20901,Oakes Cafe,36.9883776,-122.0679665,150 Heller Dr,95064,3.5,16,$,Cafes,-jW-0kJp0fplKN9QM6DGFg,Santa Cruz,Santa Cruz County
+20902,Leslie,37.00167042,-122.054073,620 Crown Rd,95064,3,2,unavailable,Chinese,hDWok57xzz_jtwmiGrZNLw,Santa Cruz,Santa Cruz County
+20903,Stevenson Coffee House,36.997412,-122.052283,1156 High St,95064,4,27,$,Coffee & Tea,FIZZeuYfUrNOxrjrJQYNEQ,Santa Cruz,Santa Cruz County
+20904,Cafe Iveta UCSC,36.99814619,-122.0558292,1156 High St,95064,3,28,$,Breakfast & Brunch,5Zm7Bkr2s0_oqVnLrsev-Q,Santa Cruz,Santa Cruz County
+20905,Perk Coffee Bar,36.99799428,-122.0598704,Earth & Marine Sciences Building,95064,3.5,2,unavailable,Coffee & Tea,gA3eyslxgmMLIIAkgZp5hw,Santa Cruz,Santa Cruz County
+20906,Stevenson Coffee House,36.99943118,-122.064241,101 McLaughlin Dr,95064,4,6,$,Sandwiches,aGhBnVzoH0SNw7r3y3HgpQ,Santa Cruz,Santa Cruz County
+20907,Global Village Cafe,36.97746,-122.05226,1156 High St,95064,3,43,$,Cafes,ABNrIP1yW0HhaFqjR0FdWQ,Santa Cruz,Santa Cruz County
+20908,Lillian's Italian Kitchen,36.9796619,-122.0105774,1148 Soquel Ave,95062,4.5,1909,$$,Italian,ZAi1jel_rxty0sAuwt9Fuw,Santa Cruz,Santa Cruz County
+20909,The Water Street Grill,36.9801445,-122.0201797,503 Water St,95060,4,359,$$,American (New),qb7UAvLOsazLrjqaCYgkzQ,Santa Cruz,County of Santa Cruz
+20910,Back Nine Grill & Bar,36.999346,-122.022579,555 Hwy 17,95060,4,115,$$,American (Traditional),n8biZb6j5dh-BrufnDI8-g,Santa Cruz,County of Santa Cruz
+20911,Oyunaa's Mongolian Cuisine,36.98006385,-122.0102619,1209 Soquel Ave,95062,4.5,271,$$,Mongolian,vEyMpA_6NgKZgLowwUPSFA,Santa Cruz,Santa Cruz County
+20912,MacKenzie Bar & Grill,37.00211,-122.02506,18 Clubhouse Rd,95060,3.5,26,$$,American (Traditional),tVcnWiKiExWy5SF4B3Aafg,Santa Cruz,County of Santa Cruz
+20913,Taqueria Los Pericos,36.97788,-122.02577,139 Water St,95060,4,850,$,Mexican,rvUfiHpOwypJNEWUqMkUqg,Santa Cruz,County of Santa Cruz
+20914,Real Thai Kitchen,36.9792173,-122.0099203,1632 Seabright Ave,95062,4,412,$$,Thai,MNIocC6HQqFpVCO-tda2-A,Santa Cruz,Santa Cruz County
+20915,Akira,36.979856,-122.0101037,1222 Soquel Ave,95062,4,641,$$,Sushi Bars,IRkWre1qEi6TaE2VDG6REQ,Santa Cruz,Santa Cruz County
+20916,Pearl of the Ocean,36.98092125,-122.0164783,736 Water St,95060,4,498,$$,Indian,7PTgJs_otC8ICrCWPChhWQ,Santa Cruz,County of Santa Cruz
+20917,The Crepe Place,36.97946338,-122.0109124,1134 Soquel Ave,95062,3.5,649,$$,Creperies,r9Jnrn8WoW86qmzoNmhAsw,Santa Cruz,Santa Cruz County
+20918,Bocci's Cellar,36.98687,-122.03193,140 Encinal St,95060,3.5,77,$$,Italian,Niz4YVePIxOvo58ReqBJXA,Santa Cruz,County of Santa Cruz
+20919,Happy Dog Hot Dogs,36.9814181,-122.0283971,324 River St,95060,5,55,$,Street Vendors,L3FlKBxBTuTh8gXTR8jFYg,Santa Cruz,County of Santa Cruz
+20920,Tacos Moreno,36.9815368,-122.0104586,1053 Water St,95062,4,365,$,Mexican,Ff4g4kvdKWfF5BDR0L53qA,Santa Cruz,Santa Cruz County
+20921,Taqueria Santa Cruz,36.97831345,-122.0127411,1002 Soquel Ave,95062,4,242,$,Mexican,mo9lfs-ZkRclcwX-RcD0iA,Santa Cruz,Santa Cruz County
+20922,Charlie Hong Kong,36.97989,-122.01092,1141 Soquel Ave,95062,3.5,861,$,Vegan,a3Gv6M0nVvcAdzcJHwWWwA,Santa Cruz,Santa Cruz County
+20923,Sake Japanese Steakhouse& Sushi bar,36.98045255,-122.0193589,525 Water St,95060,3.5,298,$$,Sushi Bars,LGjOnUnLgKSYm6A2gojxGw,Santa Cruz,County of Santa Cruz
+20924,Sake Japanese Steakhouse & Sushi,36.980452,-122.019334,525 Water St,95060,2,1,unavailable,Japanese,jAq0U-X05go5CfkJCJAVcQ,Santa Cruz,County of Santa Cruz
+20925,Ike's Sandwiches,36.9836163,-122.0225901,1318 Ocean St,95060,4,65,$$,Sandwiches,eoqCIz_NanD0GuQCEa_veA,Santa Cruz,County of Santa Cruz
+20926,Taqueria JalapeÃ±os y Pupuseria,36.97841,-122.0204,107 Leonard St,95060,4,102,$,Mexican,YmTucpXUGIdS8R4_mSWYVw,Santa Cruz,County of Santa Cruz
+20927,Bistro One Twelve at the Tannery,36.987716,-122.0299077,1060 River St,95060,4,19,$$,Breakfast & Brunch,XxWTK_7fisaRRpaUlpwO6Q,Santa Cruz,County of Santa Cruz
+20928,The Habit Burger Grill,36.98403883,-122.022791,,95060,3.5,107,$,Burgers,E86C7Nd6WrZYGN2bSYeTKA,Santa Cruz,County of Santa Cruz
+20929,Shun Feng,36.9817017,-122.0291819,420 River St,95060,3.5,227,$$,Vegetarian,cQPwju1mZEcy9z3xT6LSGQ,Santa Cruz,County of Santa Cruz
+20930,Restaurante Los Pinos,36.9775701,-122.0272953,2019 N Pacific Ave,95060,4,195,$,Mexican,1rVUFDzw24EBsOughn9gDA,Santa Cruz,County of Santa Cruz
+20931,Santa Cruz Diner,36.98039,-122.02187,909 Ocean St,95060,2.5,1299,$,Diners,J_-b5tt-w5wTw2YFaoBUEA,Santa Cruz,County of Santa Cruz
+20932,Mickey's Cafe & Catering,36.9883303,-122.0245199,150 Jewell St,95060,5,14,unavailable,Delis,tKyrKrLB8g2yqV66CTaIPQ,Santa Cruz,County of Santa Cruz
+20933,Bamboo Restaurant,36.98091125,-122.0111389,1733 Seabright Ave,95062,4,2,unavailable,Chinese,VZGTgEStWqld6agOgwkxfA,Santa Cruz,Santa Cruz County
+20934,Chipotle Mexican Grill,36.982784,-122.029306,550 River St,95060,2.5,154,$,Mexican,wi94DPvhbleS9ML88IcSbQ,Santa Cruz,County of Santa Cruz
+20935,El Jardin Restaurant,36.97956,-121.99184,655 Capitola Rd,95062,3,249,$$,Mexican,A2AoVVBxZ5fx4loWng15og,Santa Cruz,Santa Cruz County
+20936,MG Sushi,36.9809568,-122.0109524,1733 Seabright Ave,95062,3.5,134,$$,Sushi Bars,BTK1iceVfmtjc49wX1D-lg,Santa Cruz,Santa Cruz County
+20937,May's Sushi Bar & Grill,36.9811,-122.00149,1800 Soquel Ave,95062,3.5,319,$$,Sushi Bars,MvoTeHToJ9xB9l0OawwxiA,Santa Cruz,Santa Cruz County
+20938,The Bagelry,36.9792533,-122.0099343,1636 Seabright Ave,95062,4,106,$,Bagels,DqEbJ_-gleWr-Qj5QVRWeQ,Santa Cruz,Santa Cruz County
+20939,Jeffery's Restaurant,36.9821167,-121.9960022,2050 Soquel Ave,95062,3,242,$$,Diners,6llvHR2LZW2QsxXymYtlDQ,Santa Cruz,Santa Cruz County
+20940,Denny's,36.98509094,-122.0241205,1515 Ocean St,95060,2,324,$,Diners,sAwXfpvvrMKtf2tZZ35aNg,Santa Cruz,County of Santa Cruz
+20941,Taqueria Agave - Santa Cruz,36.98123932,-122.0001678,1836 Soquel Ave,95062,3.5,88,$,Mexican,RdJHQDrpUx-h54pStPz83g,Santa Cruz,Santa Cruz County
+20942,Taco Bell,36.981512,-122.006866,1404 Soquel Ave,95062,2.5,35,$,Fast Food,TOpfqkfzpF01Va5LYcDvNA,Santa Cruz,Santa Cruz County
+20943,Vivas,36.97997662,-122.0105583,1201 Soquel Ave,95062,3.5,159,$,Mexican,5obFH0CRebRATOWl1TBbNw,Santa Cruz,Santa Cruz County
+20944,River Cafe,36.9814949,-122.0296936,415 River St,95060,3,233,$$,Coffee & Tea,foEBQgsU7gYy27imfltyMw,Santa Cruz,County of Santa Cruz
+20945,Tony & Alba's Pizza,36.9777703,-122.0146798,817 Soquel Ave,95062,3,108,$$,Pizza,67TbCvcnYCPFVdHPs-I5gw,Santa Cruz,Santa Cruz County
+20946,Subway,36.981682,-122.001785,1723 Soquel Ave,95062,2,10,$,Sandwiches,HtmHZfHgGkYHQNVmvUxS9g,Santa Cruz,Santa Cruz County
+20947,Togoâs Sandwiches,36.98044205,-122.0211868,902 Ocean St,95060,3,54,$,Sandwiches,AGBwhQbHemuyRVdSmhqL6Q,Santa Cruz,County of Santa Cruz
+20948,McDonald's,36.983059,-122.022353,1210 Ocean Ave,95060,1.5,86,$,Coffee & Tea,n3RnlpCnrYj3W5XW_kRctw,Santa Cruz,County of Santa Cruz
+20949,Joe's Pizza and Subs,36.98112713,-122.0145542,841 N Branciforte Ave,95062,3,95,$,Pizza,kJCNDlxXKpjYbhE5dLIxRw,Santa Cruz,Santa Cruz County
+20950,Lulu's Midtown,36.97885,-122.01416,911 Soquel Ave,95062,3.5,62,$,Coffee & Tea,JAV1GYFvkiYnCWmlqXfLYQ,Santa Cruz,Santa Cruz County
+20951,Jack in the Box,36.97796563,-122.0203426,640 Ocean St,95060,2,84,$,Fast Food,#NAME?,Santa Cruz,County of Santa Cruz
+20952,Jalapenos Taqueria,36.97988525,-122.0105204,1201 Soquel Ave,95062,3.5,10,$,Mexican,fDE0XSFdh390RyyO_0VFGA,Santa Cruz,Santa Cruz County
+20953,Burger King,36.980903,-122.007455,1302 Soquel Ave,95062,2.5,22,$,Fast Food,DcvO6q0QUvOCRwWhVA3Rig,Santa Cruz,Santa Cruz County
+20954,Cafe Cruz,36.984955,-121.965135,2621 41st Ave,95073,4,720,$$,Seafood,89MCnYm6QjQCzCx9BFtlPQ,Soquel,Santa Cruz County
+20955,Home,36.9896,-121.95522,3101 N Main St,95073,4,138,$$$,American (New),klvdIyh6nGVcZcDeZXqZuA,Soquel,Santa Cruz County
+20956,Sawasdee,36.98752213,-121.9529495,5050 Soquel Dr,95073,4,333,$$,Thai,48LjA6bMGVwH1Xamu2zV6g,Soquel,Santa Cruz County
+20957,Pretty Good Advice,36.98949,-121.95704,3070 Porter St,95073,4.5,94,unavailable,Breakfast & Brunch,haOqUPatlE3lFclo9MVWuQ,Soquel,Santa Cruz County
+20958,Roux Dat Cajun Creole,36.97880602,-121.9689605,3555 Clares St,95010,4.5,419,$,Cajun/Creole,saTt36ils7h5HM8A_DdGSg,Capitola,Santa Cruz County
+20959,Golden Fu Wah,36.98758,-121.95797,4610 Soquel Dr,95073,4.5,252,$$,Chinese,jXymrUth8YdD4E_GwECUOg,Soquel,Santa Cruz County
+20960,Star of Siam,36.98849487,-121.9575958,3005 Porter St,95073,4,240,$$,Thai,t4B6SBrhK9ql84eaXe3Ckg,Soquel,Santa Cruz County
+20961,El Chipotle Taqueria,36.98806,-121.95665,4724 Soquel Dr,95073,4.5,330,$,Mexican,9CFH4czcZQXpQ7bG_jBnGQ,Soquel,Santa Cruz County
+20962,Wasabi Sushi - Capitola,36.97857,-121.96933,3555 Clares St,95010,4.5,156,$$,Sushi Bars,rj9AL8JZCsqIPrHQMh9tWA,Capitola,Santa Cruz County
+20963,Vinocruz,36.98899088,-121.9543003,4901 Soquel Dr,95073,4.5,81,$$,Wine Bars,ovxD4DCi1xi8umzgxTWF9Q,Soquel,Santa Cruz County
+20964,Sunset Restaurant,37.00047204,-121.9842831,One Chaminade Ln,95065,3,7,$$$,American (Traditional),Hpv4qrbVuZ3yvXXERWyVww,Santa Cruz,Santa Cruz County
+20965,Silver Spur,36.98760605,-121.9720764,2650 Soquel Dr,95065,4.5,333,$$,Diners,s-F2-uSWUNgQ6cuU72rbQw,Santa Cruz,Santa Cruz County
+20966,Surf City Sandwich,36.98776,-121.96506,4101 B1 Soquel Dr,95073,4,274,$$,Sandwiches,APr6z__fdz_-80X8VyKZFg,Soquel,Santa Cruz County
+20967,San Marcos Charquito Tacos y Tortas,36.98016,-121.952763,718 Capitola Ave,95010,4.5,107,$,Mexican,RQMTv9_HUEmdlhl3TGdXHw,Capitola,Santa Cruz County
+20968,Bangkok West Thai Cuisine,36.984718,-121.932154,2505 Cabrillo College Dr,95003,4,218,$$,Thai,zPUhXsRy2G7-_TJd2GwGdw,Aptos ,Santa Cruz County
+20969,Sushi Garden,36.98206,-121.95515,820 Bay Ave,95010,4,387,$$,Sushi Bars,30h_dV3O-p5PX_yyRheBxg,Capitola,Santa Cruz County
+20970,Pizza My Heart,36.98082,-121.9644,2180 41st Ave,95010,4,266,$,Pizza,Ti8h15J3MxaRdIMfsVKpDA,Capitola,Santa Cruz County
+20971,Linwood's Bar & Grill,36.996283,-121.985313,1 Chaminade Ln,95065,2.5,79,$$$,American (New),yp7N8Q-FfEzB67rV0xx1Ow,Santa Cruz,Santa Cruz County
+20972,Gayle's Bakery & Rosticceria,36.97864,-121.95249,Upper Village Shopping Ctr,95010,4,1330,$$,Bakeries,qLmvOH65IhN3g7t7Ugqmtw,Capitola,Santa Cruz County
+20973,CafÃ© aRoma,36.98739243,-121.9576645,2841 Porter St,95073,4,51,$,Pizza,T-08k3GAMC975rjgC75gKg,Soquel,Santa Cruz County
+20974,Olive Garden Italian Restaurant,36.97778,-121.9691,3400 Clares St,95010,3,95,$$,Italian,MtT4rb3TGL94mWeIp5Q0_A,Capitola,Santa Cruz County
+20975,Sunrise Cafe,36.9879799,-121.9568176,4718 Soquel Dr,95073,4,187,$,American (Traditional),tpj4VUBTuGyUzpBH6SR09Q,Soquel,Santa Cruz County
+20976,Michael's On Main,36.98492,-121.95583,2591 S Main St,95073,3,352,$$,American (New),ooua2-slub15QXcEOnCbGg,Soquel,Santa Cruz County
+20977,Asian Express,36.97784,-121.96693,1955 41st Ave,95010,3.5,271,$,Vietnamese,tapqxINHZ-G_aGz6G7YKTg,Capitola,Santa Cruz County
+20978,The Fish Lady,36.98387,-121.95628,2510 S Main St,95073,3.5,77,$$,Seafood Markets,7QcPe9LQlRkOz-L0fpbFdQ,Soquel,Santa Cruz County
+20979,Carpo's Restaurant,36.98386383,-121.9567795,2400 Porter St,95073,3.5,289,$$,American (New),E296skjHbGLnPUxsC9Dtew,Soquel,Santa Cruz County
+20980,Best In Dogs,36.98469,-121.96357,2600 41 St Ave,95073,4.5,21,$,Food Stands,UToSq4rtTfO6Kz3tJm55sA,Soquel,Santa Cruz County
+20981,Garden Liquors & Deli,36.98933,-121.98007,1815 Soquel Dr,95065,4.5,218,$,"Beer, Wine & Spirits",aIGXTQyG-152cCih4KFtLA,Santa Cruz,Santa Cruz County
+20982,Aldo's Bakery & Cafe,36.98764,-121.95763,4628 Soquel Dr,95073,4,61,$$,Bakeries,yQ8Qtiufev5rtm7TpDk24g,Soquel,Santa Cruz County
+20983,Village Host Pizza & Grill,36.98135698,-121.956071,819-C Bay Ave,95010,4,75,$$,Pizza,vFvfGlHOh7ItO4wXaQzYzw,Capitola,Santa Cruz County
+20984,Ming's Palace,36.98804855,-121.9566727,4720 Soquel Dr,95073,3.5,91,$,Chinese,dfbr7woWi4U2kggGVZMsSQ,Soquel,Santa Cruz County
+20985,Tortilla Flats Restaurant,36.98765,-121.95792,4616 Soquel Dr,95073,3.5,195,$$,Mexican,kk-FPDh0k32shiZFDkEnZQ,Soquel,Santa Cruz County
+20986,Aj's Fuel Market,36.98926,-121.93622,5955 Soquel Dr,95073,4,159,$$,Grocery,RaMWWRP_pkrFCh6f23EpsA,Soquel,Santa Cruz County
+20987,El Chino Mexican Restaurant,36.98853,-121.97444,2525 Soquel Dr,95065,3.5,89,$$,Mexican,mVDCpg5kfcWDjT8ZmBwFJw,Santa Cruz,Santa Cruz County
+20988,Uncie Ro's Take and Bake Pizzas,36.986121,-121.968633,2901-A Research Park Dr,95060,4.5,30,$,Pizza,VUH8jVvwuK8eCpH-Ps4AEg,Santa Cruz,County of Santa Cruz
+20989,Little Tampico,36.98530664,-121.9552529,2605 S Main St,95073,3,149,$$,Mexican,fPsgHyJkmGRFJFA0hoqtzw,Soquel,Santa Cruz County
+20990,Mel's Market,36.98871,-121.97533,2425 Soquel Dr,95065,4,12,$$,Convenience Stores,5JOsg1DZqXlmRHgi7QxjYA,Santa Cruz,Santa Cruz County
+20991,Mayflower Chinese Restaurant,36.978569,-121.9693298,3555 Clares St,95010,3.5,74,$,Cantonese,WYtTqy9WowFVFvpr2Jkxrw,Capitola,Santa Cruz County
+20992,Upper Crust Pizza & Pasta,36.98843,-121.97482,2501 Soquel Dr,95065,3,68,$,Pizza,fUfacAw6uzRV9-H5ih0_2w,Santa Cruz,Santa Cruz County
+20993,Taco Bell,36.98622369,-121.9646998,2730 41st Ave,95073,2.5,47,$,Mexican,xDFkJBvmskXNWIveRiE2mg,Soquel,Santa Cruz County
+20994,Zizzo's Coffeehouse & Wine Bar,36.978845,-121.969357,3555 Clares St,95010,4.5,117,$,Coffee & Tea,pBCXMQAAnCZjRkMy3twsAg,Capitola,Santa Cruz County
+20995,Round Table Pizza,36.98469,-121.96356,2690 41st Ave,95073,2,79,$$,Pizza,VgcBOIspjubFNmAcPmpkJw,Soquel,Santa Cruz County
+20996,Peking Restaurant,36.984883,-121.965704,2623 41st Ave,95073,2.5,91,$,Chinese,4syEB7ehxkDt_Ys5DifTRw,Soquel,Santa Cruz County
+20997,Panda Express,36.98681826,-121.9646163,2740 41st Ave,95073,2.5,59,$,Chinese,QJJLYl5M1rC8ZxaLtMyuqw,Soquel,Santa Cruz County
+20998,The Bagelry,36.98869705,-121.9564972,4763 Soquel Dr,95073,3.5,104,$,Bagels,WZsL5oYan0e-QLk6yjSTgA,Soquel,Santa Cruz County
+20999,The Cook House,36.9789228,-121.9529029,706 Capitola Ave,95010,3.5,110,$,Breakfast & Brunch,3tVu85EWhffi2cnyEM557A,Capitola,Santa Cruz County
+21000,Sweet Pea's Cafe & Catering,36.9792,-121.96525,2121 41st Ave,95010,4,183,$,Creperies,tyVTdozcFiTnaH6yoWt28A,Capitola,Santa Cruz County
+21001,Chipotle Mexican Grill,36.97793297,-121.9662876,1955 41st Ave,95010,2.5,122,$,Mexican,2WcH_jNnHlIRw37kHM1IkA,Capitola,Santa Cruz County
+21002,Dairy Queen,36.98112928,-121.9551355,816 Bay Ave,95010,2.5,84,$,Fast Food,JOlgbRPfXPHzbdSQ_QNsbA,Capitola,Santa Cruz County
+21003,Erik's DeliCafÃ©,36.98875,-121.98111,1664 Soquel Dr,95065,3.5,99,$,Delis,78rBZUbkOSJSAOZGrqBW2A,Santa Cruz,Santa Cruz County
+21004,Taqueria Tepeque,36.978609,-121.969371,3555 Clares St,95010,3.5,92,$,Mexican,61i3-wyoJl1xsSex7bRbww,Capitola,Santa Cruz County
+21005,Big Foot Catering Truck,36.98646,-121.97599,2260 Soquel Dr,95065,2,6,$,Mexican,P2a9fth1mMTmpe4anapo5w,Santa Cruz,Santa Cruz County
+21006,Subway,36.98691,-121.96458,2740 41st Ave,95073,2.5,19,$,Sandwiches,1BWDQmDz8gwRdgsUT5EdQw,Soquel,Santa Cruz County
+21007,Santa Cruz Salmon Jerky,36.98412522,-121.9567609,2510 S Main St,95073,3,2,$$,Specialty Food,BifGIBXf8RrYFSCUfheWwQ,Soquel,Santa Cruz County
+21008,KFC,36.9795,-121.965,2120 41st Avenue,95010,3,31,$,Fast Food,Qy0ng3Or_KFR3jwDeJhJAQ,Capitola,Santa Cruz County
+21009,Domino's Pizza,36.977465,-121.970651,3555 Clares St,95010,2.5,65,$,Pizza,aXk7nnmJaWXejsH_HBdVMg,Capitola,Santa Cruz County
+21010,Burger King,36.97858994,-121.9653543,2001 - 41st Ave,95010,2,43,$,Fast Food,7JlaTDGlYJc03NmmDQYoNw,Capitola,Santa Cruz County
+21011,Togoâs Sandwiches,36.978042,-121.96624,1955 41st Ave,95010,3.5,36,$,Sandwiches,2DIG7_nEy1P4eqeSiSfiPw,Capitola,Santa Cruz County
+21012,Persephone,36.9776082,-121.906062,7945 Soquel Dr,95003,4.5,119,$$$,American (New),syIJD6bHli7Ynub-_LT36A,Aptos ,Santa Cruz County
+21013,Pino Alto Restaurant,36.98528,-121.92463,6500 Soquel Dr,95003,4.5,27,$$,Desserts,lLys7bzC8NTiseb609iy1Q,Aptos ,Santa Cruz County
+21014,Zameen Mediterranean Cuisine,36.9818339,-121.9104151,7528 Soquel Dr,95003,4,342,$$,Mediterranean,8RDPo8DbnFZJG-ZXrvjqHw,Aptos ,Santa Cruz County
+21015,Carried Away,36.9816389,-121.9101379,7564 Soquel Dr,95003,4.5,43,$$,Delis,YO6fOvVNUMMXTZ2IPJmtmQ,Aptos ,Santa Cruz County
+21016,Burger Aptos,36.97784,-121.906,7941 Soquel Dr,95003,3,461,$$,Burgers,MA0UBoQyjOHOlRF5OrQIcQ,Aptos ,Santa Cruz County
+21017,Taqueria Los Gordos,36.982044,-121.9107689,7488 Soquel Dr,95003,3.5,148,$,Mexican,rqNTlCNd1g6ecajIXx0kjA,Aptos ,Santa Cruz County
+21018,Severino's Bar & Grill,36.9793959,-121.910753,7500 Old Dominion Ct,95003,3.5,175,$$,Bars,1-lR8kWAJbeOxbLpU4m2cA,Aptos ,Santa Cruz County
+21019,Zameen Mediterranean Food Truck,36.9818089,-121.9103765,7528 Soquel Dr,95003,4.5,12,$,Food Trucks,jtEWDSnKThq4fp0Dk2-eKg,Aptos ,Santa Cruz County
+21020,The Farm Bakery & Cafe,36.9871788,-121.9215775,6790 Soquel Dr,95001,3.5,227,$$,Bakeries,5-u_xP9DhcRihL0jGrmYTA,Aptos ,Santa Crus County
+21022,Cafeteria,36.98893236,-121.9232356,6500 Soquel Dr,95003,4,3,$,Cafes,ryoU5SBysv0GT-eRYOTGxQ,Aptos ,Santa Cruz County
+21023,Taco Bell,36.97868107,-121.9064807,7887 Soquel Dr,95003,2.5,47,$,Fast Food,-rc7VZZzHCo1jfN-IhQ8mg,Aptos ,Santa Cruz County
+21024,Subway,36.97825403,-121.9062031,7887 Soquel Dr,95003,2,17,$,Fast Food,6EJQUDpXYyMfK2Bn0gf2mw,Aptos ,Santa Cruz County
+21025,Big J's Pizza,36.986538,-121.8069926,531 Corralitos Rd,95076,4,40,$,Pizza,Kc7A82zg0GuJfZimno8ppg,Watsonville,Santa Cruz County/Monterey County/Santa Clara
+21026,Corralitos Coffeehouse,36.98645,-121.80699,531 Corralitos Rd,95076,5,40,$,Coffee & Tea,ROf6nM0YwjBHx8JzH7mbOQ,Watsonville,Santa Cruz County/Monterey County/Santa Clara
+21151,West End Tap & Kitchen,36.959143,-122.047255,334D Ingalls St,95060,4,781,$$,Gastropubs,5LkUndNVZw7DZEkK02gvlg,Santa Cruz,County of Santa Cruz
+21152,VIM Dining & Desserts,36.96206,-122.04662,2238 Mission St,95060,4.5,11,unavailable,American (New),nEuo_3TxKjGa2b7LzWxWRQ,Santa Cruz,County of Santa Cruz
+21153,At Thai Recipe,36.9626491,-122.0440347,2106 Mission St,95060,4,306,$$,Thai,qcbQpqC_CWQZM2oEpxMHkg,Santa Cruz,County of Santa Cruz
+21154,Bantam,36.959026,-122.045365,1010 Fair Ave,95060,4,305,$$,Pizza,tKq5kgqk3mOv45e5EDOOtg,Santa Cruz,County of Santa Cruz
+21155,Parish Publick House,36.96110295,-122.0438101,841 Almar Ave,95060,4,251,$$,Bars,zi1jG5YJY5Q43TjO6dG6JQ,Santa Cruz,County of Santa Cruz
+21156,Burgerim,36.964,-122.04291,1820 Mission St,95060,3,47,unavailable,Burgers,n_Blgpya1NaA_cv5vuqwGw,Santa Cruz,County of Santa Cruz
+21157,Ristorante Avanti,36.9633522,-122.0426941,1917 Mission St,95060,3.5,399,$$,Italian,MLN6sDD1834AwuRbhgKl1w,Santa Cruz,County of Santa Cruz
+21158,Upper Crust Pizza & Pasta,36.9606492,-122.0484641,2415 Mission St,95060,3.5,246,$$,Pizza,ZPVRw_tIO22tHv1uiNaDmQ,Santa Cruz,County of Santa Cruz
+21159,Gary's Old Fashioned Snappy Dogs,36.96215,-122.04352,930 Almar St,95060,4.5,77,$,Hot Dogs,bF-byRuhGh5wricl_j15bg,Santa Cruz,County of Santa Cruz
+21160,La CabaÃ±a Taqueria,36.96125628,-122.047555,2332 Mission St,95060,3.5,344,$,Mexican,VapZOvFZfoUU6CRM1W6KHQ,Santa Cruz,County of Santa Cruz
+21161,Phoenix Asian Restaurant,36.96113205,-122.0466995,2301 Mission St,95060,3.5,190,$,Chinese,S-JdLktKxrGckfjY58Poew,Santa Cruz,County of Santa Cruz
+21162,Blaze Fast-Fire'd Pizza,36.96344,-122.0422,1901 Mission St,95060,4,58,$,Salad,RlOFgq93Th0WnDUO7g_rIA,Santa Cruz,County of Santa Cruz
+21163,Wingstop,36.961136,-122.04402,845 Almar Ave,95060,3,159,$,Chicken Wings,i10dzdE1tipfrtQo84GUiQ,Santa Cruz,County of Santa Cruz
+21164,Tam's Chinese Cuisine,36.96044922,-122.0480881,2403 Mission St,95060,3,146,$,Chinese,O_LMPYr45tHOlBHNISb6xQ,Santa Cruz,County of Santa Cruz
+21165,Taqueria Santa Cruz,36.96152,-122.04576,2215 Mission St,95060,3.5,238,$,Mexican,yz-tNeRtJiiWzE-dmvJLvQ,Santa Cruz,County of Santa Cruz
+21166,Cafe Iveta,36.95506287,-122.0502853,2125 Delaware Ave,95060,4,187,$,Cafes,DT74WaOqIZkiL1otlxNhQg,Santa Cruz,County of Santa Cruz
+21167,Aunt Nettie's Bakery & Kitchen,36.956004,-122.048699,2100 Delaware Ave,95060,4,6,unavailable,Bakeries,ORLLynKgP_wBr_Py6nXa5g,Santa Cruz,County of Santa Cruz
+21168,Panda Express,36.9623244,-122.0440814,2121 Mission St,95060,2.5,58,$,Chinese,zR4psCuKe2J34F2MzXYhhw,Santa Cruz,County of Santa Cruz
+21169,Domino's Pizza,36.9609169,-122.0479479,2391 Mission St,95060,2,131,$,Pizza,5pcC-eje__YgnD6h7R1D4w,Santa Cruz,County of Santa Cruz
+21170,Burger King,36.962791,-122.04337,2015 Mission Street,95060,2,40,$,Fast Food,Pok1wDDzMqntU5fL3OoVrg,Santa Cruz,County of Santa Cruz
+21171,Togoâs Sandwiches,36.9615028,-122.0438035,849-B Almar Ave,95060,3,39,$,Sandwiches,3k93A9xKvOl9J8AJQ9GOHQ,Santa Cruz,County of Santa Cruz
+21172,Subway,36.96152,-122.04576,2215 Mission St,95060,2,34,$,Sandwiches,Rl3B4XUieyUrg0Zzs7O8_Q,Santa Cruz,County of Santa Cruz
+21173,Laili Restaurant,36.9751836,-122.0263334,101B Cooper St,95060,4.5,1098,$$,Middle Eastern,TLb4owBDY03EKh77qsDgjQ,Santa Cruz,County of Santa Cruz
+21174,Hula's Island Grill and Tiki Room,36.97137451,-122.026207,221 Cathcart St,95060,4,1589,$$,Hawaiian,uXtTb8D7pxZDyqokyzG-SQ,Santa Cruz,County of Santa Cruz
+21175,Johnny's Harborside,36.967114,-122.001819,493 Lake Ave,95062,4,998,$$,Seafood,is2Klq-qucx02In-VwQsfA,Santa Cruz,Santa Cruz County
+21176,Betty's Noodle House,36.97091293,-122.0246582,920 Pacific Ave,95060,4,440,$,Asian Fusion,iPiwwA-3R5CuvcC-5vtxdQ,Santa Cruz,County of Santa Cruz
+21177,Mozaic,36.97455862,-122.0270147,110 Church,95060,4.5,491,$$,Mediterranean,vypo2wIK-h6C9nolntoW4w,Santa Cruz,County of Santa Cruz
+21178,BAD ANIMAL,36.97541,-122.02813,1011 Cedar St,95060,5,5,unavailable,Used Bookstore,r9mWec-TzXAKppp-ZGUePw,Santa Cruz,County of Santa Cruz
+21179,Surfrider CafÃ©,36.9714352,-122.0244956,429 Front St,95060,4,1100,$$,Burgers,jbSA7XuK6JTbpQzXpyKY_A,Santa Cruz,County of Santa Cruz
+21180,Alderwood Santa Cruz,36.97299,-122.02726,155 Walnut Ave,95060,4,149,unavailable,American (New),hvy75y-l_-qJF0bcjRCqLg,Santa Cruz,County of Santa Cruz
+21181,LÃºpulo Craft Beer House,36.97135716,-122.0265553,233 Cathcart St,95060,4.5,292,$$,Tapas Bars,XkE0NjKg9OudFRCuMbV7ZQ,Santa Cruz,County of Santa Cruz
+21182,Pono Hawaiian Grill,36.97591,-122.02828,120 Union St,95060,4,1412,$$,Hawaiian,yeZCdAu2LRdT8V8W6_LsmQ,Santa Cruz,County of Santa Cruz
+21183,Vida,36.96928,-122.03713,1203 Mission St,95060,5,1,unavailable,Breakfast & Brunch,yMNbMXKtOeaAmAInKQ2hfw,Santa Cruz,County of Santa Cruz
+21184,Nick The Greek,36.972491,-122.026064,1133 Pacific Ave,95060,4.5,28,unavailable,Greek,bRrE2Zph1opMewOejJTzCA,Santa Cruz,County of Santa Cruz
+21185,Oswald,36.97332066,-122.024732,121 Soquel Ave,95060,4,402,$$$,American (New),8UHFQ_WrRXYx2A6pAii5dg,Santa Cruz,County of Santa Cruz
+21186,Tramonti,36.96797,-122.00764,528 Seabright Ave,95062,4,559,$$,Italian,6y2vMGRsZPARDSJ8OvgG7g,Santa Cruz,Santa Cruz County
+21187,Harbor Cafe,36.96844,-121.99843,535 7th Ave,95062,4.5,1114,$$,American (Traditional),_XCdIXK6vKJf-D4jGpRXwQ,Santa Cruz,Santa Cruz County
+21188,Linda's Seabreeze Cafe,36.96830938,-122.007785,542 Seabright Ave,95062,4.5,920,$$,Breakfast & Brunch,NfTu97EwPOlzfDxDedc0gQ,Santa Cruz,Santa Cruz County
+21189,Sesame Korean Grill,36.97156906,-122.0244827,435 Front St,95060,4,195,$$,Korean,7EbK6Ak2CCSvEQ_DuerBAA,Santa Cruz,County of Santa Cruz
+21190,Sesame Korean Grill,36.97156,-122.02448,435 Front St,95060,4.5,15,unavailable,Korean,W1BNfpzB70nWE1y2_LZibg,Santa Cruz,County of Santa Cruz
+21191,Los Primos,36.97107,-122.01767,425 Barson St,95060,4.5,57,$,Mexican,fzpphtKC65M8F4fRtM0v_g,Santa Cruz,County of Santa Cruz
+21192,I Love Sushi,36.9725308,-122.024226,516 Front St,95060,4,1055,$$,Sushi Bars,HiFEoddE6n5mWTqnDLpKWg,Santa Cruz,County of Santa Cruz
+21193,Sala Thai,36.975006,-122.01935,353 Soquel Ave,95062,4,167,$$,Thai,#NAME?,Santa Cruz,Santa Cruz County
+21194,Cafe Campesino,36.9725484,-122.0255651,1130 Pacific Ave,95060,4.5,226,$,Mexican,zjj9bmH_xSLP2zhkcMG3Vw,Santa Cruz,County of Santa Cruz
+21195,La Posta,36.96818878,-122.0077941,538 Seabright Ave,95062,4,303,$$$,Italian,j1HCysEl45YkKa7Y0vQAnw,Santa Cruz,Santa Cruz County
+21196,Betty Burgers,36.96708,-122.00819,505 Seabright Ave,95062,4,964,$,Burgers,GRhVJcCVR9xjDtCn401x6w,Santa Cruz,Santa Cruz County
+21197,Firefish Grill,36.9599651,-122.0197212,25 Municipal Wharf,95060,3.5,1087,$$,American (New),-75Gjwlmz1EW7UTJGPXB3g,Santa Cruz,County of Santa Cruz
+21198,Vino Locale Wine Bar & Tapas,36.958544,-122.017904,55 B Municipal Wharf,95060,4.5,128,$$,Wine Bars,vOHupgwDX9hVMPZBtAme4g,Santa Cruz,County of Santa Cruz
+21199,Crow's Nest Restaurant,36.96329058,-122.0014841,2218 E Cliff Dr,95062,3.5,1548,$$,American (New),83EhuCeDN6tGoIANADc7nQ,Santa Cruz,Santa Cruz County
+21200,Pour Taproom,36.97440394,-122.026118,110 Cooper St,95060,4.5,314,$$,Beer Bar,gt58KWCt6qckN4rYSrxAUg,Santa Cruz,County of Santa Cruz
+21201,Sawasdee By The Sea,36.96349446,-122.0223394,101 Main St,95060,3.5,322,$$,Thai,FnUgKZ2yQBxBN8WPdA6oKg,Santa Cruz,County of Santa Cruz
+21202,Woodstock's Pizza Santa Cruz,36.97473071,-122.0249798,710 Front St,95060,4,893,$$,Pizza,GXYOmehywIgOR_IYCOKdFA,Santa Cruz,County of Santa Cruz
+21203,Mission St BBQ,36.9661,-122.0412,1618 Mission St,95023,4,532,$$,Barbeque,xwbr6LHlh5Tpj75F75dYRg,Hollister,San Benito/Santa Clara County
+21204,Lago Di Como,36.9633551,-121.991213,21490 E Cliff Dr,95062,4,345,$$,Italian,Tmr5F6x_yhSHjv6kTWNX5Q,Santa Cruz,Santa Cruz County
+21205,Stagnaro Bros,36.958183,-122.017717,59 Municipal Wharf,95060,3.5,868,$$,Seafood,bzJ2MdTjE2VDnnVQ9dGmfg,Santa Cruz,County of Santa Cruz
+21206,Jack O'Neill Restaurant and Lounge,36.96199,-122.02485,175 W Cliff Dr,95060,3.5,37,unavailable,Seafood,OgAGIwmoVjBUH_hLGzuSaQ,Santa Cruz,County of Santa Cruz
+21207,Malabar Restaurant,36.97251,-122.02403,514 Front St,95060,4,747,$$,Vegan,FlOc_y0Iv_QtmUuIUYW2pg,Santa Cruz,County of Santa Cruz
+21208,Mumbai Delights,36.969684,-122.024591,810 Pacific Ave,95060,4,213,$$,Indian,NfgEFWkZeMhkg0QUbULPZA,Santa Cruz,County of Santa Cruz
+21209,Splash!,36.95905293,-122.0184743,49 A Municipal Wharf,95060,3.5,354,$$,Seafood,N_5WRUi0Ni8rd5wjj9er9Q,Santa Cruz,County of Santa Cruz
+21210,Zachary's Restaurant,36.9699504,-122.0251244,819 Pacific Ave,95060,4,949,$$,American (Traditional),iyAlH5Eqq2Sp89DzUYLZkQ,Santa Cruz,County of Santa Cruz
+21211,The Picnic Basket,36.96315205,-122.0231331,125 Beach St,95060,4,721,$,Breakfast & Brunch,2SdhyRzf4S5EY5lo60Dz1Q,Santa Cruz,County of Santa Cruz
+21212,Cafe Mare Italian Restaurant,36.9754999,-122.02493,740 Front St,95060,3.5,325,$$,Italian,VtM2hnhUUkkJfqZoXyoU3A,Santa Cruz,County of Santa Cruz
+21213,Pizzeria La Bufala,36.97476031,-122.0258908,725 Front St,95060,4.5,71,$$,Pizza,tXA2SpZ79lyWxuTwjZkkgg,Santa Cruz,County of Santa Cruz
+21214,Ristorante Italiano,36.97652,-122.01757,555 Soquel Ave,95062,3.5,238,$$,Italian,S_QRpA_WF4hf2hsoYLihfQ,Santa Cruz,Santa Cruz County
+21215,Riva Fish House,36.961022,-122.021039,31 Municipal Wharf,95060,3.5,798,$$,Seafood,xT0kdPy0PFMyFZsM6iTSfg,Santa Cruz,County of Santa Cruz
+21216,Hom Korean Kitchen,36.9719226,-122.0253757,1102 Pacific Ave,95060,4,107,$,Korean,JgnCDc3UDBhEcoKYDQKqbg,Santa Cruz,County of Santa Cruz
+21217,Holy Smokes Country BBQ and Catering,36.9642155,-121.9894377,21505 East Cliff Ave,95062,4.5,48,$$,Barbeque,ojnAlhgB8g-rsWGlBEmevg,Santa Cruz,Santa Cruz County
+21218,El Palomar - Santa Cruz,36.97415,-122.02575,1336 Pacific Ave,95060,3.5,791,$$,Mexican,fA_xa6Tl9UDV9wpYNlx6kA,Santa Cruz,County of Santa Cruz
+21219,Hindquarter Bar & Grille,36.9744169,-122.0212147,303 Soquel Ave,95062,3.5,313,$$,Sports Bars,8AqDy6y7aDcQejtugfAX7A,Santa Cruz,Santa Cruz County
+21220,Cafe Gratitude Santa Cruz,36.9725529,-122.0259515,103 Lincoln St,95060,4,484,$$,Vegan,oLRfNwoxjUJlseFvgfE8aQ,Santa Cruz,County of Santa Cruz
+21221,Snap Taco,36.972115,-122.0255667,1108 Pacific Ave,95060,3.5,116,unavailable,Bars,LW-STC-pEnY27_9cE_D3Qw,Santa Cruz,County of Santa Cruz
+21222,Aloha Island Grille,36.96262,-121.98781,1700 Portola Dr,95062,4,428,$,Hawaiian,WpPfPwz--zi-McfCUTidHA,Santa Cruz,Santa Cruz County
+21223,Stagnaro Bros,36.96759,-122.0277,320 Washington St,95060,4.5,3,$$,Seafood,6RHBsEIO3pivCKOA8mFe-Q,Santa Cruz,County of Santa Cruz
+21224,La Montana Taqueria,36.966316,-122.017939,220 Leibrandt Ave,95060,4,42,$,Mexican,a5H2mdWwoZR3PBQ-E3kz3w,Santa Cruz,County of Santa Cruz
+21225,Fish & Fries,36.9642107,-122.0185246,400 Beach St,95060,4,4,unavailable,Seafood,2Vj5IAD44JJbhvI_OkUYzQ,Santa Cruz,County of Santa Cruz
+21226,Soif Wine Bar & Merchants,36.97331,-122.02627,105 Walnut Ave,95060,4,377,$$$,American (New),dP5W-LZV5yCJa6owX6-4qA,Santa Cruz,County of Santa Cruz
+21227,India Joze,36.97106552,-122.0238419,418 Front St,95060,4,154,$$,Indian,16Z5GForQgBtmtVgP1gSGg,Santa Cruz,County of Santa Cruz
+21228,Reef Bar & Restaurant,36.97591,-122.02828,120 Union St,95060,4,54,$$,Bars,76suMJBYu7o49T2W1QWGKQ,Santa Cruz,County of Santa Cruz
+21229,Rosie McCann's Irish Pub & Restaurant,36.97355652,-122.0256348,1220 Pacific Ave,95060,3.5,406,$$,Irish,I1IGLbIV5jMBX4bwpQOQsw,Santa Cruz,County of Santa Cruz
+21230,Veg On The Edge,36.974827,-122.025543,725 Front St,95060,4,126,$$,Vegan,H-1zhv2hry9NzbB_aEc0sA,Santa Cruz,County of Santa Cruz
+21231,Vasili's Greek Restaurant,36.96688843,-122.0394363,1501 Mission St,95060,4,587,$$,Greek,FGwoub91rMb06tGguvfuCg,Santa Cruz,County of Santa Cruz
+21232,Walnut Avenue CafÃ©,36.9735812,-122.0263666,106 Walnut Ave,95060,4,983,$$,Breakfast & Brunch,qMFWFAQNP7sNOhKwc0pAYQ,Santa Cruz,County of Santa Cruz
+21233,515 Kitchen & Cocktails,36.97131,-122.02706,515 Cedar St,95060,3.5,615,$$,American (New),jdNw6MLbMewljmEQWyUOVg,Santa Cruz,County of Santa Cruz
+21234,Surf City Kitchen,36.97484,-122.02602,110 Cooper St,95060,5,2,unavailable,American (New),B-WYYhOsljJXu22D2Uk4nw,Santa Cruz,County of Santa Cruz
+21235,Cafe Brasil,36.96765707,-122.0390973,1410 Mission St,95060,4,1713,$$,Brazilian,HGM6Hmrq39kfdRnc3uw6tg,Santa Cruz,County of Santa Cruz
+21236,Golden Palace,36.97375,-122.0189,415 Ocean St,95060,3,212,$$,Chinese,G2xHsV8L5ne5FHxi8F-t7Q,Santa Cruz,County of Santa Cruz
+21237,Jack's Hamburgers,36.97266,-122.02723,202 Lincoln St,95060,4,363,$,Burgers,GQ0rOczLSNumKh_mBc-43w,Santa Cruz,County of Santa Cruz
+21238,Pizza My Heart,36.972321,-122.025301,1116 Pacific Ave,95060,3.5,726,$,Pizza,38BiGzfG4YgGg4Cq_7e3fw,Santa Cruz,County of Santa Cruz
+21239,99 Bottles of Beer On The Wall,36.97364,-122.02644,110 Walnut Ave,95060,3.5,636,$$,American (Traditional),FfK-eqFuDRoWjMvlHET0Zw,Santa Cruz,County of Santa Cruz
+21240,Kianti's Pizza & Pasta Bar,36.97195053,-122.0251694,1100 Pacific Ave,95060,3.5,803,$$,Pizza,6GjZFC5tu5srrnP_RnyB-Q,Santa Cruz,County of Santa Cruz
+21241,Gilda's Family Restaurant,36.9615314,-122.0222247,37 Municipal Wharf,95060,3.5,463,$$,Seafood,RLypA82SDfXIHUqN_VqHqQ,Santa Cruz,County of Santa Cruz
+21242,Poke House - Santa Cruz,36.97618,-122.02728,1543 Pacific Ave,95060,4.5,82,$$,Poke,KtPSBeEyexkbPoXFT67mHg,Santa Cruz,County of Santa Cruz
+21243,Beach Street Pizza & Bar,36.9641,-122.02088,303 Beach St,95060,3.5,56,$$,Pizza,38CCQuLxErisZ3xvzbP-4g,Santa Cruz,County of Santa Cruz
+21244,Scrumptious Fish and Chips Food Trailer,36.97053,-122.02383,,95060,4.5,4,unavailable,Fish & Chips,MnurNlBc1INSsTp-8FweVQ,Santa Cruz,County of Santa Cruz
+21245,Zoccoli's Delicatessen,36.97605133,-122.0265198,1534 Pacific Ave,95060,4,698,$,Delis,bD5-lIjvV6miih3O1eqW_w,Santa Cruz,County of Santa Cruz
+21246,Surf City Billiards Bar & Cafe,36.9707325,-122.0253511,931 Pacific Ave,95060,4,164,$$,Pool Halls,fU2qUwaBRuNx0uwnve8jPg,Santa Cruz,County of Santa Cruz
+21247,HANLOH Thai Food,36.97051239,-122.0238266,,95060,5,10,$$,Thai,q7dnEswW528vqUv6GR_yWw,Santa Cruz,County of Santa Cruz
+21248,Olitas Cantina & Grill,36.95894623,-122.0184174,650 Municipal Wharf,95060,3.5,463,$$,Seafood,mIWVe7-FH8SFdtd-EOKnUg,Santa Cruz,County of Santa Cruz
+21249,burger.,36.96699,-122.04031,1520 Mission St,95060,3,1117,$$,Burgers,Jap7RgQzgIeZfKADvIo3vQ,Santa Cruz,County of Santa Cruz
+21250,Cafe El Palomar,36.962954,-122.00095,2222 E Cliff Dr,95062,3.5,220,$$,Mexican,uQd_p0hV6lO8f--vncadTA,Santa Cruz,Santa Cruz County
+21251,Chocolate,36.9756192,-122.026566,1522 Pacific Ave,95060,3.5,570,$$,Desserts,NgZ_btp9VdudY2gBlWY8xA,Santa Cruz,County of Santa Cruz
+21252,Engfer Pizza Works,36.96808243,-122.0081329,537 Seabright Ave,95062,4,209,$$,Pizza,QAVymli9S4jvMlnQUWa69g,Santa Cruz,Santa Cruz County
+21253,Coasters Bar & Grill,36.96509171,-122.0209961,115 Cliff St,95060,3,52,$,Bars,-5qm2pLiu-3fFQof1G4S8w,Santa Cruz,County of Santa Cruz
+21254,Saturn Cafe,36.96900806,-122.024559,145 Laurel St,95060,3.5,1540,$$,Vegetarian,TPOp1VIj4pytPGv62yKxFg,Santa Cruz,County of Santa Cruz
+21255,Dolphin Restaurant,36.95755768,-122.0173721,71 Municipal Wharf,95060,3,429,$$,Seafood,Y8A6hL4xe7V-fJbg9P9WUw,Santa Cruz,County of Santa Cruz
+21256,La Sofrita,36.97607606,-122.0288857,1001 Center St,95060,4.5,3,unavailable,Puerto Rican,LCqwwaQMsiSP0BATWXI_Uw,Santa Cruz,County of Santa Cruz
+21257,Las Palmas Taco Bar,36.96403,-122.02493,55 Front St,95060,3.5,486,$,Mexican,VU6k66iguM7ZkXWFqC6dTQ,Santa Cruz,County of Santa Cruz
+21258,Gabriella Cafe,36.97466316,-122.0275379,910 Cedar St,95060,3.5,362,$$,American (New),i5hjVyTA1-HQFJaZ57Oa5w,Santa Cruz,County of Santa Cruz
+21259,Shogun Japanese Restaurant,36.972473,-122.025665,1123 Pacific Ave,95060,3.5,423,$$,Japanese,#NAME?,Santa Cruz,County of Santa Cruz
+21260,De La Hacienda Taqueria,36.96862,-122.02805,354 Washington St,95060,4,167,$,Mexican,7ljEPi-gOu3PGy1PeGvB2A,Santa Cruz,County of Santa Cruz
+21261,Sabieng Thai Cuisine,36.969154,-122.037925,1218 Mission St,95060,3.5,474,$$,Thai,io-t_aqBt-i9HhqX8CimtA,Santa Cruz,County of Santa Cruz
+21262,Beer Cove,36.96427924,-122.0184569,400 Beach St,95060,4,2,unavailable,Beer Bar,4CxCuXVAwAH-TQ4N9M8jAw,Santa Cruz,County of Santa Cruz
+21263,Betty's Eat Inn,36.9737276,-122.025915,1222 Pacific Ave,95060,3.5,415,$$,Burgers,YCf5S_qaRZdbH11T1U8stg,Santa Cruz,County of Santa Cruz
+21264,Food Lounge,36.9759216,-122.0289001,1001 Center St,95060,4.5,17,$$,Cafes,0xvJyc0z83om57j1CHiEwA,Santa Cruz,County of Santa Cruz
+21265,Ideal Bar & Grill,36.96273,-122.02315,106 Beach St,95060,2.5,1110,$$,Cocktail Bars,AEm88WJ8gLSdZ3oddEvWGg,Santa Cruz,County of Santa Cruz
+21266,Hidden Peak Teahouse,36.97605515,-122.0271683,1541-C Pacific Ave,95060,4.5,135,$$,Tea Rooms,pmyuOUSRi9LanE9wvvnibw,Santa Cruz,County of Santa Cruz
+21267,Surf City Grill,36.96425,-122.017766,400 Beach St,95060,3.5,46,$,Burgers,w0K2uo-WPLb2B6ckMIItQg,Santa Cruz,County of Santa Cruz
+21268,Star bene Italian Argentine Restaurant,36.96450221,-121.9927984,2-1245 E Cliff Dr,95062,3.5,232,$$,Italian,pu6HQTUSlJlPohb_Z_ezrQ,Santa Cruz,Santa Cruz County
+21269,JalapeÃ±os Taqueria,36.969349,-122.025163,206 Laurel St,95060,4,113,$,Mexican,hzbjXdjav5zoVkjUuIVSuA,Santa Cruz,County of Santa Cruz
+21270,The Buttery,36.9768914,-122.015714,702 Soquel Ave,95062,4,1271,$$,Bakeries,937MfoGMxCqFGYVrbSR8pA,Santa Cruz,Santa Cruz County
+21271,Red Restaurant and Bar,36.9751801,-122.0280029,200 Locust St,95060,3.5,237,$$,American (New),3h8sNRUHX9NEZL-PI6dE8g,Santa Cruz,County of Santa Cruz
+21272,Royal Taj India Cuisine,36.97359467,-122.0219727,270 Soquel Ave,95062,3.5,164,$$,Indian,IVm86dxWaq1nTyBa5C-_tw,Santa Cruz,Santa Cruz County
+21273,Cafe Delmarette,36.972459,-122.025538,1126 Pacific Ave,95060,4.5,311,$,Coffee & Tea,GctNUWvjSu2A2GdYLF5NlA,Santa Cruz,County of Santa Cruz
+21274,Paradise Dogs,36.96154135,-122.0219707,Santa Cruz Municipal Wharf,95060,5,17,$,Hot Dogs,yjmaRHAEbAWkIFPGUPNvhg,Santa Cruz,County of Santa Cruz
+21275,El Hermoso Mar,36.9640906,-122.0206854,313 Beach St,95060,3,216,$$,Mexican,0EBAVHjePNFQHqbz9EzMMQ,Santa Cruz,County of Santa Cruz
+21276,Firefly Coffee House,36.9679828,-122.0238362,131 Front St,95060,4,251,$,Coffee & Tea,W0JveBM6AVr35_lr5-EXTg,Santa Cruz,County of Santa Cruz
+21277,Tabby Cat Cafe,36.97593,-122.02829,1101 Cedar St,95060,4.5,19,unavailable,Coffee & Tea,rzbqNpPg6DUiUIAaODmw6g,Santa Cruz,County of Santa Cruz
+21278,Falafel Hut,36.9641571,-122.0207138,309 Beach St,95060,3.5,217,$,Mediterranean,bImRNIKp4HPmfbMxzHKT9w,Santa Cruz,County of Santa Cruz
+21279,Falafel Of Santa Cruz,36.96701842,-122.0395456,1501 Mission St,95060,3.5,253,$,Middle Eastern,LVxBObrE_YAF0jwfxUtKjw,Santa Cruz,County of Santa Cruz
+21280,Yan Flower,36.96802521,-122.0248871,617 Pacific Ave,95060,3.5,209,$,Chinese,TcUB7FeJq_qJsxwPN7CymA,Santa Cruz,County of Santa Cruz
+21281,Solaire Restaurant + Bar,36.97683684,-122.0211807,611 Ocean St,95060,3.5,187,$$,American (New),RmgcQmmBFhAN7VZSFWAMxA,Santa Cruz,County of Santa Cruz
+21282,L&L Hawaiian BBQ,36.96749878,-121.997879,460 7th Ave,95062,3.5,141,$,Hawaiian,LBfxKR1HXOVklr1m9IFvLw,Santa Cruz,Santa Cruz County
+21283,El Buen Taco,36.97017,-122.02429,,95060,4.5,19,unavailable,Tacos,IU3OJCdlT92FsM8ohRiWig,Santa Cruz,County of Santa Cruz
+21284,Mobo Sushi,36.975193,-122.024631,105 S River St,95060,3.5,584,$$,Japanese,d2A_wgl4YsSGwlinpDSEXg,Santa Cruz,County of Santa Cruz
+21285,High tide,36.9719226,-122.0253757,1102 Pacific Ave,95060,3,18,unavailable,Korean,dAvc7sQze1OkG2gY5Tz2-w,Santa Cruz,County of Santa Cruz
+21286,Pacific Thai Santa Cruz,36.97377777,-122.0263062,1319 Pacific Ave,95060,3,353,$$,Thai,I3MajY2cY9IkoD43ok-xqw,Santa Cruz,County of Santa Cruz
+21287,Cafe LimeLight,36.97609,-122.027725,1016 Cedar St,95060,4,210,$$,Sandwiches,saXivekIEl-GCimOtRHvPw,Santa Cruz,County of Santa Cruz
+21288,Mandarin Gourmet,36.97522798,-122.027662,1010 Cedar St,95060,3.5,77,$,Cantonese,Ocezc6F8bDD7HZET_SIpmw,Santa Cruz,County of Santa Cruz
+21289,Aldos Harbor Restaurant,36.965689,-122.0038102,790 Mariner Pkwy,95062,3,418,$$,Breakfast & Brunch,4e5u40rWhqZPohpUalNE1g,Santa Cruz,Santa Cruz County
+21290,The Sandwich Spot,36.97149,-122.02494,1010 Pacific Ave,95060,4,146,$,Sandwiches,Z7eylCe8Lm9ERnEfg0pgEg,Santa Cruz,County of Santa Cruz
+21291,Jake's Coffee Bar,36.96385,-122.02433,46 Front St,95060,4.5,41,$$,Coffee & Tea,WAk_FakbparJnEO2Pb75HA,Santa Cruz,County of Santa Cruz
+21292,Crows Nest Beach Market,36.96329058,-122.0014841,2218 E Cliff Dr,95062,4.5,49,$$,Gift Shops,gU6jXr4FgkVAY8zOFQMBxw,Santa Cruz,Santa Cruz County
+21293,Woodies Cafe,36.96024,-122.02026,25 Municipal Wharf,95060,3,390,$$,Seafood,bky2_T74im9isBpKMKi3Kw,Santa Cruz,County of Santa Cruz
+21294,Steamer Lane Supply,36.9523536,-122.0261342,698 West Cliff Dr,95060,4.5,49,$$,Food Trucks,4xoMEfc1A-L_fROQVZQMDA,Santa Cruz,County of Santa Cruz
+21295,Sentinel Cafe,36.97405987,-122.0275378,877 Cedar St,95060,5,4,$,Cafes,uGWufE0OkaXyWV4Tyjmk-w,Santa Cruz,County of Santa Cruz
+21296,Pizzeria Avanti,36.96500778,-122.0413055,1711 Mission St,95060,4,129,$$,Pizza,GO_WHiqip0buq6XbLKsRVw,Santa Cruz,County of Santa Cruz
+21297,Good Dogs,36.96676289,-122.0080209,415 Seabright Ave,95062,5,4,unavailable,Food Trucks,M9-Z6ZkasgDiOmEaKxLR1w,Santa Cruz,Santa Cruz County
+21298,Taqueria Vallarta,36.97642,-122.01638,608 Soquel Ave,95062,3.5,186,$,Mexican,GlpRjhNai0rG-7iMwudfbA,Santa Cruz,Santa Cruz County
+21299,Beach Street Cafe,36.96419525,-122.0204163,399 Beach St,95060,3.5,270,$$,Breakfast & Brunch,ohT6joQ3Vww6KzSS0xVFSg,Santa Cruz,County of Santa Cruz
+21300,Sushi Totoro,36.96485519,-122.0413361,1701 Mission St,95060,3,354,$$,Japanese,n-ivEjgJR6PouH4Zdehd3Q,Santa Cruz,County of Santa Cruz
+21301,Your Place,36.9648984,-122.0413215,1719 Mission St,95060,3.5,370,$$,American (New),E-XU4l6DbixY3uSVJcVGSQ,Santa Cruz,County of Santa Cruz
+21302,Fusion,36.97280757,-122.0263709,110 Pearl Aly,95060,2,9,$$$,Bars,NBnvS0YeN5YX1xmRJCf_ig,Santa Cruz,County of Santa Cruz
+21303,Hot Dog on A Stick,36.96471384,-122.0146872,400 Beach St,95060,5,2,unavailable,Hot Dogs,iWNJcp7NHUs53iGmM5GkGw,Santa Cruz,County of Santa Cruz
+21304,Golden City,36.96889,-122.0381,1230 Mission St,95060,3.5,135,$$,Chinese,5MeRyOE2xLZEBD68xTFjnA,Santa Cruz,County of Santa Cruz
+21305,Fosters Freeze,36.9688797,-122.0259552,229 Laurel St,95062,3,48,$,Burgers,4n9klw6J59CStV28imHiHg,Santa Cruz,Santa Cruz County
+21306,Falafel House,36.973249,-122.02682,113 Walnut Ave,95060,3.5,180,$,Middle Eastern,H9peLd71cBIKdzCFskxprg,Santa Cruz,County of Santa Cruz
+21307,Far West Marine,36.96689224,-122.002121,493 Lake Ave,95062,5,1,unavailable,Seafood,kLaTKrH3yApuoQaslL8HLQ,Santa Cruz,Santa Cruz County
+21308,Taqueria Vallarta,36.96873,-122.0374,1221 Mission St,95060,3.5,195,$,Mexican,VirCiLPrXPBvgScP8pDKDQ,Santa Cruz,County of Santa Cruz
+21309,Day's Market Liquors & Deli,36.96777725,-122.0076294,526 Seabright Ave,95062,4,35,$,Grocery,Ffrar1Rh1wkSeVvRxuwP_Q,Santa Cruz,Santa Cruz County
+21310,Quickly,36.97132812,-122.0252021,1010 Pacific Ave,95060,2.5,133,$,Bubble Tea,mqrcCHOv-RODTNRdr8SqMQ,Santa Cruz,County of Santa Cruz
+21311,All Aboard,36.97475,-122.02557,725 Front St,95060,2.5,27,$,Seafood,#NAME?,Santa Cruz,County of Santa Cruz
+21312,Taco Bell,36.969463,-122.024593,802 Pacific Avenue,95060,2,109,$,Fast Food,h0W5nOqKyk_UkTZeHzPNPg,Santa Cruz,County of Santa Cruz
+21313,Blue Bunny Tacos,36.97513667,-122.0256383,118 Cooper St,95060,5,2,unavailable,Food Stands,Xqht3XxqHNiCrKVIO2tVOw,Santa Cruz,County of Santa Cruz
+21314,Windmill Cafe,36.964568,-121.993041,21231 E Cliff Dr,95062,4,279,$,Cafes,0d4gye2Y-_ERZc3eNKMu2w,Santa Cruz,Santa Cruz County
+21315,Little Caesar's Pizza,36.97055435,-122.0172958,233 Ocean St,95060,3,24,$,Pizza,9WvzRV8bS6b3dj5pctVWOg,Santa Cruz,County of Santa Cruz
+21316,Tater Twists,36.96423,-122.01686,400 Beach St,95060,3.5,9,$,Food Stands,0pSzT3P8kGItjlXEXAcPqg,Santa Cruz,County of Santa Cruz
+21317,Five Guys,36.971906,-122.0259209,1101 Pacific Ave,95060,2.5,75,$,Burgers,x_OFHKZR8rfyMUQzdxaTNQ,Santa Cruz,County of Santa Cruz
+21318,Taqueria Michoacan,36.96387,-121.99132,21401 E Cliff Dr,95062,3.5,206,$,Mexican,#NAME?,Santa Cruz,Santa Cruz County
+21319,Whiting's Foods,36.9649129,-122.0171923,613 Beach St,95060,3.5,14,$,Ice Cream & Frozen Yogurt,GEEthtiITKu-aSHKvx9aXA,Santa Cruz,County of Santa Cruz
+21320,Deke's Market,36.96567,-121.99802,334 7th Ave,95062,4.5,39,$,Grocery,FMxqb9_mQi6R4oAiVMVJVQ,Santa Cruz,Santa Cruz County
+21321,Sleight of Hand Pizza,36.97051239,-122.0238266,,95060,5,3,unavailable,Pizza,DDTOtRFGBaVrfTUCx9ORMg,Santa Cruz,County of Santa Cruz
+21322,Patio Pizza,36.96443,-122.02073,115 Cliff St,95067,3,9,$,Pizza,cVYqWIkE7EfJbkbTG9_alg,Scotts Valley,Santa Cruz County
+21323,Funnel Cakes,36.96423,-122.01686,400 Beach St,95060,4.5,2,unavailable,Desserts,Wb9YZXG9E4x5ImWwpOWyww,Santa Cruz,County of Santa Cruz
+21324,Union Foodie Truck,36.97411719,-122.0307962,,95060,4,2,unavailable,Food Trucks,FP-rRvYTqPztVmfP3k7Z7w,Santa Cruz,County of Santa Cruz
+21325,Lulu Carpenter's,36.97631454,-122.0271072,1545 Pacific Ave,95060,3.5,337,$,Coffee & Tea,HOxvIpXaWgUCdAEE-Xhnvw,Santa Cruz,County of Santa Cruz
+21326,Dipper Diner,36.964454,-122.016353,711 Beach St,95060,1.5,11,$,Diners,lFb3iBEnKYzkXH3Vy-lRQg,Santa Cruz,County of Santa Cruz
+21327,Emily's Good Things To Eat,36.9697,-122.03686,1129 Mission St,95060,3.5,240,$,Bakeries,fsia96EB4RJ3huc3WzsE7g,Santa Cruz,County of Santa Cruz
+21328,Dippin Dots,36.96423,-122.01686,400 Beach St,95060,4,7,$$$,Ice Cream & Frozen Yogurt,kOecDS-VntFXfOUcYPGbDQ,Santa Cruz,County of Santa Cruz
+21329,Carousel Cones,36.96423,-122.01686,400 Beach St,95060,5,2,unavailable,Ice Cream & Frozen Yogurt,bRbSsA7kQY4rQBK1jJqtJg,Santa Cruz,County of Santa Cruz
+21330,Barbary Coast,36.96401017,-122.0190915,400 Beach St,95060,2.5,29,$,Fast Food,cNHRyjjV3HsjgphuObBwHQ,Santa Cruz,County of Santa Cruz
+21331,Pleasure Pizza,36.9751805,-122.0265181,1415 Pacific Ave,95060,2.5,109,$,Pizza,YsPJ-GaQDVT4BTi637PIlQ,Santa Cruz,County of Santa Cruz
+21332,Deep Fried Twinkies,36.964264,-122.018925,400 Beach St,95060,3,25,$,Desserts,FrxsI4CDT8-APJFscBMyjA,Santa Cruz,County of Santa Cruz
+21333,McDonald's,36.96712158,-122.0390457,1421 Mission St,95060,2.5,81,$,Fast Food,dsppbthsIlbCai3MEU8sMw,Santa Cruz,County of Santa Cruz
+21334,Subway,36.96998,-122.02532,825 Pacific Ave,95060,1.5,29,$,Sandwiches,EDxP56XR2J-m5xee9PMmVA,Santa Cruz,County of Santa Cruz
+21335,Taco Bell,36.96759,-122.03886,1405 Mission Street,95060,2,70,$,Tex-Mex,g1cswv6nBLrUszjab0h9Pw,Santa Cruz,County of Santa Cruz
+21336,Little Caesar's Pizza,36.963009,-121.987522,1701 Portola Dr,95062,3,14,$,Pizza,JsAIa3a6XplserLhKst6ng,Santa Cruz,Santa Cruz County
+21337,SeÃ±ior Ted's,36.96512985,-122.0149994,100-104 Beach St,95060,3,1,unavailable,Mexican,AEWlrP5up7yD0Vp44hOzYQ,Santa Cruz,County of Santa Cruz
+21338,La Barrenada Restaurant,36.9640388,-122.0208691,313 Beach St,95067,2.5,60,$$,Seafood,040LTbZJkuThW7FmhT05Uw,Scotts Valley,Santa Cruz County
+21339,Beach Tacos & Nachos,36.96423,-122.01686,400 Beach St,95060,1,1,unavailable,Tacos,sCpzz6qrua-EfAb3f34YmQ,Santa Cruz,County of Santa Cruz
+21340,Shadowbrook Restaurant,36.974603,-121.955767,1750 Wharf Rd,95010,4,2443,$$$,American (Traditional),ipBKCCdQ0SvmlXK8VkJGIA,Capitola,Santa Cruz County
+21341,East End Gastropub,36.9723332,-121.9670485,1501 41st Ave,95010,4.5,265,$$,Beer Bar,NZRjntGOVIPYg730M7Z7Ow,Capitola,Santa Cruz County
+21342,Margaritaville,36.9724209,-121.9525377,231 Esplanade,95010,4,544,$$,Seafood,5xm3zQQXKUShXIR2ppCoXQ,Capitola,Santa Cruz County
+21343,Sotola Bar & Grill,36.972468,-121.952692,231 Esplanade,95010,4,275,$$,American (New),flYOUfG1Cms1wvc8d4OKrQ,Capitola,Santa Cruz County
+21344,Caruso's Restaurant,36.9723904,-121.951687,115 San Jose Ave,95010,4.5,333,$$,Italian,6qNKNlYRTYBNk3WNu4yh3A,Capitola,Santa Cruz County
+21345,Paradise Beach Grille,36.9722,-121.95235,215 Esplanade,95010,3.5,663,$$,American (New),Lg9c2t1d2n36rfxSwBuifA,Capitola,Santa Cruz County
+21346,Dharma's Restaurant,36.9733,-121.96198,4250 Capitola Rd,95010,4,629,$$,Vegetarian,y0ZAHq3rVVwxFdbV6HuS9A,Capitola,Santa Cruz County
+21347,Mijo's Taqueria,36.9728,-121.95027,200 Monterey Ave,95010,4.5,161,$,Mexican,Xna0T_LDdPex6GC_9svgMw,Capitola,Santa Cruz County
+21348,Miyako Japanese Restaurant,36.97604824,-121.9636361,1820 41st Ave,95010,4,215,$$,Japanese,AXUX-i4mPyVCfMwwL2WlbQ,Capitola,Santa Cruz County
+21349,Zameen At The Point,36.96424625,-121.9650651,851 41st Ave,95062,4.5,134,$$,Falafel,19g2fFxJjsSJq-Q4pHv2Vw,Santa Cruz,Santa Cruz County
+21350,Sapporo Ramen,36.96907,-121.96418,1200 41st Ave,95010,3.5,47,unavailable,Ramen,IybHi4GNnbC-1vXk2vat6Q,Capitola,Santa Cruz County
+21351,Thai Basil,36.9732399,-121.95025,210 Monterey Ave,95010,4,214,$,Thai,kVoN3Da1oBoGTy8AEJewpQ,Capitola,Santa Cruz County
+21352,Bella Roma Caffe,36.97366,-121.95252,316 Capitola Ave,95010,4,136,$$$,Italian,3k4-8yoIkJXeV3qVURJBFA,Capitola,Santa Cruz County
+21353,Cork and Fork Capitola,36.97342,-121.9522,312 Capitola Ave,95010,4,21,$$,Wine Bars,vBko-e8LkmQZBemBPKNiag,Capitola,Santa Cruz County
+21354,Naka Sushi,36.969082,-121.964124,1200 41st Ave,95010,4,209,$$,Japanese,xeol2pqw9xNohdlZulvpxw,Capitola,Santa Cruz County
+21355,The Point Market,36.95569896,-121.9723072,23040 E Cliff Dr,95062,4.5,269,$,Cafes,8OuDGeV4Ru_VjbQIa_2w7A,Santa Cruz,Santa Cruz County
+21356,Avenue Cafe,36.97511,-121.95387,427 Capitola Ave,95010,4.5,296,$$,Cafes,nuvlWUQg96LoPAfvv05P0g,Capitola,Santa Cruz County
+21357,Bellagio Gelati e Panini,36.9627,-121.96513,743 41st Ave,95062,5,21,unavailable,Delis,rylpvcYLDfyDXk-s8WspMA,Santa Cruz,Santa Cruz County
+21358,Suda,36.96289063,-121.9662857,3910 Portola Dr,95062,3.5,348,$$,American (New),kbj65zpSINLWUnXvoOwZZw,Santa Cruz,Santa Cruz County
+21359,The Sand Bar,36.9720001,-121.9520721,211 Esplanade,95010,3.5,159,$$,Cocktail Bars,EzHgFAPNz775APe0mbgczw,Capitola,Santa Cruz County
+21360,Guang Zho Chinese Restaurant,36.96315384,-121.9725266,3150 Portola Dr,95062,4,196,$,Chinese,780CtMczg6tUJhgMy1ce2g,Santa Cruz,Santa Cruz County
+21361,Kaito,36.9643118,-121.9648083,830 41st Ave,95062,3.5,278,$$,Sushi Bars,WHJPa6pSjQyZAGQvhd5j3Q,Santa Cruz,Santa Cruz County
+21362,Left Coast Sausage Worx,36.9722705,-121.951735,107 San Jose Ave,95010,4.5,56,$,Hot Dogs,WZ_kfVFt7HgFfE0WNYCHyQ,Capitola,Santa Cruz County
+21363,iCrave,36.97285011,-121.9665941,1601 41st Ave,95010,4.5,127,$,Creperies,zZrNgHj0dy1_p5Wd-0i5OA,Capitola,Santa Cruz County
+21364,Betty Burgers,36.96602,-121.96462,1000 41st Ave,95062,3.5,363,$,Burgers,gyv6qOJVnVwnxbviCZ7mVA,Santa Cruz,Santa Cruz County
+21365,Bay Bar & Grill,36.9719586,-121.951989,209 Esplanade,95010,4,64,$,Bars,xQBLVQG-2IssNTgFfgM6ug,Capitola,Santa Cruz County
+21366,Zelda's,36.9719399,-121.95195,203 Esplanade,95010,2.5,936,$$,Bars,nxmYIEAHZ9ztfP9ix9PZcQ,Capitola,Santa Cruz County
+21367,Canton,36.96485,-121.96453,900 41st Ave,95062,3.5,233,$$,Chinese,mjvr9c14kkQZKE-tAuvMcw,Santa Cruz,Santa Cruz County
+21368,Beach Break by Marianne's,36.9726728,-121.9523463,104 Stockton Ave,95010,4.5,43,$,Ice Cream & Frozen Yogurt,p650li4UOFUKSkDl-roxqg,Capitola,Santa Cruz County
+21369,Pizza My Heart,36.972076,-121.9521328,209 Esplanade,95010,4,289,$,Pizza,wWTeA-jdMDjH6CXIHwb7gw,Capitola,Santa Cruz County
+21370,The Point Chop House & Lounge,36.9631958,-121.971489,3326 Portola Dr,95062,3,196,$$,Steakhouses,g44UgAdUkoo-ekxfY-EWNA,Santa Cruz,Santa Cruz County
+21371,Wharf House Restaurant,36.970677,-121.953646,1400 Wharf Rd,95010,3,237,$$,Breakfast & Brunch,4UWCrMqVmsTtghugkCzn_g,Capitola,Santa Cruz County
+21372,Britannia Arms,36.97221,-121.95031,110 Monterey Ave,95010,3,212,$$,Pubs,P8KdDs0QgI7FBS4pQ0c3wA,Capitola,Santa Cruz County
+21373,Castagnola Deli & Cafe,36.9730044,-121.9506798,201 Monterey Ave,95010,4,84,$,Cafes,_icdRohDCCYDNH2pdJRsbg,Capitola,Santa Cruz County
+21374,My Thai Beach,36.97199249,-121.9521942,207 Esplanade,95010,3,178,$$,Thai,tkmrHx7iRgamQMrUKUsJfQ,Capitola,Santa Cruz County
+21375,Pleasure Pizza East Side Eatery,36.9636703,-121.9647651,800 41st Ave,95062,3.5,372,$$,Pizza,Z8igS2fVpT194bfmED133w,Santa Cruz,Santa Cruz County
+21376,Salsa's Taco Bar,36.9707999,-121.98415,1710 Brommer St,95062,4,203,$,Mexican,kNVawFMnSZ0uxhM6LhLXVg,Santa Cruz,Santa Cruz County
+21377,SandCastle Cafe,36.97279,-121.95212,110 Stockton Ave,95010,4.5,6,unavailable,Coffee & Tea,_SZahr1XXkN3YpbfvjwuoA,Capitola,Santa Cruz County
+21378,Dynasty Restaurant,36.96379,-121.96906,3601 Portola Dr,95062,3.5,136,$$,Chinese,GDKlYTpuHUHWoENCLyrCqQ,Santa Cruz,Santa Cruz County
+21379,Cole's BBQ & Catering,36.96313477,-121.9753876,2590 Portola Dr,95062,3,299,$$,Barbeque,b4MQKPa-CoWXrGJrarFBhQ,Santa Cruz,Santa Cruz County
+21380,Chinese Village Restaurant,36.97312927,-121.9679947,3780 Capitola Rd,95062,3.5,100,$$,Chinese,z-m742Zapcx6yuRaA8okiw,Santa Cruz,Santa Cruz County
+21381,Tacos Moreno,36.97343506,-121.9663837,1601 41st Ave,95010,3.5,185,$,Tacos,#NAME?,Capitola,Santa Cruz County
+21382,Cliff Cafe,36.9639013,-121.9649584,815 41st Ave,95062,4,172,$$,Breakfast & Brunch,xeiUfXJKAfjoMZD-M2Vfhw,Santa Cruz,Santa Cruz County
+21383,Casa Rosita's,36.9633351,-121.975411,2608 Portola Dr,95062,3.5,143,$$,Mexican,qvCBUU3s1sFJI-wFP3Y6OA,Santa Cruz,Santa Cruz County
+21384,Chili's,36.976111,-121.966399,1855 41st Ave,95010,2.5,212,$$,Tex-Mex,0I_69FSidLQoO4ppPK5stA,Capitola,Santa Cruz County
+21385,Geisha,36.9728,-121.95027,200 Monterey Ave,95010,3.5,299,$$,Japanese,8rMEsHtuVJyRF5eKQAMBBQ,Capitola,Santa Cruz County
+21386,Cruz N Gourmet,36.97525,-121.95715,,95010,4.5,26,$,Food Stands,vM44wH_bYuddekTltFnQcw,Capitola,Santa Cruz County
+21387,El Toro Bravo,36.9722309,-121.9506843,123 Monterey Ave,95010,3,162,$$,Mexican,#NAME?,Capitola,Santa Cruz County
+21388,Taqueria Vallarta,36.96514,-121.96527,893 41st Ave,95062,3.5,205,$,Tacos,35Lm91Q6x0qx0FvUlMEyBg,Santa Cruz,Santa Cruz County
+21389,Five Guys,36.9758354,-121.9677387,1855 41st Ave,95010,2.5,95,$$,Burgers,iA70Zn7ZOrEL28OzilWveQ,Capitola,Santa Cruz County
+21390,Paula's,36.96312714,-121.9703217,3500 Portola Dr,95062,4,151,$,Breakfast & Brunch,U-rDq4QbcXlN9kuYZWxr3Q,Santa Cruz,Santa Cruz County
+21391,Pleasure Pizza,36.96317,-121.96514,4000 Portola Dr,95062,3.5,239,$,Pizza,YtqlRzUsQOQhYOqLAzB60w,Santa Cruz,Santa Cruz County
+21392,Capitola Diner,36.97678757,-121.9642563,1900 41st Ave,95010,3,107,$$,Diners,E2r-YOS2jaLgQBsvNgBJ2w,Capitola,Santa Cruz County
+21393,Sorabol,36.975676,-121.968517,1855 41st Ave,95010,3,34,$,Korean,4OWvd_FskO4GG_zdQ0NR1w,Capitola,Santa Cruz County
+21394,Mountain Mike's Pizza,36.96391317,-121.9678878,3715 Portola Dr,95062,3,136,$$,Pizza,0ceMlLqzfOzPE4ZDz9qmDg,Santa Cruz,Santa Cruz County
+21395,Chill Out Cafe,36.96373093,-121.9651199,860 41st Ave,95062,3.5,236,$,Coffee & Tea,Zn7oBdbc6Ly3dTJLgOlmSg,Santa Cruz,Santa Cruz County
+21396,Erik's Deli Cafe,36.9711157,-121.9651249,1475 41st Ave,95010,3.5,62,$,Sandwiches,vVZjMmGg_1XyO3s3PKl0uw,Capitola,Santa Cruz County
+21397,IHOP,36.97272,-121.96516,1549 41st Ave,95010,3,145,$$,Breakfast & Brunch,LCvfNRkqGILnD18OeMDqqA,Capitola,Santa Cruz County
+21398,McDonald's,36.97530761,-121.9637216,1760 41st Ave,95010,2.5,49,$,Fast Food,0zjWCDKpKYRxv2UNTxYAeQ,Capitola,Santa Cruz County
+21399,The Original Ferrell's Donuts,36.97648,-121.98321,1761 17th Ave,95062,3.5,57,$,Donuts,NBZ9adGusT4NgGXbQ1MTJw,Santa Cruz,Santa Cruz County
+21400,Capitola Grille,36.97678757,-121.9642563,1900 41st Ave,95010,2.5,6,$$,American (Traditional),vIOl_yzT0LdUrwkqY9Zftw,Capitola,Santa Cruz County
+21401,Subway,36.9690704,-121.96418,1200 41st Ave,95010,2,7,$,Sandwiches,yewG9ox6VO-o5K6lGmPQeA,Capitola,Santa Cruz County
+21402,Subway,36.9759712,-121.9661331,1855 41st Ave,95010,1.5,11,$,Sandwiches,NK-BIXGKz1K-6RhACSfXpA,Capitola,Santa Cruz County
+21403,Aptos St BBQ,36.97686,-121.89941,8059 Aptos St,95003,4.5,1190,$$,Barbeque,P0v3XM-86Ahmn6SxjLboUQ,Aptos ,Santa Cruz County
+21404,Manuel's Mexican Restaurant,36.9741478,-121.9117508,261 Center Ave,95003,4,594,$$,Mexican,38IxBD4e9yskP9uOKE9a_A,Aptos ,Santa Cruz County
+21405,Cafe Sparrow,36.97695777,-121.9008691,8042 Soquel Dr,95003,4.5,491,$$,French,_zWdsI6VqSLjV3O3yD5_Xg,Aptos ,Santa Cruz County
+21406,Parish Publick House,36.97668,-121.90325,8017 Soquel Dr,95003,4,117,$$,Irish Pub,ycIJNBkEgLSRagpNc7RLqw,Aptos ,Santa Cruz County
+21407,Cafe Rio Aptos,36.96953706,-121.9055418,131 Esplanade,95003,3.5,292,$$,American (New),grZch6k7Z_PtbMxCmxVhDg,Aptos ,Santa Cruz County
+21408,Pixie Deli,36.96924,-121.90455,111 Venetian Rd,95003,4,212,$$,Delis,YjfjiZEf27PCUmUbLD3LvA,Aptos ,Santa Cruz County
+21409,Akira,36.97638422,-121.9001351,105 D Post Office Dr,95003,4,99,$$,Sushi Bars,JFyH-5OTqIq4VKidUGxAkQ,Aptos ,Santa Cruz County
+21410,Ambrosia India Bistro - Aptos,36.97560671,-121.9126769,207 Sea Ridge Rd,95003,4,393,$$,Indian,BLfmnjfXJ3yZzk6-6-7mmA,Aptos ,Santa Cruz County
+21411,Showtime Pizzeria,36.9764399,-121.90572,7960 Soquel Dr,95003,4,82,$,Pizza,arExPGtdE4SYwp1Vqh9KaQ,Aptos ,Santa Cruz County
+21412,Panda Inn,36.97405,-121.8884,783 Rio Del Mar Blvd,95003,4,163,$$,Chinese,grTZn_HfUk8ik13Qiz4QCg,Aptos ,Santa Cruz County
+21413,Cantine Winepub,36.97650368,-121.9007068,8050 Soquel Dr,95003,4,81,$$,Wine Bars,1qPH8cQ5qkCdcPuHjVRHOQ,Aptos ,Santa Cruz County
+21414,Sanderlings,36.950559,-121.87709,1 Seascape Resort Dr,95003,3.5,274,$$,Seafood,CQgdCfgGvzsOZUME_KxjaA,Aptos ,Santa Cruz County
+21415,Bittersweet Bistro,36.9747376,-121.8885376,787 Rio Del Mar Blvd,95003,3,375,$$$,American (New),fP1haVuWmJCw9CwJHaDM6A,Aptos ,Santa Cruz County
+21416,The Hole In The Wall Cafe,36.97415,-121.91154,257 Center Ave,95003,3.5,327,$$,Breakfast & Brunch,MbdzPsaBLC9pDqM5BKaOpQ,Aptos ,Santa Cruz County
+21417,Palapas Restaurant & Cantina,36.95235644,-121.8772013,21 Seascape Vlg,95003,3,324,$$,Mexican,IPz8_5XAKiu3tRmSDQ4rbg,Aptos ,Santa Cruz County
+21418,Pizza 1,36.97416,-121.9114,253 Center Ave,95003,3.5,151,$$,Pizza,yVIxgrOj78tNE84SWSdBOw,Aptos ,Santa Cruz County
+21419,Bogey's Bar and Gril,36.969661,-121.888921,610 Clubhouse Dr,95003,3.5,3,$,Bars,bUtHr3ayM7mbrdZ7FCliYQ,Aptos ,Santa Cruz County
+21420,Beach Break @ the Ship,36.97189879,-121.912605,202 Seacliff Dr E,95003,3.5,3,$,Ice Cream & Frozen Yogurt,8U52MxeHEI1ZqTYC2pNXOA,Aptos ,Santa Cruz County
+21421,Flats Bistro,36.96964,-121.90571,113 Esplanade,95003,3.5,58,$,Pizza,QS5E6QLwFd5wHlMUi49Njw,Aptos ,Santa Cruz County
+21422,FIT Sop Cafe,36.953197,-121.8756066,1505 Seascape Blvd,95003,5,3,$$,Salad,j6N8N7TGJpuaHcfgMumDzw,Aptos ,Santa Cruz County
+21423,Seascape Foods,36.9526046,-121.8771178,16 Seascape Village,95003,4.5,96,$$,Grocery,XvC7vGUhr5q9cyT18F3NSQ,Aptos ,Santa Cruz County
+21424,Sno-White Drive In,36.9747763,-121.9122757,223 State Park Dr,95003,3,114,$,Burgers,yVeNMbrafpNgnxGhH7-7sw,Aptos ,Santa Cruz County
+21425,Erik's DeliCafÃ©,36.97680446,-121.906935,102 Rancho Del Mar,95003,4,68,$,Delis,HMAECkykK3lC2kRF9j6gVQ,Aptos ,Santa Cruz County
+21426,Uncle Kwok's Szechwan Restaurant,36.9764399,-121.90572,7960 Soquel Dr,95003,3,75,$$,Szechuan,npWEXoiHH3A50TQegRm2vw,Aptos ,Santa Cruz County
+21427,California Coffee,36.97591,-121.88621,9105 Soquel Dr,95003,4,83,$,Coffee & Tea,HJYoVp70AMTdO6L5oOYjbQ,Aptos ,Santa Cruz County
+21428,Mangiamo Pizza,36.974496,-121.88922,783 Rio Del Mar,95003,3,106,$$,Pizza,KeVDftAUxAnS6sFNEfHjDQ,Aptos ,Santa Cruz County
+21429,Village Host Pizza & Grill,36.9525194,-121.8766199,4 Seascape Village,95003,3,156,$$,Pizza,7NsislqvEroF5yFyZN0_MA,Aptos ,Santa Cruz County
+21430,Red Apple Cafe,36.974156,-121.89028,783 Rio Del Mar Blvd,95003,3.5,284,$$,Breakfast & Brunch,fkl8SwVJoR2vDisU6nu2Eg,Aptos ,Santa Cruz County
+21431,Aptos Seascape Golf Course-Restaurant & Banquet Facilities,36.96589,-121.88658,610 Clubhouse Dr,95003,1,2,unavailable,American (New),biVuiQRPEpE4d1JziVy5Pg,Aptos ,Santa Cruz County
+21432,CafÃ© Bittersweet,36.9746639,-121.8885376,787 Rio Del Mar Blvd,95003,3.5,106,$$,Breakfast & Brunch,HewN0aia1b2Vf9veOVHcag,Aptos ,Santa Cruz County
+21433,Hong Kong Garden Restaurant,36.9525794,-121.8770725,14 Seascape Vlg,95003,3,85,$,Chinese,LwTtJLEMPhFUxOcUNVXrUw,Aptos ,Santa Cruz County
+21434,The Palm Deli,36.97642,-121.88652,3000 Valencia Ave,95003,4,147,$,Delis,drcA_9A3fFrm1fT7KiJTlg,Aptos ,Santa Cruz County
+21435,Palapas,36.95069665,-121.8750351,1525 Calypso Dr,95003,2,4,unavailable,Mexican,Ue666iPWhDjo_IHCCnrLVA,Aptos ,Santa Cruz County
+21436,Deer Park Shopping Center,36.974375,-121.889269,783 Rio Del Mar Blvd,95003,4,4,$$,Delis,lwvI1aoUtVM17E1BmA7aSQ,Aptos ,Santa Cruz County
+21437,Sid's Smokehouse,36.97166,-121.87463,10110 Soquel Dr,95003,3,318,$$,Barbeque,QzI9i4ZaYOCSq6MzgRGy4w,Aptos ,Santa Cruz County
+21438,Wooden Nickel Bar and Grill,36.93462709,-121.7731122,1819 Freedom Blvd,95019,4,251,$$,Bars,fhRU_kVubFD-rPMpq3Gxyw,Freedom ,Santa Cruz County
+21439,El Azteca Mexican Restaurant,36.9640694,-121.8092804,2904 Freedom Blvd,95076,4,60,$,Mexican,MHEzFTWHrOQp__HStj8ewA,Watsonville,Santa Cruz County/Monterey County/Santa Clara
+21440,Cadillac Cafe,36.964043,-121.809599,2906 Freedom Blvd,95076,4,100,$$,American (Traditional),-5dYVOFlR7fUFDM_EZ745w,Watsonville,Santa Cruz County/Monterey County/Santa Clara
+21441,Ranch Milk,36.93474,-121.77418,1 S Green Valley Rd,95019,4,126,$,Mexican,AwMraJ0wrJ-vONZo79nwBQ,Freedom ,Santa Cruz County
+21442,Freedom Meat Lockers,36.93902,-121.77177,160 Hi Grade Ln,95019,4.5,253,$$,Butcher,BtClZ6P_4vbwjGDuUdkLlw,Freedom ,Santa Cruz County
+21443,Four Corners Market,36.97145,-121.7957,1003 Amesti Rd,95076,4.5,10,$,Grocery,0GXyUdCDIjp-ezHAK4fsTw,Watsonville,Santa Cruz County/Monterey County/Santa Clara
+21444,El Michoacano,36.9393815,-121.7752344,1998 Freedom Blvd,95019,4,63,$$,Mexican,0WhsInPCl-WGCOFrnp6x9Q,Freedom ,Santa Cruz County
+21445,Ella's At The Airport,36.9342218,-121.7879458,100 Aviation Way,95076,3.5,379,$$,Breakfast & Brunch,4TUEqhV-aJxa8JynC8QIlw,Watsonville,Santa Cruz County/Monterey County/Santa Clara
+21446,Happy Garden Chinese Restaurant,36.9377928,-121.7765962,1980 Freedom Blvd,95019,3.5,93,$$,Chinese,f2n2GIprO9AMMofbJjhHnQ,Freedom ,Santa Cruz County
+21447,Straw Hat Pizza,36.938461,-121.777173,2026 Freedom Blvd,95019,4,114,$$,Pizza,TSwFpGbvPt5fD-3GWuYpAg,Freedom ,Santa Cruz County
+21448,Taqueria Mi Tierra II,36.93411255,-121.7716141,1726 Freedom Blvd,95019,4,77,$$,Mexican,Rv1I29-RvGzWl-FpD15gPQ,Freedom ,Santa Cruz County
+21449,Roger's Diner,36.93589,-121.77316,11 Green Valley Rd,95019,3.5,108,$$,American (Traditional),8vi9FyOtznccfkACK9YE3Q,Freedom ,Santa Cruz County
+21450,Doughnut Basket,36.93837738,-121.7778931,2022 Freedom Blvd,95019,3.5,19,$,Donuts,fEE6rHk7rZwuA7XE2kMNFQ,Freedom ,Santa Cruz County
+21451,Flightline Cafe and Rec Center,36.941111,-121.785164,Naval Base Ventura County,93042,4,4,$,Cafes,FJLgV-W5y6zDktw8mK7X0g,Point Mugu Nawc,Ventura County
+21452,Fidel's Mexican Food,36.9339433,-121.7833683,301 Airport Rd,95019,2.5,39,$,Mexican,16UGuPX2HyBTVM9JfRafqw,Freedom ,Santa Cruz County
+21453,Carl's Jr,36.93512,-121.77406,1901 Freedom Blvd,95019,1.5,27,$,Burgers,5TD7X9_del4LDWR3kwQCEA,Freedom ,Santa Cruz County
+21454,KFC,36.935,-121.773,1610 Freedom Boulevard,95076,2.5,9,$,Chicken Wings,NFiI4dDqHNbXvpWyChVG1A,Watsonville,Santa Cruz County/Monterey County/Santa Clara
+21455,Subway,36.9377612,-121.776552,1964 Freedom Blvd,95019,1,7,$,Sandwiches,rKUcL10fVS0Bwov0fR2GLg,Freedom ,Santa Cruz County
+21456,Mariscos El Nayarita II,36.933723,-121.743209,1922 E Lake Ave,95076,3.5,28,$$,Seafood,KExkhSskLyrSLJ7xT5Sq2A,Watsonville,Santa Cruz County/Monterey County/Santa Clara
+21457,Mi Rancho,36.93542,-121.74369,2233 E Lake Ave,95076,4.5,3,$$,Mexican,f8N6Lhze_xE3yV2ENgGHTQ,Watsonville,Santa Cruz County/Monterey County/Santa Clara
+21458,La Chilanguita Restaurant,36.93542,-121.74369,2233 E Lake Ave,95076,3,4,unavailable,Mexican,qk7OKv327InDNKXRSHix3A,Watsonville,Santa Cruz County/Monterey County/Santa Clara
+21461,Tiki Hut Dole Whip,36.96423,-122.01686,400 Beach St,95060,5,8,$$,Food Stands,VDPGX5Jr8Os9IAJg8GasVg,Santa Cruz,County of Santa Cruz
+21462,California Grill Of The Pajaro Valley,36.9302207,-121.7776013,40 Penny Ln,95076,4,278,$$,American (Traditional),Zv3-l71Z7IhqMAdagFMGaA,Watsonville,Santa Cruz County/Monterey County/Santa Clara
+21463,Taqueria Mi Tierra,36.9289504,-121.7671238,1471 Freedom Blvd,95076,3.5,56,$,Mexican,ntB8ATRAcSrEPGqCTKChIQ,Watsonville,Santa Cruz County/Monterey County/Santa Clara
+21464,Fosters Freeze,36.92985535,-121.7682648,1487 Freedom Blvd,95076,3,25,$,Burgers,y5QWFUutCr0qJXh7xkIRDQ,Watsonville,Santa Cruz County/Monterey County/Santa Clara
+21465,Taco Bell,36.932632,-121.775628,14 Green Valley Road,95019,2,16,$,Fast Food,D4Iy6_LVqGjFl0p1APs1SA,Freedom ,Santa Cruz County
+21466,Little Caesar's Pizza,36.93139648,-121.7687149,1504 Freedom Blvd,95076,2.5,12,$,Pizza,kMYii8DmMSzm3T5nM6ij4A,Watsonville,Santa Cruz County/Monterey County/Santa Clara
+21467,Wendy's,36.9298,-121.76698,1480 Freedom Blvd,95076,2,16,$,Fast Food,0qA-hwvH1LiE87RxyV-19A,Watsonville,Santa Cruz County/Monterey County/Santa Clara
+21468,Long John Silver's,36.93256,-121.76989,1610 Freedom Blvd,95076,3,2,$$,Fast Food,kW7bcW-TXouw24UDqPq16w,Watsonville,Santa Cruz County/Monterey County/Santa Clara
+21469,Jack in the Box,36.93344816,-121.7709079,1700 Freedom Blvd,95019,2.5,17,$,Fast Food,0m5MxL4qMukytSdjJpXm6A,Freedom ,Santa Cruz County
+21470,McDonald's,36.93216184,-121.7696453,1598 Freedom Blvd,95076,1.5,20,$,Burgers,HAtFF5D6IqrXHZuNJ1wtQQ,Watsonville,Santa Cruz County/Monterey County/Santa Clara
+,,,,,,,,,,,,
