@@ -1,26 +1,25 @@
-# Foodie's Paradise
+# Yelp Fusion API Calls for Bay Area Restaurants
 
-Using Yelp Fusion API to determine which city in the Bay Area is best suited for a foodie to live or vist.
+This is the final version of code to extract full dataset (within scope of project) of Bay Area restaurants from Yelp API. Failed attempts are outlined in sub-directory labeled 'scrapped'. These  preceding trials are divided in stages and described in more detail in sub-directory. Otherwise, for more information on final stable code, continue below:
 
 
 ### SETUP
 
-RESOURCES
-* cities.csv - list of cities to compare
-* grid_coordinates.csv - list of coordinates for a grid based on cities.csv
-* restaurant_data.csv - output data of query results from city_calls.ipynb
-* restaurant_data_rating.csv - output data of query results from city_calls_rating.ipynb
-* General - directory for storing assignment directions and misc items
 
 JUPYTER WORKBOOKS
-* calls_by_city.ipynb - Makes Yelp API calls by city
-* calls_by_city_ratings.ipynb - Same as city_calls.ipynb but sorts queries by rating when making calls
-* coordinates_grid.ipynb - Outputs list of coordinates to make a grid using cities.csv as input
-* calls_by_coord.ipynb - Makes Yelp API calls by coordinate
-* calls_by_coord_ratings.ipynb - Same as coord_calls.ipynb but sorts queries by rating when making calls
-* calls_by_zip.ipynb - Makes Yelp API calls by zip code, only returns first 50 results for each zip code
-* plot_coord.ipynb - Creates scatter plot using lat/lng and total restaurants at each coordinate pair
 
+* coordinates_grid.ipynb - Creates GPS coordinates grid covering the Bay Area and stores in grid_coordinates2.csv
+
+* calls_by_coord_ver2.ipynb - Makes API calls using coordinates in grid_coordinates2.csv and stores results in restaurant_data_coords3.csv. Analysis into results show 2 coordinates with > 1k results, warranting further queries on the pair to ensure valid results were not missed (see below).
+
+* calls_for_2_coords_rating_ver2.ipynb - Makes additional queries on the 2 coordinates identified above with a sort-by-rating and stores results in restaurant_data_coords_ratings3.csv. Ensures the top-1k restaurants in those 2 coordinates are represented in final dataset.
+
+
+RESOURCES
+
+* grid_coordinates2.csv - Coordinates for a grid covering Bay Area with 3 mi intervals
+* restaurant_data_coords3.csv - Raw dataset from Yelp API that contains all restaurants in Bay Area, except limited results from 2 coordinates.
+* restaurant_data_coords_ratings3.csv - Raw dataset of the top-1k restaurants for each of the 2 coordinates with limited results in restaurants_data_coords3.csv
 
 ### METHODOLOGY
 
