@@ -1,8 +1,8 @@
 WORKBOOKS
 
-* calls_by_coord_ratings.ipynb - Same as coord_calls.ipynb but sorts queries by rating when making calls
-
 * calls_by_coord.ipynb - Makes Yelp API calls by coordinate
+
+* calls_by_coord_ratings.ipynb - Same as coord_calls.ipynb but sorts queries by rating when making calls
 
 * calls_for_2_coords_rating.ipynb - Makes additional queries on 2 coordinates, with ratings sort adjustment to extract Yelp's top 1k results. Provides extra assurance that top restaurants in those busy areas are represented in final dataset.
 
