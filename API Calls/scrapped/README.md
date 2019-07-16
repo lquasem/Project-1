@@ -24,6 +24,7 @@ POSSIBLE SOLUTION: Abandon search by cities entirely and look for more precise p
 POSSIBLE SOLUTION: Research geocoordinate and radius parameters
 
 4 - API CALLS BY GEOCOORDINATES
+ 
 First run of calls used set in grid_coordinates.csv, intervals of 5 mi. The search radius of 5 mi
 was hardcoded into calls_by_coord.ipynb
 * Dataset more complete but also many duplicate results due to overlapping searches. Could cause problems with maxing out daily call limit of 5k if coordinate set is large enough
