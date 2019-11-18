@@ -5,6 +5,7 @@ Data analysis project ranking food scenes of Bay Area counties.
 Created using Yelp API, Jupyter Notebook, Pandas, & Matplotlib.
 
 ![intro](Resources/Images/foodinthehood.png)
+
 By: Phillip Choi, Carly Russell, Natalie Stanislov, Loba Quasem
 
 ### BACKGROUND
