@@ -20,6 +20,7 @@ Data analysis project ranking food scenes of Bay Area counties.
 </span>
 <br>
 <br>
+<br>
 An introductory exploration of extracting and visualizing data from APIs. The main goal of this study is to identify best neighborhoods for dining in a vast Bay Area. Restaurants are grouped by zip code then converted to county. 
 
 Due to time constraints of the project, scope was limited to SF and surrounding areas at the county level. Analysis focuses on cuisine types and count of restaurants rated 3.5 plus. Heatmap on right depicts concentration of Bay Area restaurants, regardless of rating.
