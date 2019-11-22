@@ -1,7 +1,7 @@
 # ALL FOOD IN THE HOOD - Analysis based on Yelp data
 
 <p align="center">
-![intro](Resources/Images/foodinthehood.png)
+<img src="Resources/Images/foodinthehood.png">
 </p>
 
 Data analysis project ranking food scenes of Bay Area counties.
