@@ -5,7 +5,7 @@
 </p>
 
 ## OVERVIEW
-<img src="Resources/Images/count_per_coord_yellow.PNG" width="360" align="right"/>
+<img src="Resources/Images/count_per_coord_yellow.PNG" width="400" align="right"/>
 
 Data analysis project ranking food scenes of Bay Area counties. Created using Yelp API, Jupyter Notebook, Pandas, & Matplotlib.
 
@@ -19,7 +19,7 @@ Authors:
 <a href="https://github.com/lquasem">Loba Quasem</a>
 </span>
 
-An introductory exploration of extracting and visualizing data from APIs. The main goal of this study is to identify and recommend best neighborhoods for dining in a vast Bay Area. Restaurants are grouped by zip code then converted to corresponding county. 
+An introductory exploration of extracting and visualizing data from APIs. The main goal of this study is to identify best neighborhoods for dining in a vast Bay Area. Restaurants are grouped by zip code then converted to county. 
 
 Due to time constraints of the project, scope was limited to San Francisco & surrounding areas at the county level. Analysis focuses on cuisine types and counts of restaurants rated 3.5 and above. Heatmap on right depicts highest concentrations of Bay Area restaurants regardless of rating.
 
