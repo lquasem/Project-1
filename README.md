@@ -11,11 +11,13 @@ By: Phillip Choi, Carly Russell, Natalie Stanislov, Loba Quasem
 
 <a href="All food in the hood.pptx">Powerpoint Presentation</a>
 
-An introductory exploration of extracting and visualizing data from APIs. The main goal of this study is to identify and recommend best neighborhoods for dining in a vast Bay Area. Due to time constraints of the project, scope was limited to San Francisco & surrounding areas at the county level.
-
 <p align="center">
-  <img src="Resources/Images/count_per_coord_yellow.PNG" width="480"/>
-  <b>Heat map of highest concentrations of restaurants in the Bay Area</b>
+  An introductory exploration of extracting and visualizing data from APIs. The main goal of this study is to identify and  recommend best neighborhoods for dining in a vast Bay Area. Due to time constraints of the project, scope was limited to San Francisco & surrounding areas at the county level.
+  <div>
+    <img src="Resources/Images/count_per_coord_yellow.PNG" width="360"/>
+    <br>
+    <b>Heat map of highest concentrations of restaurants in the Bay Area</b>
+  </div>
 </p>
 
 <p align="center">
