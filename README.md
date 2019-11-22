@@ -31,5 +31,5 @@ An introductory exploration of extracting and visualizing data from APIs. The ma
   <br>
   <img src="Resources/Images/cuisine.png" height="400"/>
   <br>
-    <b>Supplemental chart segments the restaurant counts by cuisine type to show variety</b>
+    <b>Supplemental chart segments by cuisine type to show variety</b>
 </p>
