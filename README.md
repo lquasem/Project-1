@@ -9,7 +9,7 @@
 
 Data analysis project ranking food scenes of Bay Area counties.
 
-<a href="All food in the hood.pdf">Powerpoint PDFn</a>
+<a href="All food in the hood.pdf">Powerpoint PDF</a>
 
 Authors:
 <span>
