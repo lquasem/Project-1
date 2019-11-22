@@ -1,16 +1,16 @@
-# ALL FOOD IN THE HOOD - Analysis based on Yelp data
-
+# ALL FOOD IN THE HOOD
 <p align="center">
   <img src="Resources/Images/foodinthehood.png">
   <br>
-  Data analysis project ranking food scenes of Bay Area counties.
 </p>
 
+## OVERVIEW
+Data analysis project ranking food scenes of Bay Area counties. 
+<br>
 Created using Yelp API, Jupyter Notebook, Pandas, & Matplotlib.
 <br>
 By: Phillip Choi, Carly Russell, Natalie Stanislov, Loba Quasem
-
-### BACKGROUND
+<a href="All food in the hood.pptx">Presentation</a>
 <br>
 <p align="center" style="bold">
   <img src="Resources/Images/count_per_coord_yellow.PNG" width="480"/>
