@@ -12,14 +12,12 @@ Data analysis project ranking food scenes of Bay Area counties. Created using Ye
 <a href="All food in the hood.pptx">Powerpoint Presentation</a>
 
 Authors:
-<br>
+<span>
 <a href="https://github.com/beezmo">Phillip Choi</a>
-<br>
 <a href="https://github.com/carussell1984">Carly Russell</a>
-<br>
 <a href="https://github.com/datamoa">Natalie Stanislov</a>
-<br>
 <a href="https://github.com/lquasem">Loba Quasem</a>
+</span>
 
 An introductory exploration of extracting and visualizing data from APIs. The main goal of this study is to identify and recommend best neighborhoods for dining in a vast Bay Area. Restaurants are grouped by zip code then converted to corresponding county. 
 
