@@ -12,6 +12,7 @@ By: Phillip Choi, Carly Russell, Natalie Stanislov, Loba Quasem
 ### BACKGROUND
 <p align="center">
 <img src="Resources/Images/count_per_coord_yellow.PNG" width="480"/>
+<br>
 Heat map of highest concentrations of restaurants in the Bay Area
 </p>
 
@@ -19,8 +20,10 @@ An introductory exploration of extracting and visualizing data from APIs. The ma
 
 <p align="center">
 <img src="Resources/Images/rating.png" height="400"/>
+<br>
 Final chart compares count and distribution of ratings between all counties.
 <br>
 <img src="Resources/Images/cuisine.png" height="400"/>
+<br>
 Supplemental chart shows divides restaurant counts into cuisine types to show variety.
 </p>
