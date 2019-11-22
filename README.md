@@ -5,21 +5,17 @@
 </p>
 
 ## OVERVIEW
-Data analysis project ranking food scenes of Bay Area counties. 
-<br>
-Created using Yelp API, Jupyter Notebook, Pandas, & Matplotlib.
+Data analysis project ranking food scenes of Bay Area counties. Created using Yelp API, Jupyter Notebook, Pandas, & Matplotlib.
 <br>
 By: Phillip Choi, Carly Russell, Natalie Stanislov, Loba Quasem
-<a href="All food in the hood.pptx">Presentation</a>
 <br>
-<p align="center" style="bold">
-  <img src="Resources/Images/count_per_coord_yellow.PNG" width="480"/>
-  <br>
-    <b>Heat map of highest concentrations of restaurants in the Bay Area</b>
-</p>
+<a href="All food in the hood.pptx">Powerpoint Presentation</a>
 <br>
 An introductory exploration of extracting and visualizing data from APIs. The main goal of this study is to identify and recommend best neighborhoods for dining in a vast Bay Area. Due to time constraints of the project, scope was limited to San Francisco & surrounding areas at the county level.
-<br>
+<figure>
+  <img src="Resources/Images/count_per_coord_yellow.PNG" width="480" align="right"/>
+  <figcaption>Heat map of highest concentrations of restaurants in the Bay Area</figcaption>
+</figure>
 <br>
 <br>
 <p align="center">
