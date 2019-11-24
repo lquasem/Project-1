@@ -2,6 +2,7 @@
 <p align="center">
   <img src="Resources/Images/foodinthehood.png">
   <br>
+  Yelp API Data Extraction and Analyis Project
 </p>
 
 ## OVERVIEW
